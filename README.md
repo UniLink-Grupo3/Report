@@ -296,25 +296,225 @@ del ABET – EAC - Student Outcome 5.
 
 
 
-## 4.2. Tactital-Level Domain-Driven Design
+## 4.2. Tactical-Level Domain-Driven Design
 
-### 4.2.X Bounded Context: "Bounded Context Name"
+### 4.2.1. Bounded Context: Gestión de Viajes Compartidos
 
-### 4.2.X.1. Domain Layer
+<table border="1">
+  <thead>
+    <tr>
+      <th>Clase</th>
+      <th>Propósito</th>
+      <th>Atributos</th>
+      <th>Métodos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Viaje</strong></td>
+      <td>Representa una cuenta de usuario registrada en el sistema.</td>
+      <td>
+        <ul>
+        <li>id</li>
+        <li>origen</li>
+        <li>destino</li>
+        <li>fecha</li>
+        <li>hora</li>
+        <li>cupos</li>
+        <li>precio</li>
+        <li>idConductor</li>
+        </ul>
+        </td>
+      <td>
+        <ul>
+        <li>agregarPasajero()</li>
+        <li>eliminarPasajero()</li>
+        <li>cerrarViaje()</li>
+        </ul>
+        </td>
+    </tr>
+    <tr>
+      <td><strong>Solicitud</strong></td>
+      <td>Representa una solicitud de un pasajero para unirse a un viaje.</td>
+      <td>
+        <ul>
+        <li>id</li>
+        <li>idViaje</li>
+        <li>idPasajero</li>
+        <li>estado</li>
+        </ul>
+        </td>
+      <td>
+        <ul>
+        <li>aceptar()</li>
+        <li>rechazar()</li>
+        </ul>
+        </td>
+    </tr>
+    <tr>
+      <td><strong>Pasajero</strong></td>
+      <td>Estudiante que se une al viaje.</td>
+      <td>
+        <ul>
+        <li>id</li>
+        <li>nombre</li>
+        <li>fotoPerfil</li>
+        </ul>
+        </td>
+      <td>
+        </td>
+    </tr>
+    <tr>
+      <td><strong>Conductor</strong></td>
+      <td>Estudiante que ofrece su vehículo.</td>
+      <td>
+        <ul>
+        <li>id</li>
+        <li>nombre</li>
+        <li>vehiculo</li>
+        </ul>
+        </td>
+      <td>
+        <ul>
+        <li>crearViaje()</li>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
-### 4.2.X.2. Interface Layer
+<strong>Relaciones:</strong><br>
+<ul>
+    <li>Un Viaje tiene múltiples Solicitudes.</li>
+    <li>Un Conductor puede tener múltiples Viajes.</li>
+    <li>Un Pasajero puede enviar muchas Solicitudes.</li>
+</ul>
 
-### 4.2.X.3. Application Layer
+#### 4.2.1.1. Domain Layer
 
-### 4.2.X.4. Infrastructure Layer
+<strong>Entidades</strong><br>
+<ul>
+    <li>Viaje: Representa un viaje publicado por un conductor.</li>
+    <li>Solicitud: Representa la solicitud de un estudiante para unirse a un viaje.</li>
+</ul>
 
-### 4.2.X.5. Bounded Context Software Architecture Component Level Diagrams
+<strong>Value Objects</strong><br>
+<ul>
+    <li>Ruta: Representa el punto de partida y destino del viaje.</li>
+    <li>Horario: Representa el horario de salida y llegada del viaje.</li>
+</ul>
 
-### 4.2.X.6. Bounded Context Software Architecture Code Level Diagrams
+<strong>Aggregates</strong><br>
+<ul>
+    <li>Viaje: Contiene a la entidad conductor y la lista de solicitudes de pasajeros.</li>
+</ul>
 
-### 4.2.X.6.1. Bounded Context Domain Layer CLass Diagram
+<strong>Domain Services</strong><br>
+<ul>
+    <li>PlanificadorDeViajesService: Lógica de validación de disponibilidad de los viajes para los estudiantes.</li>
+</ul>
 
-### 4.2.X.6.2. Bounded Context Data base Design Diagram
+<strong>Interfaces</strong><br>
+<ul>
+    <li>IViajeRepository: Define los métodos para manejar los viajes.</li>
+    <li>ISolicitudRepository: Define los métodos para manejar las solicitudes de viaje.</li>
+</ul>
+
+#### 4.2.1.2. Interface Layer
+
+<strong>Controllers</strong><br>
+<ul>
+    <li>ViajeController (publicar viajes, listar, ver detalles)</li>
+    <li>SolicitudController (enviar/aceptar/rechazar)</li>
+</ul>
+
+<strong>Consumers</strong><br>
+<ul>
+    <li>Procesan eventos recibidos desde otros servicios o sistemas.
+</li>
+</ul>
+
+#### 4.2.1.3. Application Layer
+
+<strong>Event Handlers</strong><br>
+<ul>
+    <li>PublicarViajeCommandHandler</li>
+    <li>SolicitarViajeCommandHandler</li>
+    <li>AceptarSolicitudCommandHandler</li>
+    <li>SolicitudAceptadaEventHandler</li>
+</ul>
+
+#### 4.2.1.4. Infrastructure Layer
+
+<strong>Clases implementadas</strong><br>
+<ul>
+    <li>ViajeRepositorySQL</li>
+        - Implementa: IViajeRepository<br>
+        - Responsabilidad: Esta clase se encarga de la gestión de viajes en la base de datos. Implementa los métodos definidos en la interfaz, como guardar un viaje nuevo, buscar un viaje por su ID, y listar viajes activos.
+</ul>
+
+<ul>
+    <li>SolicitudRepositorySQL</li>
+        - Implementa: ISolicitudRepository<br>
+        - Responsabilidad: Se encarga de almacenar y consultar las solicitudes de viaje hechas por los usuarios. Esta clase accede a la base de datos para registrar solicitudes, aceptarlas o rechazarlas.
+</ul>
+
+#### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
+
+El diagrama muestra los componentes principales de la "Gestión de Viajes Compartidos". La Aplicación Móvil interactúa con los Controladores de Viajes y Solicitudes. Estos controladores utilizan los Servicios correspondientes para la lógica de negocio, los cuales se apoyan en el ValidadorDeReglas. Las flechas indican las interacciones y dependencias entre los componentes.
+
+Para una mejor comprensión, puede visualizar el Architecture Component Level Diagrams. (Ver figura 4.16).
+
+<p align="center">
+  <img align="center" src="assets/bound context 1 diagrams c4.png"></p>
+<p align="center"><em>Figura 4.16: Component Diagrams de C4 Model nivel 3 - Primer Bounded Context</em></p>
+
+#### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
+
+<strong>Descripción del diagrama:</strong><br>
+Este diagrama representa la estructura de las clases del Backend API de Usuarios para la gestión de usuarios y autenticación. Las clases y sus relaciones son las siguientes:
+
+Para una mejor comprensión, puede consultar el Architecture Code Level Diagrams. (Ver figura 4.17).
+
+<p align="center">
+  <img align="center" src="assets/bound contex 1 Domain Layer Class Diagrams-1 .png"></p>
+<p align="center"><em>Figura 4.17: Primero - Architecture Code Level Diagrams - Primer Bounded Context</em></p>
+
+<br><strong>Descripción del diagrama:</strong><br>
+Aquí se detalla el comportamiento de la clase SolicitudService, encargada de gestionar el ciclo de vida de una solicitud de viaje: creación, aceptación o rechazo. Se visualiza su relación con la entidad Solicitud y los repositorios involucrados.
+
+Para una mejor comprensión, puede consultar el Architecture Code Level Diagrams. (Ver figura 4.18).
+
+<p align="center">
+  <img align="center" src="assets/bound contex 1 Domain Layer Class Diagrams-2 .png"></p>
+<p align="center"><em>Figura 4.18: Segundo - Architecture Code Level Diagrams - Primer Bounded Context</em></p>
+
+**Enlace de los Architecture Code Level Diagrams:** [Ver en lucidChart](https://lucid.app/lucidchart/ba7eb10c-e544-4fc8-b804-4b6c61c27512/edit?viewport_loc=-545%2C652%2C4185%2C1849%2C0_0&invitationId=inv_486fb944-f084-487f-9a62-6dd27fdd0cd6)
+
+##### 4.2.1.6.1 Bounded Context Domain Layer Class Diagrams
+
+<strong>Descripción:</strong><br>
+Este diagrama representa las clases del Domain Layer del Bounded Context “Gestión de Viajes Compartidos”. Se incluyen las entidades principales como Viaje, Solicitud, Conductor y Pasajero, así como objetos de valor Ruta y Horario, el servicio de dominio PlanificadorDeViajesService, la enumeración EstadoSolicitud y las interfaces de repositorio.
+
+Para mayor información, visualizar la (ver figura 4.19).
+
+<p align="center">
+  <img align="center" src="assets/bound context 1 Layer Class Diagrams.png"></p>
+<p align="center"><em>Figura 4.19: Domain Layer Class Diagrams - Primer Bounded Context</em></p>
+
+**Enlace del Domain Layer Class Diagrams:** [Ver en lucidChart](https://lucid.app/lucidchart/1d047c21-2027-4f55-826b-3d8aa0187af3/edit?viewport_loc=-1190%2C-145%2C4389%2C1939%2C0_0&invitationId=inv_234c091b-78e7-4740-a8f4-c143c10b6b47)
+
+
+##### 4.2.1.6.2 Bounded Context Database Design Diagram
+
+El diagrama de base de datos representa los objetos relacionales necesarios para almacenar la información persistente del bounded context Gestión de Viajes Compartidos. Se definen cuatro tablas principales: Conductores, Viajes, Pasajeros y Solicitudes.
+Las relaciones reflejan el dominio: un conductor puede crear múltiples viajes (1:N), un pasajero puede realizar múltiples solicitudes (1:N), y un viaje puede recibir múltiples solicitudes (1:N).
+Se especifican claves primarias (PK) para cada tabla, claves foráneas (FK) que representan las relaciones, y constraints como CHECK en la columna estado para validar valores válidos en la tabla Solicitudes.
+
+Para mayor información, visualizar la (ver figura 4.20).
+
+<p align="center">
+  <img align="center" src="assets/bound context 1 Database Desing Diagram.png"></p>
+<p align="center"><em>Figura 4.20: Database Design Diagram - Primer Bounded Context</em></p>
 
 
 
