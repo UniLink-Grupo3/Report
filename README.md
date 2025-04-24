@@ -109,6 +109,7 @@ del ABET – EAC - Student Outcome 5.
 - [4.1. Strategic-Level Domain-Driven Design](#41-Strategic-Level-domain-Driven-design)  
   - [4.1.1. EventStorming](#411-EventStorming) 
     - [4.1.1.1. Candidate Context Discovery](#4111-candidate-context-discovery)
+    - [4.1.1.2. Domain Message Flows Modeling](#4112-Domain-Message-Flows-Modeling)
   - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)  
 
   
