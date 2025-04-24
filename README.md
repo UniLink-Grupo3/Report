@@ -6,31 +6,34 @@ Universidad Peruana de Ciencias Aplicadas
   
 Carrera: Ingeniería de Software  
   
-Ciclo: 2024-02  
+Ciclo: 2025-01  
   
-Curso: Aplicaciones Web  
+Curso: Aplicaciones para Dispositivos Móviles  
   
-Sección: SW52  
+Sección: 346  
   
-Profesor: Juan Carlos Tinoco Licas  
+Profesor: Mayta Guillermo Jorge Luis  
   
 Informe del Trabajo Final  
   
-Startup: TechOps  
+Startup: UniLink  
   
-Producto: ZenFlicks  
+Producto: RideUp  
 
 | Member                                | Code       |
 |---------------------------------------|------------|
-| Pilares Pocohuanca, Maria        | u202215528 |
+| Belleza Tello, Paolo Eduardo        | u20191A137 |
+| Fernandez Alva, Maria Fernanda          | u20201C131 |
+| Pilares Pocohuanca, Maria          | u202215528 |
 | Ramirez Ortega, Diego Miguel          | u202123548 |
+| Valera Garcés, Samuel Ignacio          | u202111952 |
 
 
 </div>
 
 <div align="center">
   
-**Agosto del 2024**
+**Abril del 2025**
 </div>
   
 ---  
@@ -38,8 +41,11 @@ Producto: ZenFlicks
   
 | Versión | Fecha       | Autor                                  | Descripción de modificaciones |
 |---------|-------------|----------------------------------------|-------------------------------|
-| 3.0     | 4/11/2024   | Pilares Pocohuanca, Maria              | Capítulo III                  |
+| 1.0     | 11/04/2025   | Belleza Tello, Paolo Eduardo           | Capítulo III                  |
+|         |             | Fernandez Alva, Maria Fernanda         |                               |
+|         |             | Pilares Pocohuanca, Maria              |                               |
 |         |             | Ramirez Ortega, Diego Miguel           |                               |
+|         |             | Valera Garcés, Samuel Ignacio          |                               |
 
 
 ---  
