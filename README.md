@@ -74,7 +74,7 @@ del ABET – EAC - Student Outcome 5.
 # Contenido  
 ## Tabla de contenidos  
   
-### Capítulo I: Introducción
+### Capítulo I: Presentación
 - [1.1. Startup Profile](#11-startup-profile)  
   - [1.1.1 Descripción de la Startup](#111-descripción-de-la-startup)  
   - [1.1.2 Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)  
@@ -86,6 +86,7 @@ del ABET – EAC - Student Outcome 5.
       - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)  
       - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)  
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)  
+
   
 ### Capítulo II: Requirements Elicitation & Analysis 
 - [2.1. Competidores](#21-competidores)  
@@ -111,7 +112,7 @@ del ABET – EAC - Student Outcome 5.
 - [3.4. Product Backlog](#34-product-backlog)  
   
   
-### Capítulo IV: Product Design 
+### Capítulo IV: Solution Software Design 
 - [4.1. Strategic-Level Domain-Driven Design](#41-Strategic-Level-domain-Driven-design)  
   - [4.1.1. EventStorming](#411-EventStorming) 
     - [4.1.1.1. Candidate Context Discovery](#4111-candidate-context-discovery)
@@ -119,8 +120,7 @@ del ABET – EAC - Student Outcome 5.
     - [4.1.1.3. Bounded Context Canvases](#4113-Bounded-Context-Canvases)
   - [4.1.2. Context Mapping](#412-Context-Mapping)  
   - [4.1.3. Software Architecture](#413-Software-Architecture)
-
-    - [4.1.3.1. Software Architecture Context Level Diagrams](#4131-Software.Architecture-Context-Level-Diagrams)  
+    - [4.1.3.1. Software Architecture Context Level Diagrams](#4131-Software-Architecture-Context-Level-Diagrams)  
     - [4.1.3.2. Software Architecture Container Level Diagrams](#4132-Software-Architecture-Container-Level-Diagrams)  
     - [4.1.3.3. Software Architecture Deployment Diagrams](#4133-Software-Architecture-Deployment-Diagrams)  
 - [4.2. Tactital-Level Domain-Driven Design](#42-Tactital-Level-Domain-Driven-Design)  
@@ -132,8 +132,53 @@ del ABET – EAC - Student Outcome 5.
     - [4.2.X.5. Bounded Context Software Architecture Component Level Diagrams](#42x5-bounded-context-software-architecture-component-level-diagrams)
     - [4.2.X.6. Bounded Context Software Architecture Code Level Diagrams](#42x6-bounded-context-software-architecture-code-level-diagrams)
     - [4.2.X.6.1. Bounded Context Domain Layer CLass Diagram](#42x61-bounded-context-domain-layer-class-diagram)
-    - [4.2.X.6.2. Bounded Context Data base Design Diagram](#42x62-bounded-context-data-base-design-diagram)
+    - [4.2.X.6.2. Bounded Context Database Design Diagram](#42x62-bounded-context-data-base-design-diagram)
   
+
+### Capítulo V: Solution UI/UX Design 
+- [5.1. Product design](#51-product-design)  
+  - [5.1.1. Style Guidelines](#511-style-guidelines) 
+    - [5.1.1.1. General Style Guidelines](#5111-general-style-guidelines)
+  - [5.1.2. Information Architecture](#512-information-architecture)
+    - [5.1.2.1. Organization Systems](#5121-organization-systems)  
+    - [5.1.2.2. Labelling Systems](#5122-labelling-systems)
+    - [5.1.2.3. SEO Tags and Meta Tags](#5123-seo-tags-and-meta-tags)
+    - [5.1.2.4. Searching Systems](#5124-searching-systems)
+    - [5.1.2.5. Navigation Systems](#5125-navigation-systems)
+  - [5.1.3. Landing Page UI Design](#513-landing-page-ui-design)
+    - [5.1.3.1. Landing Page Wireframe](#5131-landing-page-wireframe)  
+    - [5.1.3.2. Landing Page Mock-up](#5132-landing-page-mock-up) 
+  - [5.1.4. Mobile Applications UX/UI Design](#514-mobile-applications-ux/ui-design)  
+    - [5.1.4.1. Mobile Applications Wireframes](#5141-mobile-applications-wireframes)  
+    - [5.1.4.2. Mobile Applications Wireflow Diagrams](#5142-mobile-applications-wireflow-diagrams) 
+    - [5.1.4.3. Mobile Applications Mock-ups](#5143-mobile-applications-mock-ups)  
+    - [5.1.4.4. Mobile Applications User Flow Diagrams](#5144-mobile-applications-user-flow-diagrams)
+    - [5.1.4.5. Mobile Applications Prototyping](#5145-mobile-applications-prototyping)  
+
+
+### Capítulo VI: Product Implementation, Validation & Deployment 
+- [6.1. Software Configuration Management](#61-software-configuration-management)  
+  - [6.1.1. Software Development Environment Configuration](#611-software-development-environment-configuration) 
+  - [6.1.2. Source Code Management](#612-source-code-management)
+  - [6.1.3. Source Code Style Guide & Conventions](#613-source-code-style-guide-&-conventions) 
+  - [6.1.4. Software Deployment Configuration](#614-software-deployment-configuration) 
+- [6.2. Landing Page & Mobile Application Implementation](#62-landing-page-&-mobile-application-implementation)  
+  - [6.2.X Sprint n](#62x-sprint-n)
+    - [6.2.X.1. Sprint Planning n](#62x1-sprint-planning-n)
+    - [6.2.X.2. Sprint Backlog n](#62x2-sprint-backlog-n)
+    - [6.2.X.3. Development Evidence for Sprint Review](#62x3-development-evidence-for-sprint-review)
+    - [6.2.X.4. Testing Suite Evidence for Sprint Review](#62x4-testing-suite-evidence-for-sprint-review)
+    - [6.2.X.5. Execution Evidence for Sprint Review](#62x5-execution-evidence-for-sprint-review)
+    - [6.2.X.6. Services Documentation Evidence for Sprint Review](#62x6-services-documentation-evidence-for-sprint-review)
+    - [6.2.X.7. Software Deployment Evidence for Sprint Review](#62x7-software-deployment-evidence-for-sprint-review)
+    - [6.2.X.8. Team Collaboration Insights during Sprint](#62x8-team-collaboration-insights-during-sprint)
+- [6.3. Validation Interviews](#63-validation-interviews)  
+  - [6.3.1. Diseño de Entrevistas](#631-diseño-de-entrevistas) 
+  - [6.3.2. Registro de Entrevistas](#632-registro-de-entrevistas)
+  - [6.3.3. Evaluaciones según heurísticas](#633-evaluaciones-segun-heuristicas) 
+- [6.4. Video About-the-Product](#64-viedo-about-the-product)  
+
+
   
 ---  
 # Capítulo I: Introducción  
