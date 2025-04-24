@@ -132,7 +132,7 @@ del ABET – EAC - Student Outcome 5.
 ---  
 # Capítulo I: Introducción  
 ## 1.1. Startup Profile  
-
+a
 ### 1.1.1 Descripción de la Startup  
 
 
