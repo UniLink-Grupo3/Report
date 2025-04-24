@@ -517,6 +517,304 @@ Para mayor información, visualizar la (ver figura 4.20).
 <p align="center"><em>Figura 4.20: Database Design Diagram - Primer Bounded Context</em></p>
 
 
+### 4.2.2. Bounded Context: Gestión de Usuarios y Seguridad
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Clase</th>
+      <th>Propósito</th>
+      <th>Atributos</th>
+      <th>Métodos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Usuario</strong></td>
+      <td>Representa una cuenta de usuario registrada en el sistema.</td>
+      <td>
+        <ul>
+        <li>id</li>
+        <li>nombre</li>
+        <li>correo</li>
+        <li>contraseña</li>
+        <li>rol_id</li>
+        <li>perfil_id</li>
+        </ul>
+        </td>
+      <td>
+        <ul>
+        <li>registrar()</li>
+        <li>desactivar()</li>
+        <li>autenticar()</li>
+        </ul>
+        </td>
+    </tr>
+    <tr>
+      <td><strong>Perfil</strong></td>
+      <td>Representa la información pública y personal del usuario.</td>
+      <td>
+        <ul>
+        <li>id</li>
+        <li>usuarioId</li>
+        <li>codigoUniversitario</li>
+        <li>fotoPerfil</li>
+        <li>carnetUniversitario</li>
+        <li>teléfono</li>
+        <li>direccion</li>
+        </ul>
+        </td>
+      <td>
+        <ul>
+        <li>actualizarPerfil()</li>
+        </ul>
+        </td>
+    </tr>
+    <tr>
+      <td><strong>Token</strong></td>
+      <td>Controla los Códigos de verificación de cuenta o recuperación.</td>
+      <td>
+        <ul>
+        <li>id</li>
+        <li>usuarioId</li>
+        <li>valor</li>
+        <li>fechaExpiración</li>
+        </ul>
+        </td>
+      <td>
+        <ul>
+        <li>generarCodigo()</li>
+        <li>validarCodigo()</li>
+        </td>
+    </tr>
+    <tr>
+      <td><strong>Rol</strong></td>
+      <td>Define los permisos y accesos asignados a cada tipo de usuario</td>
+      <td>
+        <ul>
+        <li>id</li>
+        <li>tipoUsuario</li>
+        <li>permisos</li>
+        </ul>
+        </td>
+      <td>
+        <ul>
+        <li>asignarUsuario()</li>
+        <li>asignarPermiso()</li>
+        </td>
+    </tr>
+  </tbody>
+</table>
+
+<strong>Relaciones:</strong><br>
+<ul>
+    <li>Un Usuario tiene un solo Perfil</li>
+    <li>Un Usuario tiene un solo Perfil</li>
+    <li>Un Usuario puede tener múltiples códigos de token simultáneamente</li>
+</ul>
+
+#### 4.2.2.1. Domain Layer
+
+<strong>Entidades</strong><br>
+<ul>
+    <li>Usuario: Representa la cuenta de una persona registrada.</li>
+    <li>Perfil: Almacena detalles personales o visibles del usuario.</li>
+    <li>Token: Almacena y valida los códigos enviados para verificar identidad.</li>
+    <li>Rol: Administra los roles y permisos que puede tener un usuario.</li>
+</ul>
+
+<strong>Value Objects</strong><br>
+<ul>
+    <li>Correo: Garantiza que un correo tiene un formato válido.</li>
+    <li>Contrasena: Encapsula la lógica de hashing y validación de contraseñas.</li>
+</ul>
+
+<strong>Aggregates</strong><br>
+<ul>
+    <li>Usuario: Agregado raíz que controla la creación, autenticación y estado del usuario.</li>
+</ul>
+
+<strong>Domain Services</strong><br>
+<ul>
+    <li>AutenticadorService: Realiza la validación de credenciales y emite tokens de sesión.</li>
+    <li>GestorDeRolesService: Administra la asignación y verificación de roles de usuario.</li>
+</ul>
+
+<strong>Interfaces</strong><br>
+<ul>
+    <li>IUsuarioRepository: Define métodos para almacenar y recuperar usuarios.</li>
+    <li>IRolRepository: Define métodos para manejar roles.</li>
+    <li>ITokenRepository: Define métodos para manejar verificaciones de seguridad.</li>
+</ul>
+
+#### 4.2.2.2. Interface Layer
+
+<strong>Controllers</strong><br>
+<ul>
+    <li>UsuarioController (registrar, autenticar, actualizar perfil).</li>
+    <li>TokenController (enviar código de verificación, validar código).</li>
+    <li>RolController (asignar roles, listar roles).</li>
+</ul>
+
+<strong>Consumers</strong><br>
+<ul>
+    <li>Escucha eventos de verificación de correo o confirmaciones externas de sistemas de seguridad.</li>
+</ul>
+
+#### 4.2.2.3. Application Layer
+
+<strong>Command Handlers</strong><br>
+<ul>
+    <li>RegistrarUsuarioCommandHandler: Maneja el registro de nuevos usuarios.</li>
+    <li>AutenticarUsuarioCommandHandler: Gestiona la autenticación de credenciales.</li>
+    <li>ActualizarPerfilCommandHandler: Actualiza la información de perfil.</li>
+    <li>AsignarRolCommandHandler: Asigna un rol a un usuario.</li>
+</ul>
+
+<strong>Event Handlers</strong><br>
+<ul>
+    <li>UsuarioRegistradoEventHandler: Envía correo de bienvenida o de verificación.</li>
+    <li>TokenExitosaEventHandler: Activa la cuenta del usuario.</li>
+</ul>
+
+#### 4.2.2.4. Infrastructure Layer
+
+<strong>Clases implementadas</strong><br>
+<ul>
+    <li>UsuarioRepositorySQL</li>
+        - Implementa: IUsuarioRepository<br>
+        - Responsabilidad: Guardar, consultar, actualizar usuarios en la base de datos.
+</ul>
+
+<ul>
+    <li>TokenRepositorySQL</li>
+        - Implementa: IUsuarioRepository<br>
+        - Responsabilidad: Almacena códigos de verificación y controla su expiración.
+</ul>
+
+<ul>
+    <li>RolRepositorySQL</li>
+        - Implementa: IRolRepository<br>
+        - Responsabilidad: Gestiona roles y permisos en la base de datos.
+</ul>
+
+#### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
+
+El container Backend API de Usuarios expone y gestiona los servicios relacionados con la autenticación, registro y asignación de roles para los usuarios que interactúan con la plataforma. Este container está diseñado siguiendo principios de separación de responsabilidades, facilitando mantenimiento, escalabilidad y pruebas.
+A continuación, se describen sus componentes:<br>
+
+<ul>
+    <li>UsuarioController</li>
+    Este componente actúa como la capa de entrada al sistema. Expone endpoints REST que permiten a los usuarios registrarse, iniciar sesión y consultar o actualizar sus datos personales.
+    <br>Implementación: Framework REST (Spring Boot Controller, Express.js Router o ASP.NET Controller).
+</ul>
+
+<ul>
+    <li>AutenticacionService</li>
+    Este servicio encapsula la lógica relacionada con la autenticación de usuarios, incluyendo la validación de credenciales, la generación de tokens y la verificación de identidades en cada solicitud.
+</ul>
+
+<ul>
+    <li>UsuarioService</li>
+    Es el componente encargado de gestionar la lógica de negocio vinculada a la creación, modificación y eliminación de usuarios en el sistema. Además, coordina la asignación de roles y la validación de reglas antes de persistir los datos.
+</ul>
+
+<ul>
+    <li>RolService</li>
+    Responsable de administrar la asignación de roles y sus respectivos permisos a los usuarios. Permite definir los accesos que cada tipo de usuario posee en el sistema, facilitando la seguridad y el control de privilegios.
+</ul>
+
+<ul>
+    <li>UsuarioRepository</li>
+    Este componente tiene como responsabilidad la persistencia y recuperación de datos de usuarios en la base de datos. Es utilizado por UsuarioService para realizar operaciones CRUD.
+</ul>
+
+<ul>
+    <li>RolRepository</li>
+    Permite realizar operaciones de lectura y escritura sobre la entidad de roles. Provee los datos necesarios para RolService cuando se requiere consultar o modificar la configuración de permisos.
+</ul>
+
+Para una mejor comprensión, puede consultar el  Component Diagrams de C4 Model nivel 3. (Ver figura 4.21).
+
+<p align="center">
+  <img align="center" src="assets/bound contex 2 diagrams c4 model nivel 3.png"></p>
+<p align="center"><em>Figura 4.21: Component Diagrams de C4 Model nivel 3 - Segundo Bounded Context</em></p>
+
+#### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
+
+<strong>Descripción del diagrama:</strong><br>
+Este diagrama representa la estructura de las clases del Backend API de Usuarios para la gestión de usuarios y autenticación. Las clases y sus relaciones son las siguientes:
+
+<ul>
+    <li>UsuarioController:</li>
+    Actúa como el controlador que maneja las solicitudes de los usuarios. Ofrece métodos para registrar usuarios (registrarUsuario), realizar el login (login), y actualizar el perfil (actualizarPerfil). Estos métodos se apoyan en los servicios de negocio para manejar la lógica.
+</ul>
+
+<ul>
+    <li>UsuarioService:</li>
+    Es el servicio responsable de gestionar la lógica de negocio relacionada con los usuarios. Implementa funcionalidades como crear un usuario (crearUsuario), validar las credenciales del usuario (validarCredenciales), y actualizar el perfil (actualizarPerfil).
+</ul>
+
+<ul>
+    <li>AutenticacionService:</li>
+    Se encarga de la autenticación de los usuarios. Ofrece dos métodos: generar un token (generarToken), que se utiliza para autenticar a los usuarios, y validar un token (validarToken), que verifica si el token proporcionado es válido.
+</ul>
+
+Para una mejor comprensión, puede consultar el Architecture Code Level Diagrams. (Ver figura 4.22).
+
+<p align="center">
+  <img align="center" src="assets/bound contex 2 code level diagramst- 1.png"></p>
+<p align="center"><em>Figura 4.22: Primero - Architecture Code Level Diagrams - Segundo Bounded Context</em></p>
+
+<br><strong>Descripción del diagrama:</strong><br>
+AutenticacionService es la clase principal que maneja la lógica de autenticación. Tiene métodos como generarToken y validarToken.
+
+<ul>
+    <li>UsuarioRepository:</li>
+    Es la clase responsable de acceder a los datos del usuario, como buscar el usuario por correo electrónico (findByEmail).
+</ul>
+
+<ul>
+    <li>TokenProvider:</li>
+    Es la clase encargada de crear y validar el token
+</ul>
+
+<ul>
+    <li>CryptPasswordEncoder:</li>
+    Es utilizado para comparar las contraseñas proporcionadas con las almacenadas de manera segura.
+</ul>
+
+Para una mejor comprensión, puede consultar el Architecture Code Level Diagrams. (Ver figura 4.23).
+
+<p align="center">
+  <img align="center" src="assets/bound contex 2 code level diagrams - 2.png"></p>
+<p align="center"><em>Figura 4.23: Segundo - Architecture Code Level Diagrams - Segundo Bounded Context</em></p>
+
+**Enlace de los Architecture Code Level Diagrams:** [Ver en lucidChart](https://lucid.app/lucidchart/4b8b9ee9-db64-48be-b774-0578fc824a01/edit?viewport_loc=-1344%2C-1816%2C3104%2C1371%2C0_0&invitationId=inv_e8e4be50-05d4-450a-b220-406c189108ab)
+
+##### 4.2.2.6.1 Bounded Context Domain Layer Class Diagrams
+
+<strong>Descripción:</strong><br>
+Este diagrama representa las clases principales del dominio dentro del contexto del módulo de gestión de identidad. Incluye la entidad Usuario, que encapsula comportamientos como el registro y la autenticación. El Usuario está asociado con un Perfil, donde se almacenan datos complementarios como el código universitario y el número de teléfono. Cada Usuario posee un Rol que define sus permisos dentro del sistema. Además, el diagrama contempla el uso de tokens de autenticación (Token) y objetos de valor como Correo y Contrasena, los cuales encapsulan reglas específicas de validación y seguridad.
+Para mayor información, visualizar la (ver figura 4.24).
+
+<p align="center">
+  <img align="center" src="assets/bound contex 2 Domain Layer Class Diagrams.png"></p>
+<p align="center"><em>Figura 4.24: Domain Layer Class Diagrams - Segundo Bounded Context</em></p>
+
+**Enlace del Domain Layer Class Diagrams:** [Ver en lucidChart](https://lucid.app/lucidchart/d3478451-d855-4364-8380-db7c3b9a8999/edit?view_items=EA-.6kuKofyw%2CvB-.9Cp3lQPH%2CkC-.sSRl1unG%2CFd_.7oFA~jvM%2Cee_.ufJKZoYj%2CCx-.ABiQpxiO%2C1f_.qd4BxEP0%2Cvg_.OG0LlEVb%2CYg_.IM_P0UbJ%2CDf_.iayTwdFz%2Ceh_.znL86IT7%2Cdg_.jh9tgYmg%2CLg_.kUps2Vfb%2C-g_.lyED5O4d&invitationId=inv_d3ac8bfe-466b-405b-9556-2ad17c5aaa7b)
+
+##### 4.2.2.6.2 Bounded Context Database Design Diagram
+
+El diseño de base de datos representa la estructura relacional del sistema de gestión de usuarios. La tabla Usuario almacena los datos principales como nombre, correo, contraseña y fecha de creación, y se vincula mediante claves foráneas a un Perfil y un Rol. El Perfil contiene información personal adicional como el código universitario, teléfono, dirección y biografía del usuario. El Rol define los tipos de usuario y sus permisos. Por último, la tabla Token almacena los tokens de autenticación generados por cada usuario para manejar sesiones y accesos. Las relaciones entre tablas reflejan una estructura lógica y segura para garantizar una gestión adecuada de la autenticación y los permisos.
+Para mayor información, visualizar la (ver figura 4.25).
+
+<p align="center">
+  <img align="center" src="assets/bound contex - 2 Database Design Diagram.png"></p>
+<p align="center"><em>Figura 4.25: Database Design Diagram - Segundo Bounded Context</em></p>
+
+
+
 
 
 
