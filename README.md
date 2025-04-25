@@ -475,11 +475,11 @@ A continuación se pueden apreciar los User Journey Mapping de los segmentos obj
 
 #### *Estudiantes Universitarios*
 
-<img src="assets/images/user-journey-mapping/journey-map-1.png" width="900px">
+<img src="assets/user-journey-mapping/journey-map-1.png" width="900px">
 
 #### *Estudiantes universitarios propietarios de vehículos privados*
 
-<img src="assets/images/user-journey-mapping/journey-map-2.png" width="900px">
+<img src="assets/user-journey-mapping/journey-map-2.png" width="900px">
 
 ---
 
