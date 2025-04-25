@@ -490,11 +490,11 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
 
 #### *Estudiantes Universitarios*
 
-<img src="assets/images/empathy-mapping/empathy-mapping-1.png" width="900px">
+<img src="assets/empathy-mapping/empathy-mapping-1.png" width="900px">
 
 #### *Estudiantes universitarios propietarios de vehículos privados*
 
-<img src="assets/images/empathy-mapping/empathy-mapping-2.png" width="900px">
+<img src="assets/empathy-mapping/empathy-mapping-2.png" width="900px">
 
 ---
 
