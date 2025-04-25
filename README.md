@@ -172,13 +172,15 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   </tr>
   
   <tr>
-    <th>Alumno 2</th>
+    <th>Fernandez Alva, Maria Fernanda</th>
   </tr>
   <tr>
     <td>
       <strong>Objetivo SMART 1:</strong><br>
-      <br>
+      Dominar la sintaxis básica del lenguaje Kotlin completando un curso introductorio en línea de al menos 10 módulos antes de la semana 6, dedicando mínimo 4 horas por semana.
+      <br><br>
       <strong>Objetivo SMART 2:</strong><br>
+      Organizar y utilizar correctamente los resources en Android Studio (colores, strings, dimensiones, drawables) creando una interfaz con diseño adaptable en al una pantalla antes de la semana 9, sin usar valores escritos directamente en el código (hardcoded)
     </td>
   </tr>
 
