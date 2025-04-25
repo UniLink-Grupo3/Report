@@ -435,21 +435,21 @@ En esta sección se han definido todas las preguntas que se plantearan en el mom
 
 <!--EDITAR SEGUN DATOS DEL ENTREVISTADO -->
 
-|Entrevistado 1|(colocar nombre)|
+|Entrevistado 1| Dayana Andrea Fernandez Alva |
 |-|-|
-|Edad|22|
-|Distrito|Lima|
-|<img width="1292" alt="Entrevista1_JosepMelgarejo" src="(colocar enlace de la imagen)">|Josep Melgarejo a pesar de ser una persona de corta edad, cuenta con experiencia en el sector de ganadero debido a haber vivido toda su vida con una familia dedicada a la ganadería, trabaja en una unidad de ganadería de 45 animales y ocho personas apróximadamente. Se evidencia la falta de seguridad en el traslado de datos, puesto que lo realizan de manera manual con libros y cuadernos en donde realizan apuntes sobre la alimentación de los animales, vacunas, controles, etc. Sus principales dificultades son que las vacas y cerdos, debido al corto espacio pueden sufrir el tema de la convivencia diaria en el ganado, lo cual esto perjudicaría en la producción de alimentos, calidad de vida, entre otras cosas. Considera importante un registro digital, de esta forma facilitaría los procesos de producción y registro de vacunas de sus animales.  |
-|Timing: 0:01-5:28 |URL: [upc-pre-202510-1acc0238-UniLink]((colocar enlace))|
+|Edad|23|
+|Distrito|Los Olivos|
+|<img width="1292" alt="Entrevista1_DayanaFernandez" src="assets/interviews/Entrevista 1 - Estudiantes Universitarios.png">| La señorita Dayana Fernández, estudiante de la Universidad Nacional de Ingeniería, nos contó que usualmente usa transporte público para ir a clases, aunque debe caminar unos 10 minutos hasta el paradero. Además, mencionó que algunos días se queda hasta tarde por entrenamientos y, al salir cerca de las 11:30 p.m., prefiere no usar buses por temas de seguridad, optando por aplicaciones como Uber. Nos comentó que tuvo una mala experiencia con Uber cuando la app no reconocía su perfil, lo que le impidió solicitar un taxi y tuvo que viajar en bus acompañada de conocidos para sentirse más segura. Al conocer nuestra propuesta, le pareció una idea muy útil, ya que viajar con estudiantes de su misma universidad y con conductores también universitarios le daría más confianza y sería una opción más económica, sobre todo por las noches. Además, resaltó que le gustaría que la app permita comunicarse directamente con el conductor y que informe en cuánto tiempo llegará al punto de encuentro. |
+|Timing: 0:01-5:53 |URL: [upc-pre-202510-1acc0238-UniLink]((colocar enlace))|
 
 <!--EDITAR SEGUN DATOS DEL ENTREVISTADO -->
 
-|Entrevistado 2|(colocar nombre)|
+|Entrevistado 2| Gabriel Alexander Fernandez Guevara|
 |-|-|
-|Edad|25|
-|Distrito|Lima|
-|<img width="1292" alt="Entrevista2_AngelBerrospi" src="(colocar enlace de la imagen)">|Angel es una persona que cuenta con 7 años de experiencia en el sector de la ganadería, empezando desde muy joven hasta el día de hoy, en su ganadería cuenta con 60 animales entre 3 personas en la que esas personas se encuentra su padre como principal responsable del sector ganadero. En su experiencia cuenta que un momento complicado en la gestión fue cuando al momento de querer gestionar y saber el registro de vacunas de las vacas, esta no era posible debido a una posible confusión en la selección de los animales que les corresponda la vacuna. Lo que a él le gustaría para su gestión es encontrar un medio digital en el que se le pueda proporcionar la información acerca del historial de salud, comida, vacunas, tratamientos, etc. En su momento, un registro básico. Nunca ha usado una aplicación que le ayude a gestionar y para él sería una gran oportunidad para solucionar estas problemáticas que complican la gestión de su ganado.|
-|Timing: 5:30-9:27 |URL: [upc-pre-202510-1acc0238-UniLink]((colocar enlace))|
+|Edad|22|
+|Distrito|Los Olivos|
+|<img width="1292" alt="Entrevista2_GabrielGuevara" src="assets/interviews/Entrevista 2 - Estudiantes Universitarios.png">| Gabriel, estudiante de la Universidad Privada del Norte, nos comentó que para llegar a la universidad necesita tomar dos transportes públicos, lo cual suele ser incómodo debido a la gran cantidad de personas. Además, cuando debe llevar maquetas para sus proyectos, prefiere pedir un taxi o un Uber, lo que representa un gasto elevado, ya que vive lejos del campus. También nos relató que ha tenido algunos inconvenientes con el servicio de Uber, ya que en ocasiones los conductores toman rutas distintas a las que aparecen en la aplicación. Por eso, le pareció excelente la idea de una aplicación que le permita compartir el viaje con otros estudiantes de su misma universidad, ya que se sentiría más seguro y cómodo, especialmente cuando debe llevar materiales voluminosos.Gabriel recalcó que, para sentirse tranquilo al abordar un vehículo compartido, necesita saber la identificación de los demás pasajeros y confirmar que realmente pertenecen a su universidad. Finalmente, mencionó que le gustaría recibir una notificación anticipada sobre la llegada del vehículo. Por ejemplo, un aviso de que llegará en 10 o 15 minutos para poder dirigirse con tiempo al punto de encuentro. |
+|Timing: 5:53-10:48 |URL: [upc-pre-202510-1acc0238-UniLink]((colocar enlace))|
 
 <!--EDITAR SEGUN DATOS DEL ENTREVISTADO -->
 
@@ -458,7 +458,7 @@ En esta sección se han definido todas las preguntas que se plantearan en el mom
 |Edad|25|
 |Distrito|Lima|
 |<img width="1292" alt="Entrevista3_JoseGalvez" src="(colocar enlace de la imagen)">|José Galvez lleva 7 años en la dedicación de la ganadería, decidiendo ayudar a su padre en la gestión, maneja ganado bovino que es su principal especialidad. En su ganado cuenta con 120 animales de las cuales trabajan 3 personas, las cuales son: Un vaquero fijo, un ayudante eventual y él. Cuenta en su experiencia que el lleva los registros de su ganado en un cuaderno para apuntar las vacunas y también los pesos de los animales, también cuenta con un excel básico en su laptop portatil, pero no es de mucha ayuda. Considera de gran importancia una plataforma digital que ayude en su registro, pues un problema constante que pasa en su ganado es que suele olvidarse el día y/o animal al cual ha vacunado, por lo que tener ese registro digital lo ayudaría un montón a mejorar la calidad de la producción del ganado. |
-|Timing: 9:28-16:28 |URL: [upc-pre-202510-1acc0238-UniLink]((colocar enlace))|
+|Timing: 10:48-16:28 |URL: [upc-pre-202510-1acc0238-UniLink]((colocar enlace))|
 
 
 
@@ -466,11 +466,11 @@ En esta sección se han definido todas las preguntas que se plantearan en el mom
 
 <!--EDITAR SEGUN DATOS DEL ENTREVISTADO -->
 
-|Entrevistado 4|(colocar nombre)|
+|Entrevistado 4| Jessica Rut Jaramillo Mora |
 |-|-|
-|Edad|28|
-|Ciudad|Arequipa|
-|<img width="1292" alt="Entrevista4_MarcoRodriguez" src="(colocar enlace de la imagen)">| Marco es una persona que lleva ejerciendo 3 años como veterinario, sin embargo contando desde sus prácticas, serían 5 años en el medio de la veterinaria. El seguimiento y sus registros lo digitaliza en un excel, de esta forma le facilita en el almacén de datos y la búsqueda de los mismos en caso de ser necesario. Según él, al utilizar una plataforma digital que no le requiera complicaciones debido a una interfaz sencilla y amigable, le ayudaría a despreocuparse del tema de la búsqueda de datos y solo tendría que buscar la información en la misma página web. La escasez de los datos de los animales, retrasa y complica el diagnóstico de los animales, por lo que contar con esa información de antemano facilitaría el tratamiento, inspección o registro del animal. |
+|Edad|22|
+|Distrito|San Miguel|
+|<img width="1292" alt="Entrevista4_JessicaJaramillo" src="assets/interviews/Entrevista 1 - Estudiantes Universitarios con vehiculo.png">| Jessica, estudiante de la Universidad Peruana de Ciencias Aplicadas, nos contó que en más de una ocasión ha ofrecido un asiento en su auto a otros compañeros durante su trayecto a la universidad. Generalmente lo hizo por amistad o solidaridad, ya que le parece útil aprovechar el espacio disponible y no conducir sola. Señaló que, si se tratara de compartir su vehículo con personas que no conoce, le resulta fundamental contar con información básica sobre ellas, como su identidad, condición de estudiante y referencias de otros usuarios. Jessica considera que un sistema que le ayude a organizar y seleccionar con quién compartir su vehículo sería muy cómodo, siempre que este garantice claridad y seguridad. Para ella, los principales criterios al momento de elegir a quién llevar en su auto son la coincidencia de horarios, la cercanía del domicilio y la reputación de la persona. Además, valoraría especialmente el ahorro económico como beneficio principal de compartir su trayecto, sin dejar de lado el impacto ecológico y la posibilidad de hacer nuevas amistades. |
 |Timing: 16:37-19:56 |URL: [upc-pre-202510-1acc0238-UniLink]((colocar enlace))|
 
 <!--EDITAR SEGUN DATOS DEL ENTREVISTADO -->
