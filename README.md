@@ -112,7 +112,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <td><strong>Fernandez Alva, Maria Fernanda</strong><br>
     <strong>TB1:</strong>Durante el desarrollo del proyecto, reforcé conocimientos sobre Bounded Contexts y su importancia en la estructuración del sistema. Usé herramientas como Vertabelo y Structurizr para modelar los datos y la arquitectura. </td>
     <td rowspan="5">
-    <strong>TB1:</strong>En esta primera entrega,....<br>
+    <strong>TB1:</strong>Como equipo, actualizamos y fortalecimos nuestros conocimientos usando herramientas como Uxpressia para user persona y journey mapping, Structurizr para el modelo C4, y análisis de la competencia. Estas herramientas nos ayudaron a diseñar una solución de software más completa y centrada en el usuario.<br>
     </td>
   </tr>
   <tr>
@@ -136,7 +136,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <td><strong>Fernandez Alva, Maria Fernanda</strong><br>
     <strong>TB1:</strong> Para retomar el uso de estas herramientas, recurrí a videos de YouTube y documentación oficial. Apliqué estrategias de autoaprendizaje, como el estudio del modelo C4, para elaborar diagramas del sistema. </td>
     <td rowspan="5">
-    <strong>TB1:</strong> En esta primera entrega, ......</td>
+    <strong>TB1:</strong> El uso de nuevas metodologías y entrevistas a usuarios nos impulsó a investigar y aprender de forma continua. Este proceso nos permitió identificar necesidades reales y aplicar estrategias de aprendizaje colaborativo, reconociendo así el valor del aprendizaje permanente en nuestra formación profesional.</td>
   </tr>
   <tr>
     <td><strong>Belleza Tello, Paolo Eduardo</strong><br>
