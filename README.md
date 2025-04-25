@@ -225,7 +225,7 @@ Es una aplicación internacional de ride-hailing que ofrece transporte bajo dema
    <tr>
      <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
      <td colspan="1" valign="top" style="font-weight: bold;">
-         GoUni
+         RideUp
          <br>
          <div style="text-align: center; margin-top: 10px;">
                  <img src="images/logo/gounilogo.jfif" alt="StartUp" width="100px">
@@ -375,11 +375,51 @@ Es una aplicación internacional de ride-hailing que ofrece transporte bajo dema
 
 ## 2.2. Entrevistas  
 
-
-
 ### 2.2.1. Diseño de entrevistas  
 
+En esta sección se han definido todas las preguntas que se plantearan en el momento de realizar las preguntas a los diferentes segmntos objetivos
+ 
+<h3> Preguntas Generales</h3>
+ 
+1. ¿Cuál es tu nombre?
+####
+2. ¿Qué edad tienes?
+####
+3. ¿Dónde vives actualmente?
+####
+4. ¿A qué te dedicas?
+ 
+<h3> Preguntas Segmento 1: Estudiantes universitarios </h3>
+ 
+1. ¿Con qué frecuencia utilizarías una app de transporte compartido para ir a la universidad?
+####
+2. ¿Qué funcionalidades te gustaría que tenga una app de ridesharing exclusiva para estudiantes universitarios?
+####
+3. ¿Qué dificultades técnicas o de uso sueles tener con aplicaciones de transporte como Uber, Cabify, etc.?
+####
+4. ¿Preferirías viajar solo/a o compartir el auto con otros estudiantes que no conoces, si la aplicación garantiza seguridad y comodidad? ¿Por qué?
+####
+5. ¿Qué elementos visuales o características te harían sentir más seguro/a al usar esta app?
+####
+6. ¿Qué tan importante es para ti recibir notificaciones sobre el estado del viaje (conductor en camino, cancelaciones, etc.)?
+####
+7. ¿Te gustaría que la app tenga una opción para programar viajes con anticipación? ¿Por qué?
 
+<h3> Preguntas Segmento 2: Estudiantes universitarios propietarios de vehiculos privados</h3>
+
+1. ¿Alguna vez ofreciste un asiento en tu auto a otro estudiante? ¿Qué te motivó a hacerlo?
+####
+2. ¿Qué condiciones te parecerían necesarias para aceptar a alguien desconocido como acompañante?
+####
+3. ¿Qué tan flexible eres con tus horarios y rutas cuando vas hacia la universidad?
+####
+4. ¿Qué tan cómodo/a te sentirías si un sistema te ayudara a organizar con quién compartir tu vehículo?
+####
+5. ¿Qué criterios usarías para elegir a quién llevar contigo? (por ejemplo: afinidad, reputación, mismo horario, etc.)
+####
+6. ¿Qué tipo de apoyo o beneficio valoras más al compartir tus trayectos con otros (económico, social, ecológico)?
+####
+7. ¿Qué información considerarías imprescindible saber de las personas que viajarán contigo?
 
 ### 2.2.2. Registro de entrevistas  
 
