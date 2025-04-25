@@ -375,15 +375,20 @@ Envía comunicaciones relevantes a usuarios, como confirmaciones de viajes, pago
 
 ### 4.1.2. Context Mapping
 
+Context mapping es una técnica utilizada en el desarrollo de software, especialmente en el enfoque Domain-Driven Design (DDD), nos ayuda a visualizar y gestionar las relaciones entre los diferentes Bounded Contexts dentro de un Sistema. En este caso, se mostrará el Context Mapping desarrollado para nuestro sistema:
+
  <img align="center" src="assets/ContextMapping.png"></p>
 
 ### 4.1.3. Software Architecture
 
 ### 4.1.3.1. Software Architecture Context Level Diagrams
 
+
 ### 4.1.3.2. Software Architecture Container Level Diagrams
 
+
 ### 4.1.3.3. Software Architecture Deployment Diagrams
+
 
 
 
