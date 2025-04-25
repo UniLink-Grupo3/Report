@@ -116,8 +116,8 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     </td>
   </tr>
   <tr>
-    <td><strong>Alumno 2</strong><br>
-    <strong>TB1:</strong> Realicé .......</td>
+    <td><strong>Belleza Tello, Paolo Eduardp</strong><br>
+    <strong>TB1:</strong> Realicé uno de los principales Bounded Contexts del proyecto para entender el funcionamiento de una parte clave de la app. Utilicé StarUML para diagramas de clases y contenedores, y Structurizr para modelar en los niveles 2, 3 y 4 del modelo C4. Esto fortaleció mis conocimientos en modelado de software y estructura de sistemas complejos.</td>
   </tr>
   <tr>
     <td><strong>Alumno 3</strong><br>
@@ -139,8 +139,8 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <strong>TB1:</strong> En esta primera entrega, ......</td>
   </tr>
   <tr>
-    <td><strong>Alumno 2</strong><br>
-    <strong>TB1:</strong> Realicé .......</td>
+    <td><strong>Belleza Tello, Paolo Eduardo</strong><br>
+    <strong>TB1:</strong> Para aplicar correctamente estas herramientas, consulté la documentación oficial del modelo C4 y videos de YouTube sobre el uso de StarUML. Este proceso me ayudó a comprender la necesidad del aprendizaje continuo. Gracias a ello, pude implementar estrategias de autoformación efectivas para mejorar mi desempeño.</td>
   </tr>
   <tr>
     <td><strong>Alumno 3</strong><br>
