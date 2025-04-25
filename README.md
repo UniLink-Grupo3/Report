@@ -375,6 +375,8 @@ Envía comunicaciones relevantes a usuarios, como confirmaciones de viajes, pago
 
 ### 4.1.2. Context Mapping
 
+ <img align="center" src="assets/ContextMapping.png"></p>
+
 ### 4.1.3. Software Architecture
 
 ### 4.1.3.1. Software Architecture Context Level Diagrams
