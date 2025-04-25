@@ -435,7 +435,15 @@ En esta sección se han definido todas las preguntas que se plantearan en el mom
 
 ### 2.3.1. User Personas  
 
+#### *Estudiantes universitarios:*
 
+<img src="assets/user-persona/user-persona-1.png" width="800px">
+
+#### *Estudiantes Universitarios propietarios de vehículos privados:*
+
+<img src="assets/user-persona/user-persona-2.png" width="800px">
+
+---
 
 ### 2.3.2. User Task Matrix  
 
