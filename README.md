@@ -273,16 +273,105 @@ del ABET – EAC - Student Outcome 5.
 
 # Capítulo IV: Product Design  
 
-
-## 4.1. Strategic-Level Domain-Driven Design 
+## 4.1. Strategic-Level Domain-Driven Design
 
 ### 4.1.1. EventStorming
 
+Con el objetivo de comprender a profundidad el dominio de la aplicación UniGo, se llevó a cabo una sesión de EventStorming de aproximadamente 2 horas. Esta sesión permitió identificar los eventos clave dentro del sistema, así como actores, comandos, reglas de negocio y problemas potenciales (pain points).
+El enfoque se centró en capturar la mayor cantidad de conocimiento del dominio desde una perspectiva colaborativa, permitiendo así una primera aproximación al modelo general del negocio. La herramienta utilizada para la sesión fue Miro, que facilitó la colaboración en tiempo real y la organización visual de los eventos.
+La sesión se dividió en las siguientes etapas:
+•	Unstructured Exploration (exploración sin estructura)
+•	Timelines (flujo del negocio)
+•	Pain Points (puntos de fricción)
+Se identificaron eventos relacionados con la experiencia del estudiante desde su ingreso a la plataforma hasta la solicitud y ejecución del transporte, incluyendo actividades complementarias como pagos, calificaciones y atención a soporte.
+
+Step 1: Unstructured Exploration
+
+Lluvia de ideas con eventos importantes dentro del dominio de UniGo:
+
+ <img align="center" src="assets/1.png"></p>
+ 
+ Step 2: Timelines 
+
+ Organización de eventos en flujos funcionales y escenarios alternativos.
+ 
+ <img align="center" src="assets/2.png"></p>
+
+ Step 3: Paint Points
+
+ Identificación de puntos conflictivos o dolorosos en la experiencia del usuario:
+
+  <img align="center" src="assets/3.png"></p>
+
 #### 4.1.1.1. Candidate Context Discovery
+
+A partir del EventStorming general, se realizó una segunda sesión enfocada en identificar los Candidate Bounded Contexts
+
+  ##### Authentication:
+Gestiona la información y operaciones relacionadas con los datos, cuentas y claves.
+
+  <img align="center" src="assets/4.png"></p>
+
+  ##### Riders:
+Gestiona la información y operaciones relacionadas con los pasajeros, incluyendo su verificación y solicitudes.
+
+  <img align="center" src="assets/5.png"></p>
+  
+  ##### Drivers:
+Gestiona la información y operaciones relacionadas con los conductores, incluyendo su registro, verificación, disponibilidad y calificaciones.
+
+  <img align="center" src="assets/6.png"></p>
+
+  ##### Payments:
+  Maneja las transacciones financieras, incluyendo pagos de pasajeros y compensaciones a conductores.
+
+  <img align="center" src="assets/7.png"></p>
+
+  ##### Flujo General:
+  Representa la interacción y el flujo de información entre los diferentes contextos del sistema.
+
+  <img align="center" src="assets/8.png"></p>
+
+
 
 #### 4.1.1.2. Domain Message Flows Modeling
 
+  ##### Security:
+Asegura la integridad y confidencialidad de los datos y operaciones del sistema.  
+
+  <img align="center" src="assets/9.png"></p>
+
+  ##### Vehicle (pasajeros):
+Proporciona a los pasajeros información sobre los vehículos disponibles, incluyendo tipo, características y estado.
+
+  <img align="center" src="assets/10.png"></p>
+
+  ##### Vehicle (conductores):
+Permite a los propietarios de vehículos gestionar la información y disponibilidad de sus autos en el sistema.
+
+  <img align="center" src="assets/11.png"></p>
+
 #### 4.1.1.3. Bounded Context Canvases
+
+  ##### Authentication:
+Gestiona la verificación de identidades de usuarios, asegurando que solo usuarios autorizados accedan al sistema.
+
+  <img align="center" src="assets/12.png"></p>
+
+  ##### Carpooling:
+Coordina la oferta y demanda de viajes compartidos, emparejando conductores con pasajeros.
+
+  <img align="center" src="assets/13.png"></p>
+
+  ##### Payments:
+Maneja todas las operaciones financieras, incluyendo cobros a pasajeros y pagos a conductores.
+
+  <img align="center" src="assets/14.png"></p>
+
+  ##### Notifications:
+Envía comunicaciones relevantes a usuarios, como confirmaciones de viajes, pagos y alertas.
+
+  <img align="center" src="assets/15.png"></p>
 
 ### 4.1.2. Context Mapping
 
