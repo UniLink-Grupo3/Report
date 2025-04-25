@@ -109,8 +109,8 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   </tr>
   <tr>
     <td rowspan="5"><strong>Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software</strong></td>
-    <td><strong>Alumno 1</strong><br>
-    <strong>TB1:</strong> Realicé ......</td>
+    <td><strong>Fernandez Alva, Maria Fernanda</strong><br>
+    <strong>TB1:</strong>Durante el desarrollo del proyecto, reforcé conocimientos sobre Bounded Contexts y su importancia en la estructuración del sistema. Usé herramientas como Vertabelo y Structurizr para modelar los datos y la arquitectura. </td>
     <td rowspan="5">
     <strong>TB1:</strong>En esta primera entrega,....<br>
     </td>
@@ -133,8 +133,8 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   </tr>
   <tr>
     <td rowspan="5"><strong>Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.</strong></td>
-    <td><strong>Alumno 1</strong><br>
-    <strong>TB1:</strong> Realicé ......</td>
+    <td><strong>Fernandez Alva, Maria Fernanda</strong><br>
+    <strong>TB1:</strong> Para retomar el uso de estas herramientas, recurrí a videos de YouTube y documentación oficial. Apliqué estrategias de autoaprendizaje, como el estudio del modelo C4, para elaborar diagramas del sistema. </td>
     <td rowspan="5">
     <strong>TB1:</strong> En esta primera entrega, ......</td>
   </tr>
