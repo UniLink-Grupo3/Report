@@ -59,8 +59,8 @@ del ABET – EAC - Student Outcome 5.
   
 | Criterio específico | Acciones realizadas  | Conclusiones |  
 | - | - | - |  
-| Trabaja en equipo para proporcionar liderazgo enforma conjunta. |    **Ramirez Ortega, Diego Miguel** <br> ***TB1:***<br><br>- Elaboración de los diagramas C4<br> <br> - Elaboración de los diagramas de flujo de los Wireframes <br><br> **OTRO**<br>***TB1:***<br><br> -  | CONCLUSIONES.  |/*¡¡¡¡¡¡¡¡¡¡AQUÍ EMPIEZA EL OTRO CRITERIOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!*/
-| Crea un entorno colaborativo e inclusivo, establece metas,planifica tareas y cumple objetivos. |   **Ramirez Ortega, Diego Miguel** <br> ***TB1:***<br><br>- Elaboración de los diagramas C4<br> <br> - Elaboración de los diagramas de flujo de los Wireframes <br><br> **OTRO**<br>***TB1:***<br><br> -    | CONCLUSIONES. |   
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. |    **Ramirez Ortega, Diego Miguel** <br> ***TB1:***<br><br>- Elaboración de los diagramas C4<br> <br> - Elaboración de los diagramas de flujo de los Wireframes <br><br> **OTRO**<br>***TB1:***<br><br> -  | CONCLUSIONES.  |/*¡¡¡¡¡¡¡¡¡¡AQUÍ EMPIEZA EL OTRO CRITERIOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!*/
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. |   **Ramirez Ortega, Diego Miguel** <br> ***TB1:***<br><br>- Elaboración de los diagramas C4<br> <br> - Elaboración de los diagramas de flujo de los Wireframes <br><br> **OTRO**<br>***TB1:***<br><br> -    | CONCLUSIONES. |   
 ---
 # Objetivos SMART
   
