@@ -255,7 +255,17 @@ del ABET – EAC - Student Outcome 5.
 # Capítulo III: Requirements Specification  
 ## 3.1. To-Be Scenario Mapping  
 
+En esta sección se resume la información recopilada. Se presentan dos tablas que detallan la situación a mejorar de cada segmento objetivo, analizando los pasos que se realizarán y cómo se sienten los usuarios en cada etapa.
 
+### *Segmento: Estudiantes Universitarios que necesiten movilizarse*
+
+![ScenarioMapO1.jpg](assets/ScenarioMapO2.jpg)
+
+---
+
+### *Segmento: Estudiantes Universitarios propietarios de vehículo privado*
+
+![ScenarioMapO2.jpg](assets/ScenarioMapO2.jpg)
 
 ## 3.2. User Stories  
 
