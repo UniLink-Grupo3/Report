@@ -389,7 +389,7 @@ Envía comunicaciones relevantes a usuarios, como confirmaciones de viajes, pago
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
-### 4.2.1. Bounded Context: Gestión de Viajes Compartidos
+### 4.2.1. Bounded Context: Carpooling
 
 <table border="1">
   <thead>
@@ -608,7 +608,7 @@ Para mayor información, visualizar la (ver figura 4.20).
 <p align="center"><em>Figura 4.20: Database Design Diagram - Primer Bounded Context</em></p>
 
 
-### 4.2.2. Bounded Context: Gestión de Usuarios y Seguridad
+### 4.2.2. Bounded Context: Authentication
 
 <table border="1">
   <thead>
