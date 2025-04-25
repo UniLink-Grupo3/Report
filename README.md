@@ -486,7 +486,17 @@ A continuación se pueden apreciar los User Journey Mapping de los segmentos obj
 
 ### 2.3.4. Empathy Mapping  
 
+A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivos.
 
+#### *Estudiantes Universitarios*
+
+<img src="assets/images/empathy-mapping/empathy-mapping-1.png" width="900px">
+
+#### *Estudiantes universitarios propietarios de vehículos privados*
+
+<img src="assets/images/empathy-mapping/empathy-mapping-2.png" width="900px">
+
+---
 
 ### 2.3.5. As-is Scenario Mapping  
 
