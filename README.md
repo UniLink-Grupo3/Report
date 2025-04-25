@@ -120,8 +120,8 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <strong>TB1:</strong> Realicé uno de los principales Bounded Contexts del proyecto para entender el funcionamiento de una parte clave de la app. Utilicé StarUML para diagramas de clases y contenedores, y Structurizr para modelar en los niveles 2, 3 y 4 del modelo C4. Esto fortaleció mis conocimientos en modelado de software y estructura de sistemas complejos.</td>
   </tr>
   <tr>
-    <td><strong>Alumno 3</strong><br>
-    <strong>TB1:</strong> Realicé .......</td>
+    <td><strong>Valera Garces, Samuel Ignacio</strong><br>
+    <strong>TB1:</strong> Realicé un proceso de EventStorming para comprender en profundidad una parte clave de la aplicación. Utilicé Miro para modelar Domain Message Flows, Bounded Context Canvases y realizar Candidate Context Discovery. Esta actividad me permitió identificar uno de los principales Bounded Contexts del proyecto, lo que fortaleció significativamente mis conocimientos en modelado de dominios y diseño de sistemas complejos.</td>
   </tr>
   <tr>
     <td><strong>Alumno 4</strong><br>
@@ -143,8 +143,8 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <strong>TB1:</strong> Para aplicar correctamente estas herramientas, consulté la documentación oficial del modelo C4 y videos de YouTube sobre el uso de StarUML. Este proceso me ayudó a comprender la necesidad del aprendizaje continuo. Gracias a ello, pude implementar estrategias de autoformación efectivas para mejorar mi desempeño.</td>
   </tr>
   <tr>
-    <td><strong>Alumno 3</strong><br>
-    <strong>TB1:</strong> Realicé .......</td>
+    <td><strong>Valera Garces, Samuel Ignacio</strong><br>
+    <strong>TB1:</strong> Para aplicar correctamente estas herramientas, me apoyé en documentación oficial sobre EventStorming y en recursos como artículos especializados y videos de YouTube sobre el uso de Miro en entornos colaborativos. Este proceso reforzó en mí la importancia del aprendizaje continuo y me permitió desarrollar estrategias de autoformación efectivas para mejorar mi desempeño y comprensión del modelado de dominios.</td>
   </tr>
   <tr>
     <td><strong>Alumno 4</strong><br>
@@ -187,13 +187,15 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   </tr>
 
   <tr>
-    <th>Alumno 3</th>
+    <th>Valera Garces, Samuel Ignacio</th>
   </tr>
   <tr>
     <td>
       <strong>Objetivo SMART 1:</strong><br>
-      <br>
+      Aprender y aplicar los fundamentos de EventStorming, completando al menos 3 sesiones de práctica (Domain Message Flow, Bounded Context Canvas y Candidate Context Discovery) en Miro antes de la semana 6, para poder identificar Bounded Contexts relevantes sin asistencia externa.
+      <br><br>
       <strong>Objetivo SMART 2:</strong><br>
+      Desarrollar habilidades en modelado colaborativo de dominios utilizando Miro, facilitando al menos una sesión de EventStorming grupal simulada antes de la semana 8, incluyendo la documentación y síntesis de los hallazgos para su uso en diseño de arquitectura.
     </td>
   </tr>
 
