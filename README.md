@@ -315,33 +315,40 @@ Aspiramos a ser líderes en movilidad estudiantil, reconocidos por nuestro compr
 
 ### 1.1.2 Perfiles de integrantes del equipo  
 
-<table align="center" border="1" width="70%" style="text-align:center;">
-    <tr align="center">
-        <td rowspan="3">
-            <img src="images/diego.JPG" alt="Diego" style="margin-bottom: 5px;" width="800" />
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>
-            Diego Miguel Ramirez Ortega
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-            <b>Carrera:</b>
-            <br>
-            Ingeniería de Software
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-            <b>Acerca de:</b>
-            <br>
-            Mi nombre es Diego Ramirez, tengo 21 años y estoy estudiando la carrera de Ingeniería de Software. Tengo conocimiento en C++, Python y edición de vídeo. Estoy comprometido a completar las tareas que se me asignen a tiempo y apoyar en lo que pueda en el proyecto.
-        </td>
-    </tr>
+<table>
+  <tr>
+    <th>Miembros del equipo</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td><img src="assets/images/profiles/Anampa_Angel.jpg" alt="" width="100" height="100"></td>
+    <td>(descripción)</td>
+  </tr>
+  
+   <tr>
+    <td><img src="assets/images/profiles/AlessandroDavid.png" width="150" height="130"></td>
+    <td>(descripción)</td>
+  </tr>
+
+  <tr>
+    <td><img src="assets/Maria_Pilares.jpg" width="100" height="100"></td>
+    <td>Mi nombre es Maria Pilares Pocohuanca, tengo 22 años y estudio la carrera de ingeniería de software en la UPC. Desde niña tuve mucho interés por las matemáticas y la tecnología, motivo por el cual estudio una ingeniería enfocada más a la programación. Me considero una persona perseverante aunque algo impaciente. Sin embargo, como miembro del equipo me comprometo a colaborar con mis compañeros y realizar todas las indicaciones que se dicten, todo con el fin de presentar un buen proyecto.</td>
+  </tr>
+
+  <tr>
+    <td><img src="assets/Diego-Ramirez.jpeg" width="140" height="140"></td>
+    <td>Mi nombre es Diego Ramirez, tengo 21 años y estoy estudiando la carrera de Ingeniería de Software. Tengo conocimiento en C++, Python y edición de vídeo. Estoy comprometido a completar las tareas que se me asignen a tiempo y apoyar en lo que pueda en el proyecto.</td>
+  </tr>
+
+  <tr>
+    <td><img src="./assets/images/profiles/FrankyMallma.png" width="140" height="140"></td>
+    <td>(descripción)
+</td>
+  </tr>
+
 </table>
-    
+
+---
  
 ## 1.2 Solution Profile  
 
