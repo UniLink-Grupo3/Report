@@ -383,14 +383,19 @@ Context mapping es una técnica utilizada en el desarrollo de software, especial
 
 ### 4.1.3.1. Software Architecture Context Level Diagrams
 
+Los diagramas de contexto nos proporciona una vista simplificada del sistema, enfocándose en qué hace el sistema, quién lo usa y con qué otros sistemas interactúa, sin entrar en detalles técnicos. A continuación, se mostrará el Diagrama de Contexto de nuestro sistema:
+
  <img align="center" src="assets/Context-Diagram.png"></p>
 
 ### 4.1.3.2. Software Architecture Container Level Diagrams
+
+Los diagramas de contenedores se utiliza principalmente para mostrar la arquitectura técnica global de un sistema, sin entrar en detalles de código. A continuación, se mostrará el Diagrama de Contenedores de neustro sistema:
 
  <img align="center" src="assets/Container-Diagram.png"></p>
 
 ### 4.1.3.3. Software Architecture Deployment Diagrams
 
+Los Software Architecture Deployment Diagram se utilizan para facilitar la comprensión de la infraestructura del sistema, en este caso, para indentificar en que equipos se despliegan los componentes del software. A continuación, se mostrará el Deployment Diagram de nuestro sistema:
 
  <img align="center" src="assets/Deployment-Diagram.png"></p>
 
