@@ -501,6 +501,20 @@ A continuación se pueden apreciar los Empathy Mapping de los segmentos objetivo
 ### 2.3.5. As-is Scenario Mapping  
 
 
+A continuación se pueden apreciar los As-Is Scenario de los segmentos objetivos.
+
+#### *Estudiantes Universitarios*
+
+<img src="assets/images/as-is-scenario-mapping/as-is-scenario-1.png" width="900px">
+
+#### *Estudiantes universitarios propietarios de vehículos privados*
+
+<img src="assets/images/as-is-scenario-mapping/as-is-scenario-2.png" width="900px">
+
+**Enlace de Miro:** [As-Is Scenario Mapping Board](https://miro.com/app/board/uXjVKlGuWKk=/?share_link_id=612949293517)
+
+---
+
 ## 2.4. Ubiquitous Language  
 
 - Usuario: Estudiante universitario registrado en la plataforma, ya sea como conductor o pasajero.
