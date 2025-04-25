@@ -199,7 +199,14 @@ del ABET – EAC - Student Outcome 5.
 # Capítulo II: Requirements Elicitation & Analysis  
 ## 2.1 Competidores  
 
+### BlaBlaCar
+Es una plataforma global de ride-sharing que conecta conductores y pasajeros para compartir viajes de media y larga distancia. Los usuarios pueden dividir los costos del viaje, lo que hace que el transporte sea más económico y sostenible. BlaBlaCar fomenta la colaboración y la optimización de recursos al reducir la cantidad de vehículos en la carretera.
 
+### Urbvan
+Es una plataforma de transporte privado en van que opera en rutas predefinidas, generalmente en áreas metropolitanas. Se enfoca en ofrecer una alternativa más eficiente y cómoda al transporte público, brindando un servicio seguro y puntual a través de vehículos compartidos, pero con un enfoque de calidad y confort para los usuarios.
+
+### Yango
+Es una aplicación internacional de ride-hailing que ofrece transporte bajo demanda con tarifas competitivas y un enfoque en la facilidad de uso. Opera en diversas ciudades del mundo, brindando a los usuarios una experiencia de transporte rápida, segura y accesible, con la opción de reservar y pagar viajes directamente a través de la aplicación.
 
 ### 2.1.1. Análisis Competitivo  
 
