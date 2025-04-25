@@ -331,8 +331,8 @@ Aspiramos a ser líderes en movilidad estudiantil, reconocidos por nuestro compr
   </tr>
   
    <tr>
-    <td><img src="assets/images/profiles/AlessandroDavid.png" width="150" height="130"></td>
-    <td>(descripción)</td>
+    <td><img src="assets/Maria_fernandez.png" width="150" height="130"></td>
+    <td>Mi nombre ess Maria Fernanda Fernandez Alva. Soy una persona muy responsable y siempre me esfuerzo por estar atenta al grupo para apoyar en caso de que alguno de nosotros enfrente dificultades con sus tareas. Tengo conocimientos básicos en HTML, CSS y JavaScript, lo que me permite comprender y desarrollar proyectos web. Mi meta es emprender en el campo de la programación de páginas web, donde espero aplicar mis habilidades y crecer profesionalmente.</td>
   </tr>
 
   <tr>
