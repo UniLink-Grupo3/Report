@@ -259,7 +259,7 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
 
 ### *Segmento: Estudiantes Universitarios que necesiten movilizarse*
 
-![ScenarioMapO1.jpg](assets/ScenarioMapO2.jpg)
+![ScenarioMapO1.jpg](assets/ScenarioMapO1.jpg)
 
 ---
 
