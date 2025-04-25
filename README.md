@@ -1,69 +1,221 @@
 <div align="center">
-  
+
+# Universidad Peruana De Ciencias Aplicadas
+## 1ACC0238 - Aplicaciones para Dispositivos Móviles
+
 ![Logo UPC](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)  
   
-Universidad Peruana de Ciencias Aplicadas  
-  
-Carrera: Ingeniería de Software  
-  
-Ciclo: 2024-02  
-  
-Curso: Aplicaciones Web  
-  
-Sección: SW52  
-  
-Profesor: Juan Carlos Tinoco Licas  
-  
-Informe del Trabajo Final  
-  
-Startup: TechOps  
-  
-Producto: ZenFlicks  
+## **Sección: 346** 
+## Profesor: Jorge Luis Mayta Guillermo
 
-| Member                                | Code       |
-|---------------------------------------|------------|
-| Pilares Pocohuanca, Maria        | u202215528 |
-| Ramirez Ortega, Diego Miguel          | u202123548 |
-
+# **Informe de Trabajo Final**
+## **Startup: UniLink**
+## **Producto: RideUp**
+  
+<div>
+     <table align="center">
+        <tr>
+            <th style="text-align:center;">Código</th>
+            <th style="text-align:center;">Apellidos y Nombres</th>
+        </tr>
+        <tr>
+            <td>u202215528</td>
+            <td>Pilares Pocohuanca, Maria</td>
+        </tr>
+        <tr>
+            <td>u202123548</td>
+            <td>Ramirez Ortega, Diego Miguel</td>
+        </tr>
+        <tr>
+            <td>U20191a137</td>
+            <td>Belleza Tello, Paolo Eduardo</td>
+        </tr>
+        <tr>
+            <td>U20201c131</td>
+            <td>Fernandez Alva, María Fernanda</td>
+        </tr>
+        <tr>
+            <td>U202111952</td>
+            <td>Valera Garces, Samuel Ignacio</td>
+        </tr>
+    </table>
+</div>
 
 </div>
 
 <div align="center">
   
-**Agosto del 2024**
+**Abril del 2024**
 </div>
   
 ---  
 # Registro de Versiones del Informe  
   
-| Versión | Fecha       | Autor                                  | Descripción de modificaciones |
-|---------|-------------|----------------------------------------|-------------------------------|
-| 3.0     | 4/11/2024   | Pilares Pocohuanca, Maria              | Capítulo III                  |
-|         |             | Ramirez Ortega, Diego Miguel           |                               |
+<table border="1">
+  <thead>
+    <tr>
+      <th>Versión</th>
+      <th>Fecha</th>
+      <th>Autor</th>
+      <th>Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TB1</td>
+      <td>25/04/2025</td>
+      <td>
+        <ul>
+            <li>Pilares Pocohuanca, Maria</li>
+            <li>Ramirez Ortega, Diego Miguel</li>
+            <li>Valera Garces, Samuel Ignacio</li>
+            <li>Belleza Tello, Paolo Eduardo</li>
+            <li>Fernandez Alva, Maria Fernanda</li>
+        </ul>
+      </td>
+      <td>
+        ● Capítulo I: Introducción<br>
+        ● Capítulo II: Requirements Elicitation & Analysis<br>
+        ● Capítulo III: Requirements Specification<br>
+        ● Capítulo IV: Solution Software Design<br>
+        ● Avance de Conclusiones, Bibliografía y Anexos
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 ---  
 # Project Report Collaboration Insights  
   
-![insights-](images/insights-zen.JPG)
+A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
+
+**URL del Repositorio del Informe:** 
+
+**Entrega N°1: TB1**
+<br>
+- Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas para cada capítulo, lo que permitió un mayor avance y equidad en el desarrollo del informe.
+
+- Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo.
   
 ---  
 # Student Outcome  
-El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - Student Outcome 5** <br> Criterio: *La capacidad de funcionar efectivamente en un equipo cuyos miembros
-juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
-establecen objetivos, planifican tareas y cumplen objetivos.*  
-  
-En el siguiente cuadro se describe las acciones realizadas y enunciados de
-conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
-del ABET – EAC - Student Outcome 5. 
-  
-| Criterio específico | Acciones realizadas  | Conclusiones |  
-| - | - | - |  
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. |    **Ramirez Ortega, Diego Miguel** <br> ***TB1:***<br><br>- Elaboración de los diagramas C4<br> <br> - Elaboración de los diagramas de flujo de los Wireframes <br><br> **OTRO**<br>***TB1:***<br><br> -  | CONCLUSIONES.  |/*¡¡¡¡¡¡¡¡¡¡AQUÍ EMPIEZA EL OTRO CRITERIOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!*/
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. |   **Ramirez Ortega, Diego Miguel** <br> ***TB1:***<br><br>- Elaboración de los diagramas C4<br> <br> - Elaboración de los diagramas de flujo de los Wireframes <br><br> **OTRO**<br>***TB1:***<br><br> -    | CONCLUSIONES. |   
+
+<table>
+  <tr>
+    <th>Criterio Específicos</th>
+    <th>Acciones realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
+    <td rowspan="5"><strong>Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software</strong></td>
+    <td><strong>Alumno 1</strong><br>
+    <strong>TB1:</strong> Realicé ......</td>
+    <td rowspan="5">
+    <strong>TB1:</strong>En esta primera entrega,....<br>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Alumno 2</strong><br>
+    <strong>TB1:</strong> Realicé .......</td>
+  </tr>
+  <tr>
+    <td><strong>Alumno 3</strong><br>
+    <strong>TB1:</strong> Realicé .......</td>
+  </tr>
+  <tr>
+    <td><strong>Alumno 4</strong><br>
+    <strong>TB1:</strong> Realicé .......</td>
+  </tr>
+  <tr>
+    <td><strong>Alumno 5</strong><br>
+    <strong>TB1:</strong> Realicé .......</td>
+  </tr>
+  <tr>
+    <td rowspan="5"><strong>Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.</strong></td>
+    <td><strong>Alumno 1</strong><br>
+    <strong>TB1:</strong> Realicé ......</td>
+    <td rowspan="5">
+    <strong>TB1:</strong> En esta primera entrega, ......</td>
+  </tr>
+  <tr>
+    <td><strong>Alumno 2</strong><br>
+    <strong>TB1:</strong> Realicé .......</td>
+  </tr>
+  <tr>
+    <td><strong>Alumno 3</strong><br>
+    <strong>TB1:</strong> Realicé .......</td>
+  </tr>
+  <tr>
+    <td><strong>Alumno 4</strong><br>
+    <strong>TB1:</strong> Realicé .......</td>
+  </tr>
+  <tr>
+    <td><strong>Alumno 5</strong><br>
+    <strong>TB1:</strong> Realicé .......</td>
+  </tr>
+</table>
+
 ---
 # Objetivos SMART
   
+<table border="1">
+  <tr>
+    <th>Alumno 1</th>
+  </tr>
+  <tr>
+    <td>
+      <strong>Objetivo SMART 1:</strong><br>
+      <br>
+      <strong>Objetivo SMART 2:</strong><br>
+    </td>
+  </tr>
+  
+  <tr>
+    <th>Alumno 2</th>
+  </tr>
+  <tr>
+    <td>
+      <strong>Objetivo SMART 1:</strong><br>
+      <br>
+      <strong>Objetivo SMART 2:</strong><br>
+    </td>
+  </tr>
+
+  <tr>
+    <th>Alumno 3</th>
+  </tr>
+  <tr>
+    <td>
+      <strong>Objetivo SMART 1:</strong><br>
+      <br>
+      <strong>Objetivo SMART 2:</strong><br>
+    </td>
+  </tr>
+
+  <tr>
+    <th>Alumno 4</th>
+  </tr>
+  <tr>
+    <td>
+      <strong>Objetivo SMART 1:</strong><br>
+      <br>
+      <strong>Objetivo SMART 2:</strong><br>
+    </td>
+  </tr>
+
+  <tr>
+    <th>Alumno 5</th>
+  </tr>
+  <tr>
+    <td>
+      <strong>Objetivo SMART 1:</strong>text<br>
+      <br>
+      <strong>Objetivo SMART 2:</strong>text<br>
+    </td>
+  </tr>
+</table>
+
 ---  
 # Contenido  
 ## Tabla de contenidos  
