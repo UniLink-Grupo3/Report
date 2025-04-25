@@ -165,9 +165,11 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   </tr>
   <tr>
     <td>
-      <strong>Objetivo SMART 1:</strong>Aprender los fundamentos del lenguaje de programación utilizado en Android Studio (Kotlin o Java), completando al menos 3 módulos teóricos y 3 ejercicios prácticos por semana hasta la semana 10, para poder programar funcionalidades básicas sin ayuda externa.<br>
-      <br>
-      <strong>Objetivo SMART 2:</strong>Aprender a implementar la navegación entre pantallas usando el Navigation Component de Android Studio, creando una app con al menos 2 pantallas conectadas entre sí antes de la semana 8, incluyendo la navegación con paso de datos entre pantallas.<br>
+      <strong>Objetivo SMART 1:</strong><br>
+      Aprender los fundamentos del lenguaje de programación utilizado en Android Studio (Kotlin o Java), completando al menos 3 módulos teóricos y 3 ejercicios prácticos por semana hasta la semana 10, para poder programar funcionalidades básicas sin ayuda externa.
+      <br><br>
+      <strong>Objetivo SMART 2:</strong><br>
+      Aprender a implementar la navegación entre pantallas usando el Navigation Component de Android Studio, creando una app con al menos 2 pantallas conectadas entre sí antes de la semana 8, incluyendo la navegación con paso de datos entre pantallas.
     </td>
   </tr>
   
