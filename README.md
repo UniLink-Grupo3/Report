@@ -228,24 +228,24 @@ Es una aplicación internacional de ride-hailing que ofrece transporte bajo dema
          RideUp
          <br>
          <div style="text-align: center; margin-top: 10px;">
-                 <img src="images/logo/gounilogo.jfif" alt="StartUp" width="100px">
+                 <img src="assets/logo/gounilogo.jfif" alt="StartUp" width="100px">
          </div>
      <td colspan="1" valign="top" style="font-weight: bold;">
      BlaBlaCar
      <div style="text-align: center; margin-top: 20px;">
-                 <img src="images/competitors logo/blablacar.png" alt="blablacar" width="100px">
+                 <img src="assets/competitorsLogo/blablacar.png" alt="blablacar" width="100px">
          </div>
      </td>
      <td colspan="1" valign="top" style="font-weight: bold;">
        Urbvan
        <div style="text-align: center; margin-top: 40px;">
-                 <img src="images/competitors logo/urbvan.png" alt="urbvan" width="200px">
+                 <img src="assets/competitorsLogo/urbvan.png" alt="urbvan" width="200px">
              </div>
        </td>
      <td colspan="1" valign="top" style="font-weight: bold;" >
        Yango
        <div style="text-align: center; margin-top: 20px;">
-                 <img src="images/competitors logo/yango.png" alt="yango" width="610px">
+                 <img src="assets/competitorsLogo/yango.png" alt="yango" width="610px">
              </div>
      </td>
    </tr>
