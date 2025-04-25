@@ -439,6 +439,34 @@ En esta sección se han definido todas las preguntas que se plantearan en el mom
 
 ### 2.3.2. User Task Matrix  
 
+A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos.
+
+#### *Segmento Objetivo: Estudiantes Universitarios*
+
+| **Task**                                 | **Frequency** | **Importance** |
+|------------------------------------------|---------------|-----------------|
+| Buscar compañeros disponibles en la app  | High          | High            |
+| Coordinar el punto de encuentro           | Medium        | Medium          |
+| Realizar pagos a través de la app         | Medium        | High            |
+| Verificar la seguridad del conductor/compañeros | High      | High            |
+| Calificar al conductor y el viaje         | Low           | Medium          |
+| Planificar viajes recurrentes             | Medium        | High            |
+| Ser partícipe de promociones o descuentos | Low           | Medium          |
+
+---
+
+#### *Segmento Objetivo: Estudiantes universitarios propietarios de vehículos privados*
+
+| **Task**                                 | **Frequency** | **Importance** |
+|------------------------------------------|---------------|-----------------|
+| Publicar la disponibilidad del vehículo  | High          | High            |
+| Aceptar solicitudes de pasajero           | High          | High            |
+| Coordinar horarios y puntos de recogida   | Medium        | Medium          |
+| Recibir pago de los pasajeros             | High          | High            |
+| Revisar la seguridad y confiabilidad del pasajero | Medium  | High            |
+| Calificar a los pasajeros                 | Low           | Medium          |
+| Optimizar rutas para ahorrar tiempo y combustible | Medium | High            |
+
 
 
 ### 2.3.3. User Journey Mapping  
