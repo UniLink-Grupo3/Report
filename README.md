@@ -200,16 +200,19 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   </tr>
 
   <tr>
-    <th>Alumno 4</th>
+    <th>Pilares Pocohuanca, Maria</th>
   </tr>
   <tr>
     <td>
       <strong>Objetivo SMART 1:</strong><br>
+      Comprender los fundamentos del diseño de interfaces móviles en Android Studio, desarrollando al menos 3 prototipos de pantalla funcionales (login, home y perfil), aplicando buenas prácticas de usabilidad y diseño adaptable.
       <br>
       <strong>Objetivo SMART 2:</strong><br>
+      Aprender a integrar funcionalidades básicas con componentes móviles (como botones, listas y campos de texto), construyendo una vista interactiva que responda a acciones del usuario sin depender de asistencia externa para su implementación.
     </td>
   </tr>
 
+  
   <tr>
     <th>Alumno 5</th>
   </tr>
