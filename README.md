@@ -281,6 +281,47 @@ Crear una plataforma de carpooling diseñada específicamente para estudiantes u
 
 #### 1.2.2.2. Lean UX Assumptions  
 
+Assumptions play a crucial role in identifying project risks and fostering team participation and active engagement.
+
+#### User Assumptions
+
+Who is the user?
+- The user is any university student interested in a faster, safer, and more efficient way to commute to their university.
+
+Where does our product fit into their work or life?
+- Our product integrates seamlessly into users' daily lives, providing an efficient and accessible transportation solution. It helps avoid stress, risks of theft, fatigue caused by overcrowded buses, and high transportation costs.
+
+What problems does our product need to solve?
+- Our product addresses inefficiencies in commuting, scheduling conflicts among travel companions, and low vehicle occupancy that limit carpooling effectiveness. It also aims to reduce transportation costs and enhance the overall experience for students.
+
+When and how is our product used?
+- The product is used daily by students to coordinate shared rides to and from the university. It matches users with compatible routes and schedules.
+
+How should our product look and behave?
+- The product should be intuitive and user-friendly, featuring an interface that enables users to efficiently plan and coordinate trips. It must function reliably, ensuring users can quickly find travel companions and complete their trips safely and affordably.
+
+####Business Assumptions
+
+We believe that:
+- Our customers need a platform that allows them to coordinate and share rides to the university in a safe, efficient, and economical way. Students are seeking to reduce travel costs and times while minimizing stress associated with daily transportation.
+- These needs can be addressed with a mobile application that connects university students, enabling them to share car rides, lower transportation expenses, and improve their daily commuting experience.
+
+The #1 value my customer wants from my service:
+
+- For students offering rides: A platform that helps fill empty seats in their vehicles, optimizing costs and maximizing the efficiency of their daily commutes.
+
+- For students seeking rides: A secure and economical way to reach the university, reducing travel time and the stress of overcrowded public transportation.
+
+- For universities: A solution that reduces traffic congestion and environmental impact, promoting a more sustainable mode of transportation for their students.
+
+Additional benefits for customers:
+
+- Student Networking: Opportunities to connect with fellow university students, building a social and academic network that enriches their university experience.
+
+- Incentives and Rewards: Frequent users can access discounts, special promotions, or rewards for participating in the carpooling system.
+
+- Feedback and Continuous Improvement: Users can provide and receive feedback on trips, enhancing service quality and ensuring a positive experience for all involved.
+
 
 #### 1.2.2.3. Lean UX Hypothesis Statements  
 
