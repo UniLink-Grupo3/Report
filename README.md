@@ -471,6 +471,17 @@ A continuación se pueden apreciar los User Task Matrix de los segmentos objetiv
 
 ### 2.3.3. User Journey Mapping  
 
+A continuación se pueden apreciar los User Journey Mapping de los segmentos objetivos.
+
+#### *Estudiantes Universitarios*
+
+<img src="assets/images/user-journey-mapping/journey-map-1.png" width="900px">
+
+#### *Estudiantes universitarios propietarios de vehículos privados*
+
+<img src="assets/images/user-journey-mapping/journey-map-2.png" width="900px">
+
+---
 
 
 ### 2.3.4. Empathy Mapping  
