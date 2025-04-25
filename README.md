@@ -913,29 +913,33 @@ Para mayor información, visualizar la (ver figura 4.25).
 
 
 
-## Conclusiones  
+# Conclusiones
+Para asegurar el éxito en el desarrollo del proyecto, es fundamental que todos los integrantes del equipo participen activamente y colaboren de manera equitativa, permitiendo así un avance eficiente hacia los objetivos del trabajo como del curso. La correcta elaboración de User Stories , del Product Backlog junto con las entrevistas nos permitirá comprender con claridad qué características y funcionalidades debe incluir la app para ser realmente útil y práctica para los usuarios.
 
+Por último, la definición adecuada de los Bounded Contexts que se emplearán en la aplicación contribuirá a una mejor organización del sistema, facilitando su desarrollo, mantenimiento y escalabilidad.
 
-## Bibliografía
+# Bibliografías
 
+- C4 Model. (s.f.). *Container diagram*. [https://c4model.com/diagrams/container](https://c4model.com/diagrams/container)
 
-## Anexos
-Figma: [Link-to-Figma]()
+- Comunica. (2024, diciembre 5). *Estudiantes universitarios sufren la falta de transporte estudiantil*. [https://comunica.edu.sv/2024/12/05/estudiantes-universitarios-sufren-la-falta-de-transporte-estudiantil](https://comunica.edu.sv/2024/12/05/estudiantes-universitarios-sufren-la-falta-de-transporte-estudiantil)
 
+# Anexos
 
-### Video de Exposiciones
-Video de exposición TB1: [TB1]()
+- As-Is Scenario Mapping :<br>
+[https://miro.com/app/board/uXjVKlGuWKk=/](https://miro.com/app/board/uXjVKlGuWKk=/)
 
+- Bounded Context Software Architecture Code Level Diagrams - 1: <br>
+[https://lucid.app/lucidchart/ba7eb10c-e544-4fc8-b804-4b6c61c27512/edit?invitationId=inv_486fb944-f084-487f-9a62-6dd27fdd0cd6&page=0_0#](https://lucid.app/lucidchart/ba7eb10c-e544-4fc8-b804-4b6c61c27512/edit?invitationId=inv_486fb944-f084-487f-9a62-6dd27fdd0cd6&page=0_0#)
 
-### Video About-the-Team  
+- Bounded Context Domain Layer Class Diagrams - 1: <br>
+[https://lucid.app/lucidchart/1d047c21-2027-4f55-826b-3d8aa0187af3/edit?invitationId=inv_234c091b-78e7-4740-a8f4-c143c10b6b47&page=0_0#](https://lucid.app/lucidchart/1d047c21-2027-4f55-826b-3d8aa0187af3/edit?invitationId=inv_234c091b-78e7-4740-a8f4-c143c10b6b47&page=0_0#)
 
-|**`Link To Video`**|>|[About-the-team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EYYgfO6qv-5FmvdWoWJUfg0BVwG2fV3Omko6SU_1C7B8eQ?e=YplrsE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
-|-----|----|----|
+- Bounded Context Software Architecture Code Level Diagrams - 2: <br>
+[https://lucid.app/lucidchart/4b8b9ee9-db64-48be-b774-0578fc824a01/edit?invitationId=inv_e8e4be50-05d4-450a-b220-406c189108ab&page=0_0#](https://lucid.app/lucidchart/4b8b9ee9-db64-48be-b774-0578fc824a01/edit?invitationId=inv_e8e4be50-05d4-450a-b220-406c189108ab&page=0_0#)
 
-### Video About-The-Product
-
-|**`Link To Video`**|>|[About-The-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181g752_upc_edu_pe/EbeBXBQiJlZIhmsEWZ728jUBeGwVgvaO7GQOCNCNvVP0Cg?e=S7PvNL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
-|-----|----|----|
+- Bounded Context Domain Layer Class Diagrams - 2: <br>
+[https://lucid.app/lucidchart/d3478451-d855-4364-8380-db7c3b9a8999/edit?invitationId=inv_d3ac8bfe-466b-405b-9556-2ad17c5aaa7b&page=0_0#](https://lucid.app/lucidchart/d3478451-d855-4364-8380-db7c3b9a8999/edit?invitationId=inv_d3ac8bfe-466b-405b-9556-2ad17c5aaa7b&page=0_0#)
 
 
 
