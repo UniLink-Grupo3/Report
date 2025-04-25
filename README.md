@@ -422,6 +422,67 @@ En esta sección se han definido todas las preguntas que se plantearan en el mom
 7. ¿Qué información considerarías imprescindible saber de las personas que viajarán contigo?
 
 ### 2.2.2. Registro de entrevistas  
+<!--EDITANDO -->
+
+#### **Segmento 1: Estudiantes Universitarios**
+
+<!--EDITAR SEGUN DATOS DEL ENTREVISTADO -->
+
+|Entrevistado 1|(colocar nombre)|
+|-|-|
+|Edad|22|
+|Distrito|Lima|
+|<img width="1292" alt="Entrevista1_JosepMelgarejo" src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Entrevistas/Entrevista1_JosepMelgarejo.jpg">|Josep Melgarejo a pesar de ser una persona de corta edad, cuenta con experiencia en el sector de ganadero debido a haber vivido toda su vida con una familia dedicada a la ganadería, trabaja en una unidad de ganadería de 45 animales y ocho personas apróximadamente. Se evidencia la falta de seguridad en el traslado de datos, puesto que lo realizan de manera manual con libros y cuadernos en donde realizan apuntes sobre la alimentación de los animales, vacunas, controles, etc. Sus principales dificultades son que las vacas y cerdos, debido al corto espacio pueden sufrir el tema de la convivencia diaria en el ganado, lo cual esto perjudicaría en la producción de alimentos, calidad de vida, entre otras cosas. Considera importante un registro digital, de esta forma facilitaría los procesos de producción y registro de vacunas de sus animales.  |
+|Timing: 0:01-5:28 |URL: [upc-pre-202510-1acc0238-UniLink]((colocar enlace))|
+
+<!--EDITAR SEGUN DATOS DEL ENTREVISTADO -->
+
+|Entrevistado 2|(colocar nombre)|
+|-|-|
+|Edad|25|
+|Distrito|Lima|
+|<img width="1292" alt="Entrevista2_AngelBerrospi" src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Entrevistas/Entrevista2_AngelBerrospi.jpg">|Angel es una persona que cuenta con 7 años de experiencia en el sector de la ganadería, empezando desde muy joven hasta el día de hoy, en su ganadería cuenta con 60 animales entre 3 personas en la que esas personas se encuentra su padre como principal responsable del sector ganadero. En su experiencia cuenta que un momento complicado en la gestión fue cuando al momento de querer gestionar y saber el registro de vacunas de las vacas, esta no era posible debido a una posible confusión en la selección de los animales que les corresponda la vacuna. Lo que a él le gustaría para su gestión es encontrar un medio digital en el que se le pueda proporcionar la información acerca del historial de salud, comida, vacunas, tratamientos, etc. En su momento, un registro básico. Nunca ha usado una aplicación que le ayude a gestionar y para él sería una gran oportunidad para solucionar estas problemáticas que complican la gestión de su ganado.|
+|Timing: 5:30-9:27 |URL: [upc-pre-202510-1acc0238-UniLink]((colocar enlace))|
+
+<!--EDITAR SEGUN DATOS DEL ENTREVISTADO -->
+
+|Entrevistado 3|(colocar nombre)|
+|-|-|
+|Edad|25|
+|Distrito|Lima|
+|<img width="1292" alt="Entrevista3_JoseGalvez" src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Entrevistas/Entrevista3_JoseGalvez.jpg">|José Galvez lleva 7 años en la dedicación de la ganadería, decidiendo ayudar a su padre en la gestión, maneja ganado bovino que es su principal especialidad. En su ganado cuenta con 120 animales de las cuales trabajan 3 personas, las cuales son: Un vaquero fijo, un ayudante eventual y él. Cuenta en su experiencia que el lleva los registros de su ganado en un cuaderno para apuntar las vacunas y también los pesos de los animales, también cuenta con un excel básico en su laptop portatil, pero no es de mucha ayuda. Considera de gran importancia una plataforma digital que ayude en su registro, pues un problema constante que pasa en su ganado es que suele olvidarse el día y/o animal al cual ha vacunado, por lo que tener ese registro digital lo ayudaría un montón a mejorar la calidad de la producción del ganado. |
+|Timing: 9:28-16:28 |URL: [upc-pre-202510-1acc0238-UniLink]((colocar enlace))|
+
+
+
+#### **Segmento 2: Estudiantes universitarios propietarios de vehículos privados**
+
+<!--EDITAR SEGUN DATOS DEL ENTREVISTADO -->
+
+|Entrevistado 4|(colocar nombre)|
+|-|-|
+|Edad|28|
+|Ciudad|Arequipa|
+|<img width="1292" alt="Entrevista4_MarcoRodriguez" src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Entrevistas/Entrevista4_MarcoRodriguez.jpg">| Marco es una persona que lleva ejerciendo 3 años como veterinario, sin embargo contando desde sus prácticas, serían 5 años en el medio de la veterinaria. El seguimiento y sus registros lo digitaliza en un excel, de esta forma le facilita en el almacén de datos y la búsqueda de los mismos en caso de ser necesario. Según él, al utilizar una plataforma digital que no le requiera complicaciones debido a una interfaz sencilla y amigable, le ayudaría a despreocuparse del tema de la búsqueda de datos y solo tendría que buscar la información en la misma página web. La escasez de los datos de los animales, retrasa y complica el diagnóstico de los animales, por lo que contar con esa información de antemano facilitaría el tratamiento, inspección o registro del animal. |
+|Timing: 16:37-19:56 |URL: [upc-pre-202510-1acc0238-UniLink]((colocar enlace))|
+
+<!--EDITAR SEGUN DATOS DEL ENTREVISTADO -->
+
+|Entrevistado 5|(colocar nombre)|
+|-|-|
+|Edad|27|
+|Ciudad|Cajamarca|
+|<img width="1292" alt="Entrevista5_MarianaRosas" src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Entrevistas/Entrevista5_MarianaRosas.jpg">| Milagros cuenta con 2 años de experiencia como veterinaria, trabajando en la ciudad de Cajamarca pero en ciudades rurales como Cajabamba, se especializa en la atención de ganado bovino. Cuenta que la ganadería lechera es muy demandada, por lo que la mayoría de sus atenciones se relacionarían con las vacas. Su registro lo lleva de manera física en cuadernos y/o fichas clínicas, de acuerdo al tipo de cliente. Cuenta que no lleva un registro digital de forma sistemática. Intentó probar aplicaciones, sin embargo no se adecúan al contexto que es necesario y al ser zona rural es muy dificil trabajar con internet.|
+|Timing: 19:57-29:00 |URL: [upc-pre-202510-1acc0238-UniLink]((colocar enlace))|
+
+<!--EDITAR SEGUN DATOS DEL ENTREVISTADO -->
+
+|Entrevistado 6|(colocar nombre)|
+|-|-|
+|Edad|23|
+|Distrito|Lima|
+|<img width="1292" alt="Entrevista6_EricAgama" src="https://raw.githubusercontent.com/GanTrace/upc--2510-daos-4344-fp-grupo4/refs/heads/develop/Imagenes/Entrevistas/Entrevista6_EricAgama.jpg">| Eric cuenta que lleva estudiando como veterinario durante 6 años y que actualmente se encuentra terminando su carrera en lima. Se especializa en medicina preventiva y ganado bovino. Cuenta que registra su historial médico con una libreta de acuerdo al ganadero con el que trabaja y utiliza un registro en Excel que mayormente se encuentra desactualizado por el constante trato con los animales. Según su experiencia es muy complejo encontrar algunas apps que se puedan adaptar a este contexto rural que enfrentan en su día a día, por lo que una aplicación que sea sencilla de entender y sea fácil de adaptarse para él, sería la mejor opción para su trabajo.|
+|Timing: 29:03-35:26 |URL: [upc-pre-202510-1acc0238-UniLink]((colocar enlace))|
 
 
 
