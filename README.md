@@ -184,7 +184,7 @@ La movilidad estudiantil en zonas urbanas ha sido un reto constante para los est
  
 El auge de la tecnología y las aplicaciones móviles ha abierto nuevas posibilidades para abordar este problema mediante soluciones innovadoras como el carpooling, que no solo promueven un uso más eficiente de los recursos, sino que también ofrecen una alternativa más económica y socialmente integrada al transporte tradicional.
  
-UniGo surge en este contexto con la misión de proporcionar una solución que permita a los estudiantes universitarios compartir viajes en vehículos particulares. Con esta plataforma, buscamos no solo aliviar los problemas de transporte, sino también fomentar la sostenibilidad, reducir el tráfico, y mejorar la seguridad en los desplazamientos diarios hacia las universidades.
+RideUp surge en este contexto con la misión de proporcionar una solución que permita a los estudiantes universitarios compartir viajes en vehículos particulares. Con esta plataforma, buscamos no solo aliviar los problemas de transporte, sino también fomentar la sostenibilidad, reducir el tráfico, y mejorar la seguridad en los desplazamientos diarios hacia las universidades.
 
 
 ### Problemática (5Ws y 2Hs)
@@ -210,7 +210,7 @@ El problema se deriva de cuestiones socioculturales, como la inseguridad en Per�
 
 ##### Who (Quién)
 ###### ¿Quiénes están involucrados? ¿Quién lo utilizará?
-Los usuarios del sistema serán principalmente estudiantes universitarios. Por un lado, aquellos que dispongan de un vehículo y busquen generar ganacias  durante su recorrido  hacia la universidad. Por otro lado, se encuentran los estudiantes que utilizarán este servicio y su rol sera el de pasajero.
+Los usuarios del sistema serán principalmente estudiantes universitarios. Por un lado, aquellos que dispongan de un vehículo y busquen generar ganacias durante su recorrido hacia la universidad. Por otro lado, se encuentran los estudiantes que utilizarán este servicio y su rol sera el de pasajero.
 
 ##### Why (Por qué)
 ###### ¿Cuál es la causa del problema?
@@ -237,6 +237,47 @@ Los estudiantes universitarios que deseen una alternativa que sea eficiente, có
 ### 1.2.2 Lean UX Process  
 #### 1.2.2.1. Lean UX Problem Statements  
 
+Nuestro servicio de carpooling para estudiantes universitarios se diseñó con el fin de mejorar la experiencia de transporte de nuestros usuarios, reducir el estrés, el riesgo de robos, la fatiga por autobuses abarrotados y los costos elevados. Sin embargo, hemos notado que el servicio no está cumpliendo completamente con estos objetivos. Los estudiantes siguen enfrentando problemas de estrés y fatiga, y los costos no se han reducido significativamente. Además, la falta de coincidencia en horarios y rutas entre los usuarios y la baja ocupación de los vehículos están limitando la efectividad del servicio.
+ 
+¿Cómo podemos mejorar nuestro servicio para asegurar que los estudiantes universitarios encuentren compañeros de viaje compatibles, optimicen el uso de los vehículos y reduzcan significativamente los costos y las dificultades asociadas con el transporte diario?
+ 
+### Aspectos
+ 
+#### Domain:
+Movilidad y transporte compartido para estudiantes universitarios.
+ 
+#### Customer Segments:
+ 
+- ##### Estudiantes Universitarios
+Estudiantes que necesitan desplazarse a sus universidades y buscan una alternativa al transporte público o a los vehículos particulares. Estos estudiantes enfrentan desafíos como el estrés, la inseguridad y el costo elevado del transporte.
+ 
+- ##### Propietarios de Vehículos Privados
+Estudiantes que poseen vehículos y desean compartir sus viajes con otros para reducir gastos en combustible y maximizar el uso de sus vehículos.
+ 
+#### Pain Points:
+ 
+- ##### Estudiantes
+ 
+###### Estrés y Fatiga:
+La congestión en el transporte público y las largas esperas causan estrés y fatiga, afectando negativamente su experiencia de desplazamiento.
+ 
+###### Inseguridad:
+La inseguridad durante el viaje, especialmente en autobuses abarrotados, es una preocupación constante.
+ 
+###### Costo Elevado: 
+ 
+Los gastos en transporte son una carga financiera significativa para los estudiantes.
+ 
+- ##### Propietarios de Vehículos Privados
+ 
+###### Oportunidades de Rellenar Asientos: 
+Hay una falta de mecanismos eficientes para asegurar que todos los asientos disponibles en un viaje compartido sean utilizados, reduciendo el potencial de ingresos por compartir el viaje.
+
+#### Gap:
+Existe una brecha en el mercado de transporte compartido específico para estudiantes universitarios. Aunque hay aplicaciones de viajes compartidos, no están adaptadas a las necesidades y horarios específicos de los estudiantes, lo que dificulta la formación de compañeros de viaje compatibles y la optimización del uso del vehículo.
+ 
+#### Vision/Strategy:
+Crear una plataforma de carpooling diseñada específicamente para estudiantes universitarios que permita una conexión efectiva entre compañeros de viaje con horarios y rutas compatibles. La plataforma debe abordar el estrés y la inseguridad relacionados con el transporte, al mismo tiempo que ofrece una solución económica y eficiente para los estudiantes que desean compartir sus viajes y reducir costos.
 
 #### 1.2.2.2. Lean UX Assumptions  
 
