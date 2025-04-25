@@ -500,7 +500,7 @@ Additional benefits for customers:
 #### 1.2.2.4. Lean UX Canvas  
 
 
-| **Lean UX Canvas**                                                                                                                                                               | **Fecha:** 20/08/2024                                                                                               | **Iteración:** 1 |
+| **Lean UX Canvas**                                                                                                                                                               | **Fecha:** 20/04/2025                                                                                               | **Iteración:** 1 |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|------------------|
 | **1. Business Problem:**                                                                                                                                                         | **5. Solutions:**                                                                                                  | **2. Business Outcomes:** |
 | - La falta de un sistema eficiente y confiable que conecte a los estudiantes universitarios que necesitan compartir transporte hacia la universidad.                              | - **Plataforma de Carpooling:** Sistema que permita a los estudiantes ofrecer y encontrar viajes compartidos hacia la universidad.                        | - Aumento en el número de usuarios activos y viajes compartidos realizados. |
