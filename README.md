@@ -383,14 +383,16 @@ Context mapping es una técnica utilizada en el desarrollo de software, especial
 
 ### 4.1.3.1. Software Architecture Context Level Diagrams
 
+ <img align="center" src="assets/Context-Diagram.png"></p>
 
 ### 4.1.3.2. Software Architecture Container Level Diagrams
 
+ <img align="center" src="assets/Container-Diagram.png"></p>
 
 ### 4.1.3.3. Software Architecture Deployment Diagrams
 
 
-
+ <img align="center" src="assets/Deployment-Diagram.png"></p>
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
