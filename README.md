@@ -339,6 +339,42 @@ Additional benefits for customers:
 
 ## 1.3. Segmentos objetivo  
 
+Por medio de nuestro enfoque de obtener una solución efectiva a las problemáticas de nuestros futuros usuarios, identificamos los siguientes segmentos para RideUp:
+
+**Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse.**
+
+Aspectos demográficos:
+- Sexo: Masculino y femenino
+- Edades: Adultos entre 18 - 30 años
+- Nivel socioeconómico: Clases B, C, D (media-baja, baja)
+
+Aspectos geográficos:
+- Nacionalidad: Peruana
+- Zona geográfica en la que vive: Urbana
+- Departamento: Lima Metropolitana
+
+Aspectos psicográficos:
+- Abiertos a herramientas que les ayuden a simplificar y facilitar su viaje.
+- Son hábiles dentro del uso de dispositivos inteligentes.
+
+
+**Segmento objetivo #2: Estudiantes Universitarios propietarios de un vehículo privado.**
+
+Aspectos demográficos:
+- Sexo: Masculino y femenino
+- Edades: Adultos entre 18 - 30 años
+- Nivel socioeconómico: Clases A, B, C (alta, media-alta y media)
+
+Aspectos geográficos:
+- Nacionalidad: Peruana
+- Zona geográfica en la que vive: Urbana
+- Departamento: Lima Metropolitana
+
+Aspectos psicográficos:
+- Son hábiles dentro del uso de dispositivos inteligentes.
+
+
+
 
 
 # Capítulo II: Requirements Elicitation & Analysis  
