@@ -427,11 +427,76 @@ En esta sección se han definido todas las preguntas que se plantearan en el mom
 
 ### 2.2.3. Análisis de entrevistas  
 
+<TABLE BORDER>
+	<TR>
+		<TD COLSPAN = 2 align=center>
 
+*Características*</TD>
+
+<TD align=center>
+
+*Segmento1*
+<br>
+*Estudiantes universitarios*
+</TD>
+
+<TD align=center>
+
+*Segmento2*
+<br>
+*Estudiantes universitarios propietarios de vehiculos privados*
+</TD>
+
+   </TR>
+	<TR>
+		<TD ROWSPAN = 4>
+
+*Objetivas*
+</TD>
+<TD>Tráfico</TD>
+<TD>Costos</TD>
+<TD>Seguridad</TD>
+</TR>
+<TR>
+<TD>Problemas con el tráfico diario</TD>
+<TD>Potencial de ahorro en transporte </TD>
+<TD>Preocupación por la seguridad en transporte público</TD>
+</TR>
+<TR>
+<TD>Menos relevante, pero buscan reducir tiempo y costo</TD>
+<TD>Reducir costos de transporte es clave </TD>
+<TD>Seguridad personal y verificación de identidad son cruciales</TD>
+</TR>
+<TR>
+<TD >Mejoraría tiempos de viaje y eficiencia</TD>
+<TD>N/A<</TD>
+<TD>Reducir tiempos también es valorado</TD>
+</TR>
+
+   <TR>
+		<TD ROWSPAN = 4>
+
+*Subjetivas*
+</TD>
+<TD>Conexiones sociales</TD>
+<TD>Comodidad</TD>
+<TD>Reglas claras</TD>
+<TR>
+<TD>Oportunidad de hacer networking con otros estudiantes</TD>
+<TD>Preferirían más comodidad que en transporte público</TD>
+<TD>N/A</TD>
+</TR>
+<TR>
+<TD>Hacer nuevas amistades mientras reducen costos</TD>
+<TD>Preocupación por la comodidad de los pasajeros</TD>
+<TD>Necesidad de reglas claras y sistemas de calificación</TD>
+</TR>
+<TR>
+
+</TR>
+</TABLE>
 
 ## 2.3. Needfinding  
-
-
 
 ### 2.3.1. User Personas  
 
