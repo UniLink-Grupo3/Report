@@ -484,11 +484,11 @@ En esta sección se han definido todas las preguntas que se plantearan en el mom
 
 <!--EDITAR SEGUN DATOS DEL ENTREVISTADO -->
 
-|Entrevistado 6|(colocar nombre)|
+|Entrevistado 6|Rodrigo Raygada|
 |-|-|
-|Edad|23|
+|Edad|21|
 |Distrito|Lima|
-|<img width="1292" alt="Entrevista6_EricAgama" src="(colocar enlace de la imagen)">| Eric cuenta que lleva estudiando como veterinario durante 6 años y que actualmente se encuentra terminando su carrera en lima. Se especializa en medicina preventiva y ganado bovino. Cuenta que registra su historial médico con una libreta de acuerdo al ganadero con el que trabaja y utiliza un registro en Excel que mayormente se encuentra desactualizado por el constante trato con los animales. Según su experiencia es muy complejo encontrar algunas apps que se puedan adaptar a este contexto rural que enfrentan en su día a día, por lo que una aplicación que sea sencilla de entender y sea fácil de adaptarse para él, sería la mejor opción para su trabajo.|
+| <img width="1292" alt="Entrevista6_EricAgama" src="assets/interviews/Entrevista 3 - Estudiante con vehículo.png"> | Rodrigo es un estudiante universitario de la Toulouse Lautrec, propietario de un vehículo privado, que se desplaza 3 veces a la semana desde su casa hasta la universidad. El considera que puede llegar a compartir su vehículo con otro estudiante si le llegan a pagar por el viaje. Nos comentó también algunas preocupaciones que tiene, por ejemplo que le toque personas que en realidad no sean estudiantes de la universidad, y luego la falta de confianza que hay con los otros estudiantes. Le gustaría que se pueda proporcionar seguridad para los estudiantes conductores. Además, uno de los incentivos que nos menciono sería la alianzas con gasolineras y servicio de mantenimiento por el uso, ya sea dando descuentos u ofertas especiales para ellos. Dijo que lo que ganaría en la aplicación sería de gran ayuda para el mantenimiento de su vehícuo. Lo último que mencionó sobre los estudiantes que llegase a llevar en su vehículo es que respeten las reglas de su vehículo. |
 |Timing: 29:03-35:26 |URL: [upc-pre-202510-1acc0238-UniLink]((colocar enlace))|
 
 
