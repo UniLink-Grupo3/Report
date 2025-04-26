@@ -332,8 +332,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
-  
-
+  /*
 ### Capítulo V: Solution UI/UX Design 
 - [5.1. Product design](#51-product-design)  
   - [5.1.1. Style Guidelines](#511-style-guidelines) 
@@ -377,7 +376,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   - [6.3.3. Evaluaciones según heurísticas](#633-evaluaciones-segun-heuristicas) 
 - [6.4. Video About-the-Product](#64-viedo-about-the-product)  
 
-
+*/
   
 ---  
 # Capítulo I: Introducción  
