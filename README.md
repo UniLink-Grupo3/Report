@@ -125,8 +125,10 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <strong>TB1:</strong> Realicé la el Context mapping para entender las relaciones entre los bounded context. Luego, he realizado los diagramas de contexto y contenedor pertenecientes al modelo C4. Por último, he realizado el diagrama de despliegue del sistema. Esto me permitio aprender sobre y actualizar mi conocimiento sobre la arquitectura en general de un sistema y la relación entre sus componentes</td>
   </tr>
   <tr>
-    <td><strong>Alumno 5</strong><br>
-    <strong>TB1:</strong> Realicé .......</td>
+    <td><strong>Pilares Pocohuanca, Maria</strong><br>
+    <strong>TB1:</strong> Realicé el desarrollo de los capítulos 1, 2 y 3 del proyecto, siguiendo el enfoque de Lean UX Process. Elaboré el análisis competitivo de competidores, diseñé y registré entrevistas con usuarios para validar necesidades reales. Además, desarrollé User Stories y apliqué la técnica de Impact Mapping para alinear funcionalidades con los objetivos del negocio. Esto fortaleció mis conocimientos en investigación de usuarios, análisis competitivo y diseño ágil de soluciones de software centradas en el usuario.
+
+</td>
   </tr>
   <tr>
     <td rowspan="5"><strong>Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.</strong></td>
@@ -148,8 +150,8 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <strong>TB1:</strong><br> Para desarrollar los diagramas corespondientes consulté documentación para aplicar buenas prácticas y que tenga coherencia. Además, para el diseño de los diagramas, he consultado la documentación de DSL, lenguaje utilizado en Structurz, en donde he realizado los diagramas de contexto y componentes. Esto me ayudó a reforzar mi interés por el aprendizaje continuo sobre los conocimientos adquiridos a lo largo de la carrera</td>
   </tr>
   <tr>
-    <td><strong>Alumno 5</strong><br>
-    <strong>TB1:</strong> Realicé .......</td>
+    <td><strong>Pilares Pocohuanca, Maria</strong><br>
+    <strong>TB1:</strong> Para aplicar correctamente los conceptos de Lean UX Process, me apoyé en documentación especializada sobre análisis competitivo, entrevistas a usuarios y técnicas de Impact Mapping. Revisé guías prácticas y ejemplos de User Stories en otros proyectos. Este proceso reforzó en mí la importancia del aprendizaje continuo y me permitió fortalecer habilidades clave para el diseño centrado en el usuario y la validación temprana de soluciones de software.</td>
   </tr>
 </table>
 
