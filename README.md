@@ -89,12 +89,25 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 
 **URL del Repositorio del Informe:** [https://github.com/UniLink-Grupo3/Report](https://github.com/UniLink-Grupo3/Report)  
 
+**Link de los repositorios de la organización:** [https://github.com/UniLink-Grupo3](https://github.com/UniLink-Grupo3)
+
 **Entrega N°1: TB1**
 <br>
 - Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas para cada capítulo, lo que permitió un mayor avance y equidad en el desarrollo del informe.
 
 - Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo.
+<br><br>
   
+<p align="center">
+  <img align="center" src="assets/Evidencia GitHub/Commits.png"></p>
+<p align="center"><em> Historial de commits en GitHub </em></p>
+
+<br>
+
+<p align="center">
+  <img align="center" src="assets/Evidencia GitHub/Contribuidores.png"></p>
+<p align="center"><em> Colaboradores del proyecto en GitHub </em></p>
+
 ---  
 # Student Outcome  
 
