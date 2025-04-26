@@ -919,12 +919,6 @@ Para mayor información, visualizar la (ver figura 4.25).
 
 
 
-
-
-
-
-
-
 # Conclusiones
 Para asegurar el éxito en el desarrollo del proyecto, es fundamental que todos los integrantes del equipo participen activamente y colaboren de manera equitativa, permitiendo así un avance eficiente hacia los objetivos del trabajo como del curso. La correcta elaboración de User Stories , del Product Backlog junto con las entrevistas nos permitirá comprender con claridad qué características y funcionalidades debe incluir la app para ser realmente útil y práctica para los usuarios.
 
@@ -940,6 +934,12 @@ Por último, la definición adecuada de los Bounded Contexts que se emplearán e
 
 - As-Is Scenario Mapping :<br>
 [https://miro.com/app/board/uXjVKlGuWKk=/](https://miro.com/app/board/uXjVKlGuWKk=/)
+
+- Entrevistas:
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111952_upc_edu_pe/EdEt_SdOT6VDhVPy4SSLm8QBZinwr07zu5GrI5LzQ5Zh4A?e=i2p6cM](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111952_upc_edu_pe/EdEt_SdOT6VDhVPy4SSLm8QBZinwr07zu5GrI5LzQ5Zh4A?e=i2p6cM)
+
+- Strategic-Level Domain-Driven Design
+[https://miro.com/welcomeonboard/MWNmWXdFOEJLZFRZMVEzL2VDc0hwWjA0cCtEMldEcmlFa1JLTTJFOTZnRGZRM2tlTU1UbE53aTFqMlllcVNQc3VBN3dtZkZSdEc3WGwzV3FlalRyY3AwMmgzNlpxTGFMa1FFbW1JOUpBQ1B2enVKbjhtZ2xPMmZUamN3ckpPaDZnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=354414903482](https://miro.com/welcomeonboard/MWNmWXdFOEJLZFRZMVEzL2VDc0hwWjA0cCtEMldEcmlFa1JLTTJFOTZnRGZRM2tlTU1UbE53aTFqMlllcVNQc3VBN3dtZkZSdEc3WGwzV3FlalRyY3AwMmgzNlpxTGFMa1FFbW1JOUpBQ1B2enVKbjhtZ2xPMmZUamN3ckpPaDZnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=354414903482)
 
 - Bounded Context Software Architecture Code Level Diagrams - 1: <br>
 [https://lucid.app/lucidchart/ba7eb10c-e544-4fc8-b804-4b6c61c27512/edit?invitationId=inv_486fb944-f084-487f-9a62-6dd27fdd0cd6&page=0_0#](https://lucid.app/lucidchart/ba7eb10c-e544-4fc8-b804-4b6c61c27512/edit?invitationId=inv_486fb944-f084-487f-9a62-6dd27fdd0cd6&page=0_0#)
