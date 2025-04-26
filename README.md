@@ -124,8 +124,8 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <strong>TB1:</strong> Realicé un proceso de EventStorming para comprender en profundidad una parte clave de la aplicación. Utilicé Miro para modelar Domain Message Flows, Bounded Context Canvases y realizar Candidate Context Discovery. Esta actividad me permitió identificar uno de los principales Bounded Contexts del proyecto, lo que fortaleció significativamente mis conocimientos en modelado de dominios y diseño de sistemas complejos.</td>
   </tr>
   <tr>
-    <td><strong>Alumno 4</strong><br>
-    <strong>TB1:</strong> Realicé .......</td>
+    <td><strong>Ramirez Ortega, Diego Miguel</strong><br>
+    <strong>TB1:</strong> Realicé la el Context mapping para entender las relaciones entre los bounded context. Luego, he realizado los diagramas de contexto y contenedor pertenecientes al modelo C4. Por último, he realizado el diagrama de despliegue del sistema. Esto me permitio aprender sobre y actualizar mi conocimiento sobre la arquitectura en general de un sistema y la relación entre sus componentes</td>
   </tr>
   <tr>
     <td><strong>Alumno 5</strong><br>
@@ -147,8 +147,8 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <strong>TB1:</strong> Para aplicar correctamente estas herramientas, me apoyé en documentación oficial sobre EventStorming y en recursos como artículos especializados y videos de YouTube sobre el uso de Miro en entornos colaborativos. Este proceso reforzó en mí la importancia del aprendizaje continuo y me permitió desarrollar estrategias de autoformación efectivas para mejorar mi desempeño y comprensión del modelado de dominios.</td>
   </tr>
   <tr>
-    <td><strong>Alumno 4</strong><br>
-    <strong>TB1:</strong> Realicé .......</td>
+    <td><strong>Ramirez Ortega, Diego Miguel</strong><br>
+    <strong>TB1:</strong><br> Para desarrollar los diagramas corespondientes consulté documentación para aplicar buenas prácticas y que tenga coherencia. Además, para el diseño de los diagramas, he consultado la documentación de DSL, lenguaje utilizado en Structurz, en donde he realizado los diagramas de contexto y componentes. Esto me ayudó a reforzar mi interés por el aprendizaje continuo sobre los conocimientos adquiridos a lo largo de la carrera</td>
   </tr>
   <tr>
     <td><strong>Alumno 5</strong><br>
@@ -214,13 +214,13 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 
   
   <tr>
-    <th>Alumno 5</th>
+    <th>Ramirez Ortega, Diego Miguel</th>
   </tr>
   <tr>
     <td>
-      <strong>Objetivo SMART 1:</strong>text<br>
+      <strong>Objetivo SMART 1:</strong><br>Adquirir conocimientos sólidos en arquitecturas de software (como monolítica, microservicios y serverless) mediante lo aprendido en los cursos universitarios y además en cursos certificados (ej: Coursera) y aplicarlos en un proyecto personal, desarrollando un sistema escalable en 6 meses.<br>
       <br>
-      <strong>Objetivo SMART 2:</strong>text<br>
+      <strong>Objetivo SMART 2:</strong>Mejorar mis habilidades en backend (con .NET) implementando APIs RESTful con autenticación JWT y conexión a bases de datos SQL/NoSQL, para completar un proyecto de e-commerce funcional en 5 meses.<br>
     </td>
   </tr>
 </table>
