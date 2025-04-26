@@ -33,38 +33,6 @@ Producto: RideUp
 | Valera Garcés, Samuel Ignacio          | u202111952 |
 
 
-# **Informe de Trabajo Final**
-## **Startup: UniLink**
-## **Producto: RideUp**
-  
-<div>
-     <table align="center">
-        <tr>
-            <th style="text-align:center;">Código</th>
-            <th style="text-align:center;">Apellidos y Nombres</th>
-        </tr>
-        <tr>
-            <td>u202215528</td>
-            <td>Pilares Pocohuanca, Maria</td>
-        </tr>
-        <tr>
-            <td>u202123548</td>
-            <td>Ramirez Ortega, Diego Miguel</td>
-        </tr>
-        <tr>
-            <td>U20191a137</td>
-            <td>Belleza Tello, Paolo Eduardo</td>
-        </tr>
-        <tr>
-            <td>U20201c131</td>
-            <td>Fernandez Alva, María Fernanda</td>
-        </tr>
-        <tr>
-            <td>U202111952</td>
-            <td>Valera Garces, Samuel Ignacio</td>
-        </tr>
-    </table>
-</div>
 
 </div>
 
@@ -332,7 +300,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
-  /*
+<!--
 ### Capítulo V: Solution UI/UX Design 
 - [5.1. Product design](#51-product-design)  
   - [5.1.1. Style Guidelines](#511-style-guidelines) 
@@ -375,8 +343,8 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   - [6.3.2. Registro de Entrevistas](#632-registro-de-entrevistas)
   - [6.3.3. Evaluaciones según heurísticas](#633-evaluaciones-segun-heuristicas) 
 - [6.4. Video About-the-Product](#64-viedo-about-the-product)  
+-->
 
-*/
   
 ---  
 # Capítulo I: Introducción  
