@@ -872,6 +872,11 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
 ## 3.3. Impact Mapping  
 
 
+![ImpactMap.png](assets/impact_map_1.png)
+
+
+---
+
 
 ## 3.4. Product Backlog  
 
