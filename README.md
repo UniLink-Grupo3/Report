@@ -453,12 +453,12 @@ En esta sección se han definido todas las preguntas que se plantearan en el mom
 
 <!--EDITAR SEGUN DATOS DEL ENTREVISTADO -->
 
-|Entrevistado 3|(colocar nombre)|
+|Entrevistado 3|Maria Fernanda Peña|
 |-|-|
-|Edad|25|
-|Distrito|Lima|
-|<img width="1292" alt="Entrevista3_JoseGalvez" src="(colocar enlace de la imagen)">|José Galvez lleva 7 años en la dedicación de la ganadería, decidiendo ayudar a su padre en la gestión, maneja ganado bovino que es su principal especialidad. En su ganado cuenta con 120 animales de las cuales trabajan 3 personas, las cuales son: Un vaquero fijo, un ayudante eventual y él. Cuenta en su experiencia que el lleva los registros de su ganado en un cuaderno para apuntar las vacunas y también los pesos de los animales, también cuenta con un excel básico en su laptop portatil, pero no es de mucha ayuda. Considera de gran importancia una plataforma digital que ayude en su registro, pues un problema constante que pasa en su ganado es que suele olvidarse el día y/o animal al cual ha vacunado, por lo que tener ese registro digital lo ayudaría un montón a mejorar la calidad de la producción del ganado. |
-|Timing: 10:48-16:28 |URL: [upc-pre-202510-1acc0238-UniLink]((colocar enlace))|
+|Edad|21|
+|Distrito|Breña|
+|<img width="1292" alt="Entrevista3_MariaRiofrio" src="assets/interviews/Entrevista3_Estudiantes_Universitarios.jpg">|Maria Peña es estudiante de la UPC, mencionó durante la entrevista que el trayecto desde su hogar hasta la universidad suele dificultarle llegar a tiempo, ya que vive cerca de una avenida con constante congestión vehicular. Al presentarle la idea de una aplicación confiable que le permita llegar segura a su destino, le pareció una excelente propuesta, especialmente porque la inseguridad ciudadana es un tema que le preocupa cada vez que utiliza un carro o bus para trasladarse. Además, Maria comentó que le gustaría que la aplicación permita realizar reservas de viaje, ya que para ella la organización es fundamental y contar con una hora exacta para dirigirse a la universidad le facilitaría mucho su rutina diaria.|
+|Timing: 10:48-16:28 |URL: [upc-pre-202510-1acc0238-UniLink](https://youtu.be/5djH_IYQi58)|
 
 
 
