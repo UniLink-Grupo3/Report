@@ -440,7 +440,7 @@ En esta sección se han definido todas las preguntas que se plantearan en el mom
 |Edad|23|
 |Distrito|Los Olivos|
 |<img width="1292" alt="Entrevista1_DayanaFernandez" src="assets/interviews/Entrevista 1 - Estudiantes Universitarios.png">| La señorita Dayana Fernández, estudiante de la Universidad Nacional de Ingeniería, nos contó que usualmente usa transporte público para ir a clases, aunque debe caminar unos 10 minutos hasta el paradero. Además, mencionó que algunos días se queda hasta tarde por entrenamientos y, al salir cerca de las 11:30 p.m., prefiere no usar buses por temas de seguridad, optando por aplicaciones como Uber. Nos comentó que tuvo una mala experiencia con Uber cuando la app no reconocía su perfil, lo que le impidió solicitar un taxi y tuvo que viajar en bus acompañada de conocidos para sentirse más segura. Al conocer nuestra propuesta, le pareció una idea muy útil, ya que viajar con estudiantes de su misma universidad y con conductores también universitarios le daría más confianza y sería una opción más económica, sobre todo por las noches. Además, resaltó que le gustaría que la app permita comunicarse directamente con el conductor y que informe en cuánto tiempo llegará al punto de encuentro. |
-|Timing: 0:01-5:53 |URL: [upc-pre-202510-1acc0238-UniLink]((colocar enlace))|
+|Timing: 11:20-17:13 |URL: [upc-pre-202510-1acc0238-UniLink](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111952_upc_edu_pe/EdEt_SdOT6VDhVPy4SSLm8QBZinwr07zu5GrI5LzQ5Zh4A?e=i2p6cM )|
 
 <!--EDITAR SEGUN DATOS DEL ENTREVISTADO -->
 
@@ -449,7 +449,7 @@ En esta sección se han definido todas las preguntas que se plantearan en el mom
 |Edad|22|
 |Distrito|Los Olivos|
 |<img width="1292" alt="Entrevista2_GabrielGuevara" src="assets/interviews/Entrevista 2 - Estudiantes Universitarios.png">| Gabriel, estudiante de la Universidad Privada del Norte, nos comentó que para llegar a la universidad necesita tomar dos transportes públicos, lo cual suele ser incómodo debido a la gran cantidad de personas. Además, cuando debe llevar maquetas para sus proyectos, prefiere pedir un taxi o un Uber, lo que representa un gasto elevado, ya que vive lejos del campus. También nos relató que ha tenido algunos inconvenientes con el servicio de Uber, ya que en ocasiones los conductores toman rutas distintas a las que aparecen en la aplicación. Por eso, le pareció excelente la idea de una aplicación que le permita compartir el viaje con otros estudiantes de su misma universidad, ya que se sentiría más seguro y cómodo, especialmente cuando debe llevar materiales voluminosos.Gabriel recalcó que, para sentirse tranquilo al abordar un vehículo compartido, necesita saber la identificación de los demás pasajeros y confirmar que realmente pertenecen a su universidad. Finalmente, mencionó que le gustaría recibir una notificación anticipada sobre la llegada del vehículo. Por ejemplo, un aviso de que llegará en 10 o 15 minutos para poder dirigirse con tiempo al punto de encuentro. |
-|Timing: 5:53-10:48 |URL: [upc-pre-202510-1acc0238-UniLink]((colocar enlace))|
+|Timing: 17:13-22:08 |URL: [upc-pre-202510-1acc0238-UniLink](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111952_upc_edu_pe/EdEt_SdOT6VDhVPy4SSLm8QBZinwr07zu5GrI5LzQ5Zh4A?e=i2p6cM )|
 
 <!--EDITAR SEGUN DATOS DEL ENTREVISTADO -->
 
@@ -458,7 +458,7 @@ En esta sección se han definido todas las preguntas que se plantearan en el mom
 |Edad|21|
 |Distrito|Breña|
 |<img width="1292" alt="Entrevista3_MariaRiofrio" src="assets/interviews/Entrevista3_Estudiantes_Universitarios.jpg">|Maria Peña es estudiante de la UPC, mencionó durante la entrevista que el trayecto desde su hogar hasta la universidad suele dificultarle llegar a tiempo, ya que vive cerca de una avenida con constante congestión vehicular. Al presentarle la idea de una aplicación confiable que le permita llegar segura a su destino, le pareció una excelente propuesta, especialmente porque la inseguridad ciudadana es un tema que le preocupa cada vez que utiliza un carro o bus para trasladarse. Además, Maria comentó que le gustaría que la aplicación permita realizar reservas de viaje, ya que para ella la organización es fundamental y contar con una hora exacta para dirigirse a la universidad le facilitaría mucho su rutina diaria.|
-|Timing: 10:48-16:28 |URL: [upc-pre-202510-1acc0238-UniLink](https://youtu.be/5djH_IYQi58)|
+|Timing: 4:00-9:20 |URL: [upc-pre-202510-1acc0238-UniLink](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111952_upc_edu_pe/EdEt_SdOT6VDhVPy4SSLm8QBZinwr07zu5GrI5LzQ5Zh4A?e=i2p6cM )|
 
 
 
@@ -471,16 +471,16 @@ En esta sección se han definido todas las preguntas que se plantearan en el mom
 |Edad|22|
 |Distrito|San Miguel|
 |<img width="1292" alt="Entrevista4_JessicaJaramillo" src="assets/interviews/Entrevista 1 - Estudiantes Universitarios con vehiculo.png">| Jessica, estudiante de la Universidad Peruana de Ciencias Aplicadas, nos contó que en más de una ocasión ha ofrecido un asiento en su auto a otros compañeros durante su trayecto a la universidad. Generalmente lo hizo por amistad o solidaridad, ya que le parece útil aprovechar el espacio disponible y no conducir sola. Señaló que, si se tratara de compartir su vehículo con personas que no conoce, le resulta fundamental contar con información básica sobre ellas, como su identidad, condición de estudiante y referencias de otros usuarios. Jessica considera que un sistema que le ayude a organizar y seleccionar con quién compartir su vehículo sería muy cómodo, siempre que este garantice claridad y seguridad. Para ella, los principales criterios al momento de elegir a quién llevar en su auto son la coincidencia de horarios, la cercanía del domicilio y la reputación de la persona. Además, valoraría especialmente el ahorro económico como beneficio principal de compartir su trayecto, sin dejar de lado el impacto ecológico y la posibilidad de hacer nuevas amistades. |
-|Timing: 16:37-19:56 |URL: [upc-pre-202510-1acc0238-UniLink]((colocar enlace))|
+|Timing: 22:08-25:37 |URL: [upc-pre-202510-1acc0238-UniLink](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111952_upc_edu_pe/EdEt_SdOT6VDhVPy4SSLm8QBZinwr07zu5GrI5LzQ5Zh4A?e=i2p6cM )|
 
 <!--EDITAR SEGUN DATOS DEL ENTREVISTADO -->
 
-|Entrevistado 5|(colocar nombre)|
+|Entrevistado 5|Ariana Martínez|
 |-|-|
 |Edad|27|
 |Ciudad|Cajamarca|
 |<img width="1292" alt="Entrevista5_Ariana" src="assets/interviews/interviewimage.png">| Ariana es un estudiante universitario de la UPC, propietaria de un vehículo privado, que se desplaza frecuentemente desde su casa hasta la universidad. Ella considera que compartir su vehículo con otros estudiantes es una buena idea, para reducir los costos de transporte y hacer nuevas amistades. Sin embargo, tiene preocupaciones sobre la seguridad personal y verificacion de identidad, por lo que considera importante que una plataforma como la nuestra, rpesente medidas de segfuridad estrictas, que verifiquen la identidad de cada pasajero  y conductor.|
-|Timing: 19:57-29:00 |URL: [upc-pre-202510-1acc0238-UniLink]((colocar enlace))|
+|Timing: 9:20-11:20 |URL: [upc-pre-202510-1acc0238-UniLink](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111952_upc_edu_pe/EdEt_SdOT6VDhVPy4SSLm8QBZinwr07zu5GrI5LzQ5Zh4A?e=i2p6cM )|
 
 <!--EDITAR SEGUN DATOS DEL ENTREVISTADO -->
 
@@ -489,7 +489,7 @@ En esta sección se han definido todas las preguntas que se plantearan en el mom
 |Edad|21|
 |Distrito|Lima|
 | <img width="1292" alt="Entrevista6_EricAgama" src="assets/interviews/Entrevista 3 - Estudiante con vehículo.png"> | Rodrigo es un estudiante universitario de la Toulouse Lautrec, propietario de un vehículo privado, que se desplaza 3 veces a la semana desde su casa hasta la universidad. El considera que puede llegar a compartir su vehículo con otro estudiante si le llegan a pagar por el viaje. Nos comentó también algunas preocupaciones que tiene, por ejemplo que le toque personas que en realidad no sean estudiantes de la universidad, y luego la falta de confianza que hay con los otros estudiantes. Le gustaría que se pueda proporcionar seguridad para los estudiantes conductores. Además, uno de los incentivos que nos menciono sería la alianzas con gasolineras y servicio de mantenimiento por el uso, ya sea dando descuentos u ofertas especiales para ellos. Dijo que lo que ganaría en la aplicación sería de gran ayuda para el mantenimiento de su vehícuo. Lo último que mencionó sobre los estudiantes que llegase a llevar en su vehículo es que respeten las reglas de su vehículo. |
-|Timing: 29:03-35:26 |URL: [upc-pre-202510-1acc0238-UniLink]((colocar enlace))|
+|Timing: 0:00-4:00 |URL: [upc-pre-202510-1acc0238-UniLink](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111952_upc_edu_pe/EdEt_SdOT6VDhVPy4SSLm8QBZinwr07zu5GrI5LzQ5Zh4A?e=i2p6cM )|
 
 
 
