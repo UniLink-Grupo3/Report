@@ -479,7 +479,7 @@ En esta sección se han definido todas las preguntas que se plantearan en el mom
 |-|-|
 |Edad|27|
 |Ciudad|Cajamarca|
-|<img width="1292" alt="Entrevista5_MarianaRosas" src="(colocar enlace de la imagen)">| Milagros cuenta con 2 años de experiencia como veterinaria, trabajando en la ciudad de Cajamarca pero en ciudades rurales como Cajabamba, se especializa en la atención de ganado bovino. Cuenta que la ganadería lechera es muy demandada, por lo que la mayoría de sus atenciones se relacionarían con las vacas. Su registro lo lleva de manera física en cuadernos y/o fichas clínicas, de acuerdo al tipo de cliente. Cuenta que no lleva un registro digital de forma sistemática. Intentó probar aplicaciones, sin embargo no se adecúan al contexto que es necesario y al ser zona rural es muy dificil trabajar con internet.|
+|<img width="1292" alt="Entrevista5_Ariana" src="assets/interviews/interviewimage.png">| Ariana es un estudiante universitario de la UPC, propietaria de un vehículo privado, que se desplaza frecuentemente desde su casa hasta la universidad. Ella considera que compartir su vehículo con otros estudiantes es una buena idea, para reducir los costos de transporte y hacer nuevas amistades. Sin embargo, tiene preocupaciones sobre la seguridad personal y verificacion de identidad, por lo que considera importante que una plataforma como la nuestra, rpesente medidas de segfuridad estrictas, que verifiquen la identidad de cada pasajero  y conductor.|
 |Timing: 19:57-29:00 |URL: [upc-pre-202510-1acc0238-UniLink]((colocar enlace))|
 
 <!--EDITAR SEGUN DATOS DEL ENTREVISTADO -->
