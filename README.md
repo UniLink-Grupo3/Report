@@ -346,8 +346,8 @@ Aspiramos a ser líderes en movilidad estudiantil, reconocidos por nuestro compr
   </tr>
 
   <tr>
-    <td><img src="./assets/images/profiles/FrankyMallma.png" width="140" height="140"></td>
-    <td>(descripción)
+    <td><img src="./assets/images/profiles/Samuel.png" width="140" height="140"></td>
+    <td>	Hola, mi nombre es Samuel, estudiante de la carrera de Ingeniería de software. Me considero una persona responsable, empática y con adaptación rápida al trabajo en equipo. Cuento con conocimiento en diversos lenguajes de programacion. Mi objetivo a futuro es utilizar la tecnología para el desarrollo de aplicaciones que necesite la sociedad en el día a día. En mis tiempos libres, me gusta practicar guitarra y leer.            
 </td>
   </tr>
 
