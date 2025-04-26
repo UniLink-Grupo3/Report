@@ -138,7 +138,6 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   <tr>
     <td><strong>Pilares Pocohuanca, Maria</strong><br>
     <strong>TB1:</strong> Realicé el desarrollo de los capítulos 1, 2 y 3 del proyecto, siguiendo el enfoque de Lean UX Process. Elaboré el análisis competitivo de competidores, diseñé y registré entrevistas con usuarios para validar necesidades reales. Además, desarrollé User Stories y apliqué la técnica de Impact Mapping para alinear funcionalidades con los objetivos del negocio. Esto fortaleció mis conocimientos en investigación de usuarios, análisis competitivo y diseño ágil de soluciones de software centradas en el usuario.
-
 </td>
   </tr>
   <tr>
@@ -182,7 +181,6 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
       Aprender a implementar la navegación entre pantallas usando el Navigation Component de Android Studio, creando una app con al menos 2 pantallas conectadas entre sí antes de la semana 8, incluyendo la navegación con paso de datos entre pantallas.
     </td>
   </tr>
-  
   <tr>
     <th>Fernandez Alva, Maria Fernanda</th>
   </tr>
@@ -195,7 +193,6 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
       Organizar y utilizar correctamente los resources en Android Studio (colores, strings, dimensiones, drawables) creando una interfaz con diseño adaptable en al una pantalla antes de la semana 9, sin usar valores escritos directamente en el código (hardcoded)
     </td>
   </tr>
-
   <tr>
     <th>Valera Garces, Samuel Ignacio</th>
   </tr>
@@ -208,7 +205,6 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
       Desarrollar habilidades en modelado colaborativo de dominios utilizando Miro, facilitando al menos una sesión de EventStorming grupal simulada antes de la semana 8, incluyendo la documentación y síntesis de los hallazgos para su uso en diseño de arquitectura.
     </td>
   </tr>
-
   <tr>
     <th>Pilares Pocohuanca, Maria</th>
   </tr>
@@ -221,8 +217,6 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
       Aprender a integrar funcionalidades básicas con componentes móviles (como botones, listas y campos de texto), construyendo una vista interactiva que responda a acciones del usuario sin depender de asistencia externa para su implementación.
     </td>
   </tr>
-
-  
   <tr>
     <th>Ramirez Ortega, Diego Miguel</th>
   </tr>
@@ -386,28 +380,23 @@ Aspiramos a ser líderes en movilidad estudiantil, reconocidos por nuestro compr
     <td><img src="assets/Foto_Paolo.jpeg" width="100" height="100"></td>
     <td>Mi nombre es Paolo Eduardo Belleza Tello. Soy una persona comprometida con alcanzar mis metas, decidido a ejercer la carrera de Ingeniería de Software. Me gustaría especializarme en Front-End, ya que es el área en la que me siento más cómodo y enfocado. Además, disfruto aprendiendo nuevas tecnologías cada día, ya que el aprendizaje continuo me apasiona y me motiva. Mis principales fortalezas son la persistencia, el trabajo en equipo y la organización.</td>
   </tr>
-  
    <tr>
     <td><img src="assets/Maria_fernandez.png" width="150" height="130"></td>
     <td>Mi nombre ess Maria Fernanda Fernandez Alva. Soy una persona muy responsable y siempre me esfuerzo por estar atenta al grupo para apoyar en caso de que alguno de nosotros enfrente dificultades con sus tareas. Tengo conocimientos básicos en HTML, CSS y JavaScript, lo que me permite comprender y desarrollar proyectos web. Mi meta es emprender en el campo de la programación de páginas web, donde espero aplicar mis habilidades y crecer profesionalmente.</td>
   </tr>
-
   <tr>
     <td><img src="assets/Maria_Pilares.jpg" width="100" height="100"></td>
     <td>Mi nombre es Maria Pilares Pocohuanca, tengo 22 años y estudio la carrera de ingeniería de software en la UPC. Desde niña tuve mucho interés por las matemáticas y la tecnología, motivo por el cual estudio una ingeniería enfocada más a la programación. Me considero una persona perseverante aunque algo impaciente. Sin embargo, como miembro del equipo me comprometo a colaborar con mis compañeros y realizar todas las indicaciones que se dicten, todo con el fin de presentar un buen proyecto.</td>
   </tr>
-
   <tr>
     <td><img src="assets/Diego-Ramirez.jpeg" width="140" height="140"></td>
     <td>Mi nombre es Diego Ramirez, tengo 21 años y estoy estudiando la carrera de Ingeniería de Software. Tengo conocimiento en C++, Python y edición de vídeo. Estoy comprometido a completar las tareas que se me asignen a tiempo y apoyar en lo que pueda en el proyecto.</td>
   </tr>
-
   <tr>
     <td><img src="./assets/Samuel.png" width="140" height="140"></td>
     <td>	Hola, mi nombre es Samuel, estudiante de la carrera de Ingeniería de software. Me considero una persona responsable, empática y con adaptación rápida al trabajo en equipo. Cuento con conocimiento en diversos lenguajes de programacion. Mi objetivo a futuro es utilizar la tecnología para el desarrollo de aplicaciones que necesite la sociedad en el día a día. En mis tiempos libres, me gusta practicar guitarra y leer.            
 </td>
   </tr>
-
 </table>
 
 ---
@@ -749,8 +738,7 @@ Es una aplicación internacional de ride-hailing que ofrece transporte bajo dema
      y pasajeros en viajes de larga distancia.</td>
      <td colspan="1" valign="top">Servicios de transporte en vans con rutas fijas; 
      asientos reservados y viajes cómodos.</td>
-     <td colspan="1" valign="top">Ride-hailing en tiempo real con diferentes tipos de vehículos; 
- precios competitivos y una plataforma fácil de usar.</td>
+     <td colspan="1" valign="top">Ride-hailing en tiempo real con diferentes tipos de vehículos;precios competitivos y una plataforma fácil de usar.</td>
    </tr>
    <tr>
      <td colspan="2">Precios & Costos</td>
@@ -1173,7 +1161,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
 </td>
 <td>1</td>
 </tr>
-
 <tr class="odd">
 <td>E1-US02</td>
 <td>Generar ingresos compartiendo mi vehículo</td>
@@ -1194,7 +1181,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
 </td>
 <td>1</td>
 </tr>
-
 <tr class="even">
 <td>E1-US03</td>
 <td>Evaluar la seguridad del viaje</td>
@@ -1215,7 +1201,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
 </td>
 <td>1</td>
 </tr>
-
 <tr class="odd">
 <td>E2-US01</td>
 <td>Recibir notificaciones en tiempo real</td>
@@ -1236,7 +1221,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
 </td>
 <td>2</td>
 </tr>
-
 <tr class="even">
 <td>E2-US02</td>
 <td>Verificación de identidades</td>
@@ -1257,7 +1241,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
 </td>
 <td>2</td>
 </tr>
-
 <tr class="odd">
 <td>E2-US03</td>
 <td>Realizar pagos de manera segura</td>
@@ -1278,7 +1261,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
 </td>
 <td>2</td>
 </tr>
-
  <tr class="even">
         <td>E3-US01</td>
         <td>Registro de usuario</td>
@@ -1295,7 +1277,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
         </td>
         <td>3</td>
     </tr>
-
   <tr class="odd">
         <td>E3-US02</td>
         <td>Búsqueda de Viaje Disponibles</td>
@@ -1312,7 +1293,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
         </td>
         <td>3</td>
     </tr>
-
   <tr class="even">
         <td>E3-US03</td>
         <td>Reserva de Viaje</td>
@@ -1329,7 +1309,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
         </td>
         <td>3</td>
     </tr>
-
   <tr class="odd">
         <td>E3-US04</td>
         <td>Comunicación con el Conductor</td>
@@ -1346,7 +1325,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
         </td>
         <td>3</td>
     </tr>
-
   <tr class="even">
         <td>E3-US05</td>
         <td>Cancelación de Reserva</td>
@@ -1363,7 +1341,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
         </td>
         <td>3</td>
     </tr>
-
   <tr class="odd">
         <td>E3-US06</td>
         <td>Calificación y Comentario del Conductor</td>
@@ -1380,7 +1357,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
         </td>
         <td>3</td>
     </tr>
-
   <tr class="even">
         <td>E3-US07</td>
         <td>Publicación de disponibilidad de asientos</td>
@@ -1397,7 +1373,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
         </td>
         <td>3</td>
     </tr>
-
   <tr class="odd">
         <td>E3-US08</td>
         <td>Gestión de reservas</td>
@@ -1436,7 +1411,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
         </td>
         <td>3</td>
     </tr>
-
   <tr class="odd">
         <td>E4-US02</td>
         <td>Seleccionar un plan de servicio</td>
@@ -1459,7 +1433,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
         </td>
         <td>3</td>
     </tr>
-    
 <tr class="even">
         <td>E4-US03</td>
         <td>Realizar el pago del plan seleccionado</td>
@@ -1488,7 +1461,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
         </td>
         <td>5</td>
     </tr>
-
 <tr class="odd">
         <td>E4-US04</td>
         <td>Cancelar suscripción o plan</td>
@@ -1527,7 +1499,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
 </td>
 <td>1</td>
 </tr>
-
 <tr class="odd">
 <td>E5-US02</td>
 <td>Dirigirse a la aplicación mediante la landing page</td>
@@ -1545,7 +1516,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
 </td>
 <td>2</td>
 </tr>
-
 <tr class="even">
 <td>E5-US03</td>
 <td>Sección hero del landing page</td>
@@ -1566,7 +1536,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
 </td>
 <td>3</td>
 </tr>
-
 <tr class="odd">
 <td>E5-US04</td>
 <td>Versión en español de la landing page</td>
@@ -1588,7 +1557,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
 </td>
 <td>4</td>
 </tr>
-
 <tr class="even">
 <td>E5-US05</td>
 <td>Sección about the product y about the team</td>
@@ -1605,7 +1573,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
 </td>
 <td>5</td>
 </tr>
-
 <tr class="odd">
   <td>E1-US01</td>
   <td>Agendar notificaciones de recordatorio de viajes</td>
@@ -1626,7 +1593,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
   </td>
   <td>1</td>
 </tr>
-
 <tr class="odd">
   <td>E1-US02</td>
   <td>Filtrar viajes por tipos de vehículos</td>
@@ -1647,7 +1613,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
   </td>
   <td>1</td>
 </tr>
-
 <tr class="odd">
   <td>E1-US03</td>
   <td>Establecer destinos secundarios</td>
@@ -1668,7 +1633,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
   </td>
   <td>1</td>
 </tr>
-
 <tr class="odd">
   <td>E1-US04</td>
   <td>Opciones de seguridad adicionales para conductores</td>
@@ -1689,7 +1653,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
   </td>
   <td>1</td>
 </tr>
-
 <tr class="odd">
   <td>E1-US05</td>
   <td>Identificación de usuarios frecuentes</td>
@@ -1710,7 +1673,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
   </td>
   <td>1</td>
 </tr>
-
 <tr class="odd">
   <td>E1-US06</td>
   <td>Programar viajes recurrentes</td>
@@ -1731,7 +1693,6 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
   </td>
   <td>1</td>
 </tr>
-
 </tbody>
 </table>
 <hr>
