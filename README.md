@@ -316,9 +316,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
           - [4.2.2.6.1. Bounded Context Domain Layer Class Level Diagrams](#42161-bounded-context-domain-layer-code-level-diagrams)
           - [4.2.2.6.2. Bounded Context Database Design Diagram](#42161-bounded-context-domain-layer-class-diagrams)
 
-- [Avance de Conclusiones](#avance-de-conclusiones)
-- [Bibliografía](#bibliografía)
-- [Anexos](#anexos)
+
 
 <!-- -->
 ### Capítulo V: Solution UI/UX Design 
@@ -364,7 +362,9 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   - [6.3.3. Evaluaciones según heurísticas](#633-evaluaciones-segun-heuristicas) 
 - [6.4. Video About-the-Product](#64-viedo-about-the-product)  
 
-
+- [Avance de Conclusiones](#avance-de-conclusiones)
+- [Bibliografía](#bibliografía)
+- [Anexos](#anexos)
   
 ---  
 # Capítulo I: Introducción  
