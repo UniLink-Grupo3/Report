@@ -2863,6 +2863,50 @@ Para gestionar eficientemente los cambios en el código fuente, se utilizó **Gi
 Este modelo de ramificación permitió mantener un control riguroso sobre las versiones del código y facilitar el trabajo colaborativo entre los miembros del equipo.
 
 
+### 6.1.3. Source Code Style Guide & Conventions
+
+
+- Utilizaremos el lenguaje de etiquetas **HTML** para el desarrollo principal de nuestra Landing Page.
+- Utilizaremos el lenguaje **CSS** para aplicar los estilos a la estructura de nuestra Landing Page.
+- Implementaremos el lenguaje **JavaScript** para añadir interactividad y funcionalidades dinámicas a la Landing Page.
+- Utilizaremos el lenguaje **Kotlin** para el desarrollo del frontend móvil en **Android Studio**, permitiendo crear interfaces nativas y fluidas en dispositivos Android.
+- se utilizo **Java** con el framework **Spring Boot** para el desarrollo del backend permitiendo crear APIs RESTful que se comunican con una base de datos MySQL para gestionar la lógica del negocio y el intercambio de datos con el frontend.
+
+---
+
+#### **Convenciones de Commits**
+
+Nuestro equipo sigue las **Conventional Commits** en su versión 1.0.0 (disponible en [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/)) para garantizar claridad y coherencia en los registros. La estructura es la siguiente:
+
+**Formato:**  
+`<type>[scope opcional]: <description>`
+
+- **type:** Indica el tipo de modificación realizada, con opciones como `feat` (nueva funcionalidad), `fix` (corrección de errores), `docs` (documentación), etc.
+- **scope (opcional):** Define el alcance del cambio realizado en el código (e.g., un módulo o componente específico).
+- **description:** Ofrece un resumen conciso de los cambios implementados.
+
+---
+
+#### **Convenciones de Versionado de Lanzamientos**
+
+Seguimos el estándar **Semantic Versioning 2.0.0**, en el cual las versiones se presentan como `X.Y.Z`, con las siguientes interpretaciones:
+
+- **X (Major):**  
+  Incrementa con cambios incompatibles con versiones anteriores. Comienza en `0` durante el desarrollo inicial y pasa a `1` cuando el proyecto está listo para su lanzamiento público.  
+  _Nota:_ Al aumentar `X`, los valores de `Y` y `Z` se reinician a `0`.
+
+- **Y (Minor):**  
+  Incrementa con cambios compatibles que agregan nuevas funcionalidades, generalmente provenientes de ramas `release`.  
+  _Nota:_ Al aumentar `Y`, el valor de `Z` se reinicia a `0`.
+
+- **Z (Patch):**  
+  Incrementa con correcciones de errores menores, integrando commits realizados en ramas de corrección (`hotfix`) que se fusionan con la rama principal.
+
+Este enfoque asegura que las versiones del proyecto sean claras y fácilmente interpretables por todos los miembros del equipo y usuarios finales.
+
+
+
+
 # Conclusiones
 Para asegurar el éxito en el desarrollo del proyecto, es fundamental que todos los integrantes del equipo participen activamente y colaboren de manera equitativa, permitiendo así un avance eficiente hacia los objetivos del trabajo como del curso. La correcta elaboración de User Stories , del Product Backlog junto con las entrevistas nos permitirá comprender con claridad qué características y funcionalidades debe incluir la app para ser realmente útil y práctica para los usuarios.
 
