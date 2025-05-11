@@ -2742,30 +2742,89 @@ Para mayor información, visualizar la (ver figura 4.25).
 #### 5.1.4.4. Mobile Applications User Flow Diagrams
 #### 5.1.4.5. Mobile Applications Prototyping
 
-# Capítulo VI: 
+# Capítulo VI: Product Implementation, Validation & Deployment
+
 ## 6.1. Software Configuration Management
+
+En la sección siguiente, se describirán las herramientas, convenciones, referencias y configuraciones utilizadas durante el desarrollo del proyecto, las cuales ayudaron a mantener la coherencia en el trabajo realizado.
+
 ### 6.1.1. Software Development Environment Configuration
-### 6.1.2. Source Code Management
-### 6.1.3. Source Code Style Guide & Conventions
-### 6.1.4. Software Deployment Configuration
 
-## 6.2. Landing Page & Mobile Application Implementation
-### 6.2.1. Sprint 1
-#### 6.2.1.1. Sprint Planning 1
-#### 6.2.1.2. Sprint Backlog 1
-#### 6.2.1.3. Development Evidence for Sprint Review
-#### 6.2.1.4. Testing Suite Evidence for Sprint Review
-#### 6.2.1.5. Execution Evidence for Sprint Review
-#### 6.2.1.6. Services Documentation Evidence for Sprint Review
-#### 6.2.1.7. Software Deployment Evidence for Sprint Review
-#### 6.2.1.8. Team Collaboration Insights during Sprint
+En esta parte, se mencionarán los distintos programas de software que el equipo de desarrollo utilizó para llevar a cabo las tareas relacionadas con la creación del proyecto.
+<br>
 
-## 6.3. Validation Interviews
-### 6.3.1. Diseño de Entrevistas
-### 6.3.2. Registro de Entrevistas
-### 6.3.3. Evaluaciones según heurísticas
+**Project Management**
 
-## 6.4. Video About-the-Produc
+- **Trello**: <https://trello.com/>  
+  La plataforma de Trello se empleó para la gestión de las tareas y la organización del flujo del trabajo en el proyecto. Las tareas se presentaron dentro de tarjetas en listas con el integrante encargado de realizarlas. Además, utilizamos funcionalidades como agregar etiquetas de colores y marcar el proceso de las tareas. De esta manera, pudimos hacer seguimiento a nuestros avances en el proyecto.
+
+- **Google Meet**: <https://meet.google.com/landing>
+  Se utilizó la plataforma de Google Meet para realizar reuniones entre los integrantes del grupo, con el fin de coordinar las tareas de cada uno, compartir ideas sobre cómo se llevará a cabo el trabajo y definir las fechas de entrega.
+
+**Requirements Management**
+
+- **Trello**: <https://trello.com/>  
+  Trello se empleó para organizar los requisitos de la aplicación. En él se gestionó el product backlog, ordenado según la prioridad aplicando Fibonacci para enumerar las historias de usuario, y en otra sección organizándolas según las épicas.
+
+**Product UX/UI Design**
+
+- **Figma**: <https://www.figma.com/><br>
+  Figma nos ayudó a desarrollar los wireframes, mockups y prototipos de la aplicación móvil.
+
+- **Miro**: <https://miro.com/es/><br>
+  Miro fue de utilidad para realizar los As-Is Scenario Mapping , To-Be Scenario Mapping y Strategic-Level Domain-Driven Design para cada uno de los segmentos objetivos.
+
+- **LucidChart**: <https://www.lucidchart.com/><br>
+  LucidChart se utilizó para la creación de los diagramas de flujo y los diagramas de arquitectura de software.
+
+- **Vertabelo**: <https://vertabelo.com/><br>
+  Vertabelo se uso para hacer los diagramas de los dos Bounded Context Database Design Diagram principales
+
+- **UXPressia**: <https://uxpressia.com/>  
+  UXPressia se empleó para la creación de User Personas, Empathy Maps, Journey Maps e Impact Maps. Usamos plantillas de UXPressia para elaborar cada una de estas herramientas, permitiendo exportar el trabajo realizado para incluirlo en el proyecto.
+
+**Software Development**
+
+- **Landing Page**<br>
+  La landing page fue desarrollada utilizando **Html** , **CSS** y **JavaScript (JS)**, lo que permitió un desarrollo más estructurado y escalable. Además, se utilizaron estilos personalizados con **CSS**. El diseño y desarrollo fueron optimizados para su despliegue en **Vercel**.
+
+
+- **Frontend mobile application with Android Studio**<br>
+  Se utilizó **Android Studio** para diseñar la interfaz de un segmento objetivo de la aplicación móvil de forma nativa. Este frontend se construyó usando **XML** para definir las vistas (pantallas, botones, textos, etc.) y **Kotlin** como lenguajes de programación para controlar la lógica de la interfaz. Esta parte se encarga de la interacción directa del usuario con la app, permitiendo una experiencia fluida y acorde a las pautas de diseño de Android.
+
+- **Frontend mobile application with Flutter**<br>
+  También se desarrolló un frontend usando Flutter, para el otro segmento objetivo, un framework multiplataforma. Con **Flutter**, la UI se implementó en el lenguaje **Dart**, usando **widgets** que permiten crear interfaces modernas y adaptables tanto para Android como para otros sistemas. Esta alternativa facilita el desarrollo rápido y una misma base de código para varias plataformas.
+
+- **Backend**<br>
+  El backend fue desarrollado utilizando **Java** con el framework **Spring Boot**, proporcionando APIs RESTful que interactúan con una base de datos **MySQL**. Esto nos ayudará a gestionar la lógica del negocio, procesar las solicitudes del frontend, almacenar y recuperar información de manera eficiente, así como garantizar una comunicación segura y estructurada entre la aplicación y la base de datos.
+
+**Software Testing**
+
+Para las pruebas funcionales de la Landing Page , el Backend y la aplicación móvil, se utilizaron herramientas de desarrollo de navegadores web como [Google Chrome](https://www.google.com/chrome/) y [Microsoft Edge](https://www.microsoft.com/en-us/edge).
+
+**Software Deployment**
+
+- **Vercel**: [https://vercel.com/](https://vercel.com/)  
+  Para el despliegue de la Landing Page, se conectó el repositorio de GitHub con Vercel. Esto permitió que Vercel gestionara automáticamente las implementaciones cada vez que se realizaron actualizaciones en el repositorio. Además, Vercel ofreció vistas previas de las ramas para facilitar la revisión de los cambios antes de publicarlos en producción.
+
+- **Railway**: [https://railway.app/](https://railway.app/)  
+  Para el despliegue del backend, se utilizó Railway, conectando el repositorio de GitHub al servicio. Esto permitió implementar automáticamente los cambios realizados en el código.  
+  Railway proporcionó un entorno escalable y simplificado para manejar las configuraciones del servidor y las bases de datos, facilitando el proceso de desarrollo y despliegue.
+
+- **Firebase Distribution**: [https://firebase.google.com/](https://firebase.google.com/?gad_source=1&gad_campaignid=12302357971&gbraid=0AAAAADpUDOhnJ69fUPif2O_qPeGOJqQyZ&gclid=Cj0KCQjw8vvABhCcARIsAOCfwwqtOiUW0N8lz05F9zsxBgHV8-J3B3r40nxR-e7NwI44GcCbQuzddcMaAuClEALw_wcB&gclsrc=aw.ds)  
+  Para el despliegue del Frontend de la aplicación móvil en Android Studio, se generó un archivo APK que será distribuido a través de Firebase App Distribution. Esto permitirá compartir fácilmente la aplicación con los usuarios o testers, quienes podrán instalarla en sus dispositivos Android, interactuar con la interfaz y probar sus funcionalidades antes del lanzamiento oficial.
+
+**Software Documentation**
+
+- **Structurizr**: [https://structurizr.com/](https://structurizr.com/)  
+  Se empleó **Structurizr** para la creación de diagramas C4, cubriendo los niveles de contexto, contenedor y componentes. Esta herramienta facilitó la visualización de la arquitectura del sistema utilizando una sintaxis basada en texto, ideal para mantener la documentación actualizada y consistente.
+
+
+- **GitHub**: [https://github.com/](https://github.com/)  
+  GitHub se utilizó tanto para la creación de la **documentación** (report), **Landing Page**, **Backend** y la **aplicación móvil**. Su sistema de control de versiones y las herramientas para trabajo colaborativo permitieron gestionar cambios de manera eficiente.
+
+
+
 
 # Conclusiones
 Para asegurar el éxito en el desarrollo del proyecto, es fundamental que todos los integrantes del equipo participen activamente y colaboren de manera equitativa, permitiendo así un avance eficiente hacia los objetivos del trabajo como del curso. La correcta elaboración de User Stories , del Product Backlog junto con las entrevistas nos permitirá comprender con claridad qué características y funcionalidades debe incluir la app para ser realmente útil y práctica para los usuarios.
