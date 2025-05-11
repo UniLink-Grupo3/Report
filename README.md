@@ -2824,6 +2824,43 @@ Para las pruebas funcionales de la Landing Page , el Backend y la aplicación m�
   GitHub se utilizó tanto para la creación de la **documentación** (report), **Landing Page**, **Backend** y la **aplicación móvil**. Su sistema de control de versiones y las herramientas para trabajo colaborativo permitieron gestionar cambios de manera eficiente.
 
 
+### 6.1.2. Source Code Management
+
+La administración y estructuración de las múltiples modificaciones del proyecto se realizó mediante la creación de varios repositorios en GitHub. Nuestra organización se estructuró de la siguiente manera:
+
+**Organización:**  
+[https://github.com/UniLink-Grupo3](https://github.com/UniLink-Grupo3)
+
+- **Repositorio de la documentación:**  
+  [https://github.com/UniLink-Grupo3/Report](https://github.com/UniLink-Grupo3/Report)
+
+- **Repositorio de la Landing Page:**  
+  [https://github.com/UniLink-Grupo3/RideUp-Landing-Page](https://github.com/UniLink-Grupo3/RideUp-Landing-Page)
+
+******* FALTA MODIFICAR
+
+- **Repositorio de la Mobile Application:**  
+  [https://github.com/UniLink-Grupo3/](https://github.com/UniLink-Grupo3/)
+
+- **Repositorio del Backend:**  
+  [https://github.com/UniLink-Grupo3/](https://github.com/UniLink-Grupo3/)
+
+Para gestionar eficientemente los cambios en el código fuente, se utilizó **Gitflow**, un modelo de ramificación que facilita el desarrollo colaborativo. Se establecieron una rama principal y varias ramas auxiliares para mantener un flujo de trabajo organizado.
+
+
+#### **Ramas principales:**
+
+- **`main`:**  
+  Contiene las versiones oficiales del proyecto, listas para ser desplegadas en producción. Es la rama más estable y representa el estado final del código.
+
+
+#### **Ramas auxiliares:**
+
+- **`feature`:**  
+  Estas ramas se crean para desarrollar nuevas funcionalidades. Cada rama está enfocada en una tarea específica o mejora. Una vez completada y probada, se fusiona en el `main`.  
+  Ejemplo: `feature/navbar` para el desarrollo de la barra de navegación.
+
+Este modelo de ramificación permitió mantener un control riguroso sobre las versiones del código y facilitar el trabajo colaborativo entre los miembros del equipo.
 
 
 # Conclusiones
