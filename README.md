@@ -2904,6 +2904,166 @@ Seguimos el estándar **Semantic Versioning 2.0.0**, en el cual las versiones se
 
 Este enfoque asegura que las versiones del proyecto sean claras y fácilmente interpretables por todos los miembros del equipo y usuarios finales.
 
+### 6.1.4. Software Deployment Configuration
+
+Para configurar el despliegue de la Lading Page, seguimos los pasos detallados a continuación utilizando **Vercel** como plataforma:
+
+**Enlace del Despliegue de la Lading Page:** [Lading Page](https://unilink-grupo3.github.io/RideUp-Landing-Page/)
+
+1. **Entrar a Vercel y seleccionar la opción "Import an existing project"**  
+
+   <div align=center>
+    <img src="./assets/commits.png">
+   </div>
+
+
+2. **Seleccionar la opción "Deploy with GitHub"**  
+
+  <div align=center>
+    <img src="./assets/commits.png">
+  </div>
+
+
+3. **Seleccionar la organización y el repositorio del proyecto**  
+   Dentro de la organización, buscar y seleccionar el repositorio del proyecto que se desea desplegar en producción.
+
+
+4. **Agregar la información necesaria para el despliegue**  
+   Proporcionar los datos requeridos por la plataforma, como configuraciones específicas o variables de entorno si es necesario.
+
+
+5. **Presionar el botón de despliegue**  
+   Finalmente, hacer clic en el botón correspondiente al nombre del proyecto para iniciar el proceso de despliegue.
+
+---
+
+Para configurar el despliegue del Backend, seguimos los pasos detallados a continuación utilizando **Railway** como plataforma:
+
+**Enlace del Despliegue del Backend:** [Backend](https://unilink-grupo3.github.io/RideUp-Landing-Page/)
+
+1. **Crea tu cuenta en Railway**  
+   Entra a [Railway](https://railway.com/) e inicia sesión con tu cuenta de GitHub
+
+    <div align=center>
+      <img src="./assets/commits.png">
+    </div>
+
+2. **Conecta tu repositorio**  
+   Haz clic en `New Project`, después elige la opción `Deploy from GitHub Repo` y seleccionas el repositorio del backend
+
+    <div align=center>
+      <img src="./assets/commits.png">
+    </div>
+
+3. **Configurar las Variables de Entorno**  
+   Ve a la pestaña `Variables` y haz clic en `Raw Editor`. Pega todas las variables de entorno necesarias (como en el archivo `application.properties` o `application.yml` de tu backend). Luego haz clic en `Update Variables`, presiona `Apply changes` y finalmente en `Deploy` para aplicar y ejecutar el backend.
+
+    <div align=center>
+      <img src="./assets/commits.png">
+    </div>
+
+3. **Despliegue del Backend**  
+   Espera a que el estado del `deployment` pase de `building` a `active`. Una vez activo, ve a `Settings` → `Networking` para copiar el link desplegado de tu backend.
+
+    <div align=center>
+      <img src="./assets/commits.png">
+    </div>
+
+---
+
+Para configurar el despliegue del Frontend en Android Studio, seguimos los pasos detallados a continuación utilizando **Firebase Distribution** como plataforma:
+
+**Enlace para acceder al archivo APK:** [Archivo Apk](https://unilink-grupo3.github.io/RideUp-Landing-Page/)
+
+1. **Creación de cuenta en Firebase**
+
+    a.  Haz clic en `Agregar proyecto`.<br>
+    b.  Introduce el nombre deseado para tu proyecto y sigue los pasos indicados para su creación.<br>
+    c.  Cuando se te solicite una cuenta de Google Analytics, selecciona `Default Account for Firebase`.<br>
+
+    <div align=center>
+      <img src="./assets/commits.png">
+    </div>
+
+2. **Selección de plataforma**
+
+   En el panel principal, que muestra tarjetas para diferentes plataformas (iOS, Android, Web), selecciona el **icono de Android**. A continuación, deberás completar ciertos pasos para la creación de la aplicación.
+
+   <div align=center>
+      <img src="./assets/commits.png">
+    </div>
+
+3. **Registro de la APP**
+
+   Para registrar tu aplicación y obtener el nombre del paquete de Android:
+
+    a.  Abre tu proyecto en Android Studio.<br>
+    b.  Cambia la vista a **Android**.<br>
+    c.  En la lista de carpetas, localiza el archivo **`build.gradle.kts (Module :app)`**.<br>
+    d.  Dentro de este archivo, busca la línea **`namespace`**. El valor de esta línea será el **Nombre del paquete de Android** que debes ingresar en Firebase.<br>
+    e.  Los demás campos en Firebase son opcionales.
+
+    <div align=center>
+      <img src="./assets/commits.png">
+    </div>
+
+4. **Adición del archivo de configuración de Firebase**
+
+    a.  Haz clic en `Descargar google-services.json`.<br>
+    b.  Una vez descargado, en Android Studio, cambia la vista a **Project**.<br>
+    c.  Navega hasta la carpeta `app` y arrastra el archivo `google-services.json` dentro de ella.<br>
+
+    <div align=center>
+      <img src="./assets/commits.png">
+    </div>
+
+5. **Integración de los SDKs de Firebase**
+
+    a.  En Android Studio, cambia la vista a **Android**.<br>
+    b.  Abre el archivo `build.gradle.kts (Project: RideUp)`.<br>
+    c.  Dentro del bloque `plugins`, agrega la siguiente línea:<br>
+      ```kotlin
+        id("com.google.gms.google-services") version "4.4.2" apply false
+      ```
+    d.  Abre el archivo `build.gradle.kts (:app)`.<br>
+    e.  Dentro del bloque `plugins`, agrega esta línea:
+      ```kotlin
+        id("com.google.gms.google-services")
+      ```
+    f.  Dentro del bloque `dependencies`, agrega las siguientes líneas:<br>
+      ```kotlin
+        implementation(platform("com.google.firebase:firebase-bom:33.13.0"))
+        implementation("com.google.firebase:firebase-analytics")
+      ```
+
+    <div align=center>
+      <img src="./assets/commits.png">
+    </div>
+
+6. **Generación del APK para compartir**
+
+    a.  En la barra de menú de Android Studio, ve a **Build**.<br>
+    b.  Selecciona la opción `Generate App Bundles or APKs`.<br>
+    c.  En el submenú que aparece, elige `Generate APKs`.<br>
+    d.  Android comenzará a compilar el APK. Una vez finalizado, aparecerá un mensaje flotante. Haz clic en `Locate`.<br>
+    e.  Se abrirá una ventana del explorador de archivos donde podrás encontrar el archivo `app-debug.apk`.<br>
+
+    <div align=center>
+      <img src="./assets/commits.png">
+    </div>
+
+7. **Instalación de la aplicación desde el APK**
+
+   Puedes compartir el archivo `app-debug.apk` a través de un enlace o directamente. Para instalar la aplicación en un dispositivo Android:
+
+    a.  Abre el archivo `app-debug.apk` en tu dispositivo móvil Android.<br>
+    b.  El sistema te pedirá permisos para instalar aplicaciones de fuentes desconocidas. **Debes aceptar estos permisos** para continuar.<br>
+    c.  Aparecerá una advertencia de seguridad indicando que la aplicación no proviene de Google Play Store. Marca la opción **"Soy consciente de los posibles riesgos..."** y presiona **OK**.<br>
+    d.  La descarga e instalación de la aplicación comenzará. Una vez finalizada, la aplicación estará lista para usar.<br>
+
+    <div align=center>
+      <img src="./assets/commits.png">
+    </div>
 
 
 
