@@ -3511,24 +3511,24 @@ A continuación, se presentan capturas de pantalla de las vistas implementadas.
 1. **Landing Page**  
 
     <div align="center">
-        <img src="assets/Lading-Page/foto 1.png" style="width:250px; margin: 10px;">
-        <img src="assets/Lading-Page/foto 2.png" style="width:250px; margin: 10px;">
+        <img src="assets/Lading-Page/foto 1.png" style="margin: 10px;">
+        <img src="assets/Lading-Page/foto 2.png" style="margin: 10px;">
     </div>
 
     <div align="center">
-        <img src="assets/Lading-Page/foto 3.png" style="width:250px; margin: 10px;">
-        <img src="assets/Lading-Page/foto 4.png" style="width:250px; margin: 10px;">
+        <img src="assets/Lading-Page/foto 3.png" style="margin: 10px;">
+        <img src="assets/Lading-Page/foto 4.png" style="margin: 10px;">
     </div>
 
     <div align="center">
-        <img src="assets/Lading-Page/foto 5.png" style="width:250px; margin: 10px;">
-        <img src="assets/Lading-Page/foto 6.png" style="width:250px; margin: 10px;">
+        <img src="assets/Lading-Page/foto 5.png" style="margin: 10px;">
+        <img src="assets/Lading-Page/foto 6.png" style="margin: 10px;">
     </div><br>
 
 2. **Backend**
 
     <div align="center">
-        <img src="assets/backend/foto 1.png" style="width:300px; margin: 10px;">
+        <img src="assets/backend/foto 1.png" style="margin: 10px;">
     </div><br>
 
 3. **Aplicación Móvil**
