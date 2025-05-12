@@ -2786,7 +2786,7 @@ En esta parte, se mencionarán los distintos programas de software que el equipo
 **Software Development**
 
 - **Landing Page**<br>
-  La landing page fue desarrollada utilizando **Html** , **CSS** y **JavaScript (JS)**, lo que permitió un desarrollo más estructurado y escalable. Además, se utilizaron estilos personalizados con **CSS**. El diseño y desarrollo fueron optimizados para su despliegue en **Vercel**.
+  La landing page fue desarrollada utilizando **Html** , **CSS** y **JavaScript (JS)**, lo que permitió un desarrollo más estructurado y escalable. Además, se utilizaron estilos personalizados con **CSS**. El diseño y desarrollo fueron optimizados para su despliegue en **GitHub Page**.
 
 
 - **Frontend mobile application with Android Studio**<br>
@@ -2804,8 +2804,8 @@ Para las pruebas funcionales de la Landing Page , el Backend y la aplicación m�
 
 **Software Deployment**
 
-- **Vercel**: [https://vercel.com/](https://vercel.com/)  
-  Para el despliegue de la Landing Page, se conectó el repositorio de GitHub con Vercel. Esto permitió que Vercel gestionara automáticamente las implementaciones cada vez que se realizaron actualizaciones en el repositorio. Además, Vercel ofreció vistas previas de las ramas para facilitar la revisión de los cambios antes de publicarlos en producción.
+- **GitHub Pages**: [https://pages.github.com/](https://pages.github.com/)  
+  Para el despliegue de la Landing Page, se utilizó GitHub Pages, conectando directamente el repositorio del proyecto. Esto permitió que el sitio se actualizara automáticamente con cada cambio realizado en la rama principal, facilitando un flujo continuo de publicación sin necesidad de configuraciones adicionales.
 
 - **Railway**: [https://railway.app/](https://railway.app/)  
   Para el despliegue del backend, se utilizó Railway, conectando el repositorio de GitHub al servicio. Esto permitió implementar automáticamente los cambios realizados en el código.  
