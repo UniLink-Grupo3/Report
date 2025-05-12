@@ -2910,30 +2910,42 @@ Para configurar el despliegue de la Lading Page, seguimos los pasos detallados a
 
 **Enlace del Despliegue de la Lading Page:** [Lading Page](https://unilink-grupo3.github.io/RideUp-Landing-Page/)
 
-1. **Entrar a Vercel y seleccionar la opción "Import an existing project"**  
+1. **Accediendo al proyecto**  
+Asegúrate de tener tu proyecto en un repositorio de GitHub (puede estar en la rama `main`).
 
-   <div align=center>
-    <img src="./assets/commits.png">
-   </div>
+2. **Creación de la carpeta docs**  
+Crea una carpeta llamada `/docs` en la raíz del proyecto y mueve allí todos los archivos del sitio web (HTML, CSS, JS, etc.).
 
+3. **Realizar cambios en el diseño**  
+Realiza un commit con los cambios y súbelos a GitHub:
 
-2. **Seleccionar la opción "Deploy with GitHub"**  
+   ```bash
+   git add .
+   git commit -m "Mover archivos al directorio /docs"
+   git push origin main
+   ```
+      <div align="center">
+        <img align="center" src="assets/GitHub-Page/github Page - 1.png">
+      </div><br>
 
-  <div align=center>
-    <img src="./assets/commits.png">
-  </div>
+4. **Ubicación para desplegar**  
+Entra al repositorio en GitHub y haz clic en la pestaña Settings (⚙️). En el menú lateral, haz clic en "Pages" (GitHub Pages).
 
+5. **Configuraciones**  
+En la sección "Build and deployment", selecciona:
 
-3. **Seleccionar la organización y el repositorio del proyecto**  
-   Dentro de la organización, buscar y seleccionar el repositorio del proyecto que se desea desplegar en producción.
+    a. Source: Deploy from a branch
 
+    b. Branch: main
 
-4. **Agregar la información necesaria para el despliegue**  
-   Proporcionar los datos requeridos por la plataforma, como configuraciones específicas o variables de entorno si es necesario.
+    c. Folder: /docs
 
+    <div align="center">
+      <img align="center" src="assets/GitHub-Page/github Page - 2.png">
+    </div><br>
 
-5. **Presionar el botón de despliegue**  
-   Finalmente, hacer clic en el botón correspondiente al nombre del proyecto para iniciar el proceso de despliegue.
+6. **Último paso**  
+Haz clic en "Save". Esperar unos segundos y GitHub entregará una URL pública.
 
 ---
 
