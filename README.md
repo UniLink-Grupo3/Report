@@ -3355,6 +3355,155 @@ Vista del Sprint Backlog 1 en Trello:
   </tr>
 </table>
 
+#### 6.2.1.3. Development Evidence for Sprint Review. 
+
+* Se presentan los commits realizados en el repositorio de la Lading Page en GitHub. 
+
+    Link del repositorio de la Lading Page: [RideUp - Landing Page](URL)
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <td>RideUp - Landing Page</td>
+    <td>main</td>
+    <td>81b748</td>
+    <td>feat: add ..</td>
+    <td>Acceso a la funcionalidad..</td>
+    <td>13/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Landing Page</td>
+    <td>main</td>
+    <td>81b748</td>
+    <td>feat: add ..</td>
+    <td>Acceso a la funcionalidad..</td>
+    <td>13/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Landing Page</td>
+    <td>main</td>
+    <td>81b748</td>
+    <td>feat: add ..</td>
+    <td>Acceso a la funcionalidad..</td>
+    <td>13/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Landing Page</td>
+    <td>main</td>
+    <td>81b748</td>
+    <td>feat: add ..</td>
+    <td>Acceso a la funcionalidad..</td>
+    <td>13/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Landing Page</td>
+    <td>main</td>
+    <td>81b748</td>
+    <td>feat: add ..</td>
+    <td>Acceso a la funcionalidad..</td>
+    <td>13/05/2025</td>
+  </tr>
+</table>
+
+---
+
+* Se presentan los commits realizados en el repositorio de la Lading Page en GitHub. 
+
+    Link del repositorio de la Lading Page: [RideUp - Backend](URL)
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <td>RideUp - Backend</td>
+    <td>main</td>
+    <td>81b748</td>
+    <td>feat: add ..</td>
+    <td>Acceso a la funcionalidad..</td>
+    <td>13/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Backend</td>
+    <td>main</td>
+    <td>81b748</td>
+    <td>feat: add ..</td>
+    <td>Acceso a la funcionalidad..</td>
+    <td>13/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Backend</td>
+    <td>main</td>
+    <td>81b748</td>
+    <td>feat: add ..</td>
+    <td>Acceso a la funcionalidad..</td>
+    <td>13/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Backend</td>
+    <td>main</td>
+    <td>81b748</td>
+    <td>feat: add ..</td>
+    <td>Acceso a la funcionalidad..</td>
+    <td>13/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Backend</td>
+    <td>main</td>
+    <td>81b748</td>
+    <td>feat: add ..</td>
+    <td>Acceso a la funcionalidad..</td>
+    <td>13/05/2025</td>
+  </tr>
+</table>
+
+---
+
+* Se presentan los commits realizados en el repositorio de la Aplicación móvil en GitHub. 
+
+    Link del repositorio de la Aplicación móvil: [RideUp - Móvil](URL)
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <td>RideUp - Móvil</td>
+    <td>main</td>
+    <td>81b748</td>
+    <td>feat: add ..</td>
+    <td>Acceso a la funcionalidad..</td>
+    <td>13/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Móvil</td>
+    <td>main</td>
+    <td>81b748</td>
+    <td>feat: add ..</td>
+    <td>Acceso a la funcionalidad..</td>
+    <td>13/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Móvil</td>
+    <td>main</td>
+    <td>81b748</td>
+    <td>feat: add ..</td>
+    <td>Acceso a la funcionalidad..</td>
+    <td>13/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Móvil</td>
+    <td>main</td>
+    <td>81b748</td>
+    <td>feat: add ..</td>
+    <td>Acceso a la funcionalidad..</td>
+    <td>13/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Móvil</td>
+    <td>main</td>
+    <td>81b748</td>
+    <td>feat: add ..</td>
+    <td>Acceso a la funcionalidad..</td>
+    <td>13/05/2025</td>
+  </tr>
+</table>
+
+
+
 # Conclusiones
 Para asegurar el éxito en el desarrollo del proyecto, es fundamental que todos los integrantes del equipo participen activamente y colaboren de manera equitativa, permitiendo así un avance eficiente hacia los objetivos del trabajo como del curso. La correcta elaboración de User Stories , del Product Backlog junto con las entrevistas nos permitirá comprender con claridad qué características y funcionalidades debe incluir la app para ser realmente útil y práctica para los usuarios.
 
