@@ -3539,6 +3539,27 @@ A continuación, se presentan capturas de pantalla de las vistas implementadas.
         <img src="img/Commits.jpeg" style="width:200px; margin: 10px;">
     </div><br>
 
+#### 6.2.1.5. Services Documentation Evidence for Sprint Review. 
+
+Durante este Sprint, se documentaron los endpoints desarrollados en el backend de RideUp utilizando la especificación OpenAPI (swagger), con el objetivo de facilitar su comprensión, prueba y futura integración por parte de otros miembros del equipo o desarrolladores externos.
+
+A continuación, se presenta capturas de la relación de endpoints implementados y documentados, indicando las acciones que soportan, sus respectivos métodos HTTP, parámetros relevantes, ejemplo de uso y respuesta.
+
+(Fotos del swagger aplicando los get-post,etc)
+
+<div align="center">
+  <img align="center" src="img/Commits.jpeg">
+</div>
+
+<div align="center">
+  <img align="center" src="img/Commits.jpeg">
+</div>
+
+<div align="center">
+  <img align="center" src="img/Commits.jpeg">
+</div>
+
+
 # Conclusiones
 Para asegurar el éxito en el desarrollo del proyecto, es fundamental que todos los integrantes del equipo participen activamente y colaboren de manera equitativa, permitiendo así un avance eficiente hacia los objetivos del trabajo como del curso. La correcta elaboración de User Stories , del Product Backlog junto con las entrevistas nos permitirá comprender con claridad qué características y funcionalidades debe incluir la app para ser realmente útil y práctica para los usuarios.
 
