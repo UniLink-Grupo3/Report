@@ -3062,7 +3062,7 @@ Para configurar el despliegue del Frontend en Android Studio, seguimos los pasos
 
     <div align=center>
       <img src="./assets/commits.png">
-    </div>
+    </div><br>
 
 7. **Instalación de la aplicación desde el APK**
 
@@ -3075,9 +3075,285 @@ Para configurar el despliegue del Frontend en Android Studio, seguimos los pasos
 
     <div align=center>
       <img src="./assets/commits.png">
-    </div>
+    </div><br>
 
+## 6.2. Landing Page, Services & Applications Implementation
 
+### 6.2.1. Sprint 1
+
+En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el **Sprint 1**, enfocado en el desarrollo de la landing page, Backend y el frontend. Se detalla el progreso tangible y funcional, incluyendo su diseño, desarrollo y funcionalidades implementadas, así como la colaboración del equipo, los métodos de comunicación utilizados y las herramientas empleadas para garantizar una cooperación efectiva.
+
+#### 6.2.1.1. Sprint Planning 1
+
+En esta parte mostramos las tareas que se realizaron en este sprint.
+
+Link del Trello: [Ir a Trello](url)
+
+Vista del Sprint Backlog 1 en Trello:
+
+<div align="center">
+  <img align="center" src="img/Commits.jpeg">
+</div><br><br>
+
+<table border="1px" align="center">
+      <tr>
+          <th style="font-weight: bold;" >Sprint #</th>
+          <th style="font-weight: bold;" >Sprint 1</th>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Planning Background</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Date</td>
+          <td>13-05-2025</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Time</td>
+          <td>5:00 pm - 10:00 pm</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Location</td>
+          <td>Canal de Voz de Meet</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prepared By</td>
+          <td>Fernandez Alva, María Fernanda</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Attendees (to planning meeting)</td>
+          <td>
+              Belleza Tello, Paolo Eduardo<br>
+              Fernandez Alva, María Fernanda<br>
+              Valera Garces, Samuel Ignacio<br>
+              Ramirez Ortega, Diego Miguel<br>
+              Pilares Pocohuanca, Maria<br>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 0 Review Summary</td>
+          <td>Debido a que es nuestro primer sprint de desarrollo, no existe un review summary del sprint.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 0 Retrospective Summary</td>
+          <td>Debido a que es nuestro primer sprint de desarrollo, no existen planes de mejora.</td>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Goal & User Stories</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 1 Goal</td>
+          <td>
+              El objetivo principal de este sprint es desarrollar la Landing Page, el Backend y el Frontend de la aplicación móvil RideUp (solo un segmento objetivo en este caso seria para el estudiante universitario), enfocándonos en la estructura inicial, la conexión y la presentación básica de funcionalidades clave.
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 1 Velocity</td>
+          <td>8</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sum of Story Points</td>
+          <td>80</td>
+      </tr>
+    </table>
+
+#### 6.2.1.2. Sprint Backlog 1.
+
+<table border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th style="text-align: center;"><b>Sprint #</b></th>
+    <th colspan="7" style="text-align: center;"><b>Sprint 1</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;"><b>User Story</b></td>
+    <td colspan="6" style="text-align: center;"><b>Work-item / Task</b></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><b>ID</b></td>
+    <td style="text-align: center;"><b>Title</b></td>
+    <td style="text-align: center;"><b>ID</b></td>
+    <td style="text-align: center;"><b>Title</b></td>
+    <td style="text-align: center;"><b>Description</b></td>
+    <td style="text-align: center;"><b>Estimation (hours)</b></td>
+    <td style="text-align: center;"><b>Assigned To</b></td>
+    <td style="text-align: center;"><b>Status</b></td>
+  </tr>
+
+  <tr>
+    <td>US08</td>
+    <td>Búsqueda de Viaje Disponibles</td>
+    <td>T1</td>
+    <td>Búsqueda de viajes</td>
+    <td>Implementacion de una busqueda de vehiculos que aun tienen espacio en su vehiculo</td>
+    <td style="text-align: center;">8h</td>
+    <td>Valera Garces, Samuel Ignacio</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US03</td>
+    <td>Evaluar la seguridad del viaje</td>
+    <td>T2</td>
+    <td>Seguridad</td>
+    <td>Observar la calificacion de otros usuarios con respecto al conductor</td>
+    <td style="text-align: center;">8h</td>
+    <td>Ramirez Ortega, Diego Miguel</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US12</td>
+    <td>Calificación y Comentario del Conductor</td>
+    <td>T3</td>
+    <td>Calificar al conductor</td>
+    <td>Implementación de una calificación del pasajero al conductor</td>
+    <td style="text-align: center;">7h</td>
+    <td>Belleza Tello, Paolo</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US04</td>
+    <td>Recibir notificaciones en tiempo real</td>
+    <td>T4</td>
+    <td>Notificaciones</td>
+    <td>Implementación en el horario de recogo</td>
+    <td style="text-align: center;">7h</td>
+    <td>Fernandez Alva, Maria</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US05</td>
+    <td>Verificación de identidades</td>
+    <td>T5</td>
+    <td>Informacion sobre los usuarios</td>
+    <td>Implementar un apartado donde se vea la informacion del conductor</td>
+    <td style="text-align: center;">6h</td>
+    <td>Pilares Pocohuanca, Maria</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US06</td>
+    <td>Realizar pagos de manera segura</td>
+    <td>T6</td>
+    <td>Pagos</td>
+    <td>Implementación de un formulario para hacer el pago , llenando los datos mas importantes</td>
+    <td style="text-align: center;">5h</td>
+    <td>Ramirez Ortega, Diego Miguel</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US07</td>
+    <td>Registro de usuario</td>
+    <td>T7</td>
+    <td>registro para el estudiante universitario</td>
+    <td>Implementación de un formulario para el llenado de los datos generales</td>
+    <td style="text-align: center;">5h</td>
+    <td>Valera Garces, Samuel Ignacio</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US09</td>
+    <td>Reserva de Viaje</td>
+    <td>T8</td>
+    <td>Reservación</td>
+    <td>Implementar un botón para hacer la reserva de manera mas rápida</td>
+    <td style="text-align: center;">4h</td>
+    <td>Belleza Tello, Paolo Eduardo</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US10</td>
+    <td>Comunicación con el Conductor</td>
+    <td>T9</td>
+    <td>Comunicación directar con el conductor</td>
+    <td>Implementar una chat para la comunicacion fluida</td>
+    <td style="text-align: center;">4h</td>
+    <td>Fernandez Alva, Maria</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US11</td>
+    <td>ancelación de Reserva</td>
+    <td>T10</td>
+    <td>Cancelación</td>
+    <td>Implementación un botón para cancelar la reserva</td>
+    <td style="text-align: center;">4h</td>
+    <td>Pilares Pocohuanca, Maria</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US25</td>
+    <td>Filtrar viajes por tipos de vehículos</td>
+    <td>T11</td>
+    <td>Filtro de vehiculos</td>
+    <td>Implementación de un filtro para que sea mas accesible encontrar el vehiculo adecuado</td>
+    <td style="text-align: center;">4h</td>
+    <td>Ramirez Ortega, Diego Miguel</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US28</td>
+    <td>Identificación de usuarios frecuentes</td>
+    <td>T12</td>
+    <td>Estudiante Universitario frecuente</td>
+    <td>Implementación para marcar conductores favoritos</td>
+    <td style="text-align: center;">4h</td>
+    <td>Valera Garces, Samuel Ignacio</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US29</td>
+    <td>Programar viajes recurrentes</td>
+    <td>T13</td>
+    <td>Viajes recurrentes</td>
+    <td>Implementación de una ruta ya recurrente para no tener que ponerlo siempre o de manera diaria</td>
+    <td style="text-align: center;">4h</td>
+    <td>Belleza Tello, Paolo Eduardo</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US15</td>
+    <td>Visualizar planes de servicio</td>
+    <td>T14</td>
+    <td>Planes</td>
+    <td>Implementación de la vista de los planes disponibles</td>
+    <td style="text-align: center;">2h</td>
+    <td>Fernandez Alva, Maria</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US19</td>
+    <td>Barra de navegación en la landing page</td>
+    <td>T15</td>
+    <td>Navegación</td>
+    <td>Implementación de una barra para que sea mas comodo moverse por la lading page</td>
+    <td style="text-align: center;">2h</td>
+    <td>Pilares Pocohuanca, Maria</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US23</td>
+    <td>Sección about the product y about the team</td>
+    <td>T16</td>
+    <td>Informacion sobre el equipo y el proyecto</td>
+    <td>Implementación de una vista donde tenga toda la informacion necesaria para los usuarios</td>
+    <td style="text-align: center;">2h</td>
+    <td>Ramirez Ortega, Diego Miguel</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+</table>
 
 # Conclusiones
 Para asegurar el éxito en el desarrollo del proyecto, es fundamental que todos los integrantes del equipo participen activamente y colaboren de manera equitativa, permitiendo así un avance eficiente hacia los objetivos del trabajo como del curso. La correcta elaboración de User Stories , del Product Backlog junto con las entrevistas nos permitirá comprender con claridad qué características y funcionalidades debe incluir la app para ser realmente útil y práctica para los usuarios.
