@@ -3502,7 +3502,42 @@ Vista del Sprint Backlog 1 en Trello:
   </tr>
 </table>
 
+#### 6.2.1.4. Execution Evidence for Sprint Review. 
 
+En el Sprint 1 hemos logrado implementar la Lading Page, Backend como la aplicación móvil con las funcionalidades más relevantes.
+
+A continuación, se presentan capturas de pantalla de las vistas implementadas.
+
+1. **Landing Page**  
+
+    <div align="center">
+        <img src="assets/Landing-Page/foto 1.png" style="width:250px; margin: 10px;">
+        <img src="assets/Landing-Page/foto 2.png" style="width:250px; margin: 10px;">
+    </div>
+
+    <div align="center">
+        <img src="assets/Landing-Page/foto 3.png" style="width:250px; margin: 10px;">
+        <img src="assets/Landing-Page/foto 4.png" style="width:250px; margin: 10px;">
+    </div>
+
+    <div align="center">
+        <img src="assets/Landing-Page/foto 5.png" style="width:250px; margin: 10px;">
+        <img src="assets/Landing-Page/foto 6.png" style="width:250px; margin: 10px;">
+    </div><br>
+
+2. **Backend**
+
+    <div align="center">
+        <img src="assets/backend/foto 1.png" style="width:300px; margin: 10px;">
+    </div><br>
+
+3. **Aplicación Móvil**
+
+    <div align="center">
+        <img src="img/Commits.jpeg" style="width:200px; margin: 10px;">
+        <img src="img/Commits.jpeg" style="width:200px; margin: 10px;">
+        <img src="img/Commits.jpeg" style="width:200px; margin: 10px;">
+    </div><br>
 
 # Conclusiones
 Para asegurar el éxito en el desarrollo del proyecto, es fundamental que todos los integrantes del equipo participen activamente y colaboren de manera equitativa, permitiendo así un avance eficiente hacia los objetivos del trabajo como del curso. La correcta elaboración de User Stories , del Product Backlog junto con las entrevistas nos permitirá comprender con claridad qué características y funcionalidades debe incluir la app para ser realmente útil y práctica para los usuarios.
