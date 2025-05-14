@@ -3087,12 +3087,12 @@ En esta sección se registra y explica el avance en términos de producto y trab
 
 En esta parte mostramos las tareas que se realizaron en este sprint.
 
-Link del Trello: [Ir a Trello](url)
+Link del Trello: [Ir a Trello](https://trello.com/invite/b/682137d6cc19197ed3a8ed8c/ATTI9ddb4fdb698689e540dc94e77ea61eb2860AC9B6/unilink)
 
 Vista del Sprint Backlog 1 en Trello:
 
 <div align="center">
-  <img align="center" src="img/Commits.jpeg">
+  <img align="center" src="./assets/GitHub-Page/UniLink _ Trello.png">
 </div><br><br>
 
 <table border="1px" align="center">
