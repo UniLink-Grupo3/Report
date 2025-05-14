@@ -107,6 +107,26 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 <p align="center"><em> Colaboradores del proyecto en GitHub </em></p>
 
 ---  
+
+**Entrega N°2: TP**
+<br>
+- Todos los miembros del equipo contribuyeron en distintas partes del entregable. Por ejemplo, algunos se encargaron de la documentación y una parte de la landing page, otros se enfocaron en la documentación junto con el backend, y el resto se centró en la implementación de las vistas de la aplicación móvil.
+
+- Se establecieron fechas límite para la finalización de cada tarea asignada. Aunque surgieron algunas complicaciones, supimos resolverlas trabajando en equipo.
+<br><br>
+  
+<p align="center">
+  <img align="center" src="assets/Evidencia GitHub/Commits.png"></p>
+<p align="center"><em> Historial de commits en GitHub (lading Page - Backend - App móvil) </em></p>
+
+<br>
+
+<p align="center">
+  <img align="center" src="assets/Evidencia GitHub/Contribuidores.png"></p>
+<p align="center"><em> Colaboradores del proyecto en GitHub (lading Page - Backend - App móvil)</em></p>
+
+---  
+
 # Student Outcome  
 
 <table>
