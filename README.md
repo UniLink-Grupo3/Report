@@ -118,14 +118,13 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   <tr>
     <td rowspan="5"><strong>Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software</strong></td>
     <td><strong>Fernandez Alva, Maria Fernanda</strong><br>
-    <strong>TB1:</strong>Durante el desarrollo del proyecto, reforcé conocimientos sobre Bounded Contexts y su importancia en la estructuración del sistema. Usé herramientas como Vertabelo y Structurizr para modelar los datos y la arquitectura.<br><strong>TP:</strong>Realicé la documentación del capitulo 6. También elabore la implementación del boton de cambio de idioma en el lading page y un poco de codificación en el backend.</td>
+    <strong>TB1:</strong> Durante el desarrollo del proyecto, reforcé conocimientos sobre Bounded Contexts y su importancia en la estructuración del sistema. Usé herramientas como Vertabelo y Structurizr para modelar los datos y la arquitectura.<br><strong>TP:</strong> Realicé la documentación del capitulo 6. También elabore la implementación del boton de cambio de idioma en el lading page y un poco de codificación en el backend.</td>
     <td rowspan="5">
-    <strong>TB1:</strong>Como equipo, actualizamos y fortalecimos nuestros conocimientos usando herramientas como Uxpressia para user persona y journey mapping, Structurizr para el modelo C4, y análisis de la competencia. Estas herramientas nos ayudaron a diseñar una solución de software más completa y centrada en el usuario.<br>
-    </td>
+    <strong>TB1:</strong>Como equipo, actualizamos y fortalecimos nuestros conocimientos usando herramientas como Uxpressia para user persona y journey mapping, Structurizr para el modelo C4, y análisis de la competencia. Estas herramientas nos ayudaron a diseñar una solución de software más completa y centrada en el usuario.<br><br><strong>TP:</strong> Como equipo, tuvimos que repasar y volver a ver las grabaciones de las clases del profesor, así como revisar su repositorio con los proyectos trabajados en clase. Sin estos recursos, habría sido muy difícil desarrollar el proyecto de forma individual.</td>
   </tr>
   <tr>
     <td><strong>Belleza Tello, Paolo Eduardp</strong><br>
-    <strong>TB1:</strong> Realicé uno de los principales Bounded Contexts del proyecto para entender el funcionamiento de una parte clave de la app. Utilicé StarUML para diagramas de clases y contenedores, y Structurizr para modelar en los niveles 2, 3 y 4 del modelo C4. Esto fortaleció mis conocimientos en modelado de software y estructura de sistemas complejos.</td>
+    <strong>TB1:</strong> Realicé uno de los principales Bounded Contexts del proyecto para entender el funcionamiento de una parte clave de la app. Utilicé StarUML para diagramas de clases y contenedores, y Structurizr para modelar en los niveles 2, 3 y 4 del modelo C4. Esto fortaleció mis conocimientos en modelado de software y estructura de sistemas complejos.<br><strong>TP:</strong> Realicé un poco de la documentacion del capitulo 6. Aborde el i18n en el index.html de la lading page haciendo las traducciones. Elabore la vista de busqueda de vehiculos en la app móvil y un poco de código al backend.</td>
   </tr>
   <tr>
     <td><strong>Valera Garces, Samuel Ignacio</strong><br>
@@ -143,13 +142,13 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   <tr>
     <td rowspan="5"><strong>Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.</strong></td>
     <td><strong>Fernandez Alva, Maria Fernanda</strong><br>
-    <strong>TB1:</strong> Para retomar el uso de estas herramientas, recurrí a videos de YouTube y documentación oficial. Apliqué estrategias de autoaprendizaje, como el estudio del modelo C4, para elaborar diagramas del sistema.<br><strong>TP:</strong>Para implementar el botón tuve que volver a estudiar como era el html como css con ayuda de videos y paginas web. Tambien tuve que buscar tutoriales para saber como desplegar la app móvil en Firebase.</td>
+    <strong>TB1:</strong> Para retomar el uso de estas herramientas, recurrí a videos de YouTube y documentación oficial. Apliqué estrategias de autoaprendizaje, como el estudio del modelo C4, para elaborar diagramas del sistema.<br><strong>TP:</strong> Para implementar el botón tuve que volver a estudiar como era el html como css con ayuda de videos y paginas web. Tambien tuve que buscar tutoriales para saber como desplegar la app móvil en Firebase.</td>
     <td rowspan="5">
-    <strong>TB1:</strong> El uso de nuevas metodologías y entrevistas a usuarios nos impulsó a investigar y aprender de forma continua. Este proceso nos permitió identificar necesidades reales y aplicar estrategias de aprendizaje colaborativo, reconociendo así el valor del aprendizaje permanente en nuestra formación profesional.</td>
+    <strong>TB1:</strong> El uso de nuevas metodologías y entrevistas a usuarios nos impulsó a investigar y aprender de forma continua. Este proceso nos permitió identificar necesidades reales y aplicar estrategias de aprendizaje colaborativo, reconociendo así el valor del aprendizaje permanente en nuestra formación profesional.<br><br><strong>TP:</strong> Usar Android Studio por primera vez, junto con su estructura para desarrollar un proyecto, fue un gran desafío. Sin embargo, nos motivó mucho descubrir cómo se crea una aplicación y cómo se trabaja con este nuevo lenguaje llamado Kotlin.</td>
   </tr>
   <tr>
     <td><strong>Belleza Tello, Paolo Eduardo</strong><br>
-    <strong>TB1:</strong> Para aplicar correctamente estas herramientas, consulté la documentación oficial del modelo C4 y videos de YouTube sobre el uso de StarUML. Este proceso me ayudó a comprender la necesidad del aprendizaje continuo. Gracias a ello, pude implementar estrategias de autoformación efectivas para mejorar mi desempeño.</td>
+    <strong>TB1:</strong> Para aplicar correctamente estas herramientas, consulté la documentación oficial del modelo C4 y videos de YouTube sobre el uso de StarUML. Este proceso me ayudó a comprender la necesidad del aprendizaje continuo. Gracias a ello, pude implementar estrategias de autoformación efectivas para mejorar mi desempeño.<br><strong>TP:</strong> Para la implementacion de las vistas en el android studio tuve que volver a revisar todas las grabaciones del profesor para poder guiarme. Especialmente el proyecto que el profesor hizo de "agenda compose" me ayudo muchisimo para la implementación</td>
   </tr>
   <tr>
     <td><strong>Valera Garces, Samuel Ignacio</strong><br>
