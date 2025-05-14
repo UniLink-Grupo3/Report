@@ -2724,6 +2724,11 @@ Para mayor información, visualizar la (ver figura 4.25).
 ### 5.1.1. Style Guidelines
 #### 5.1.1.1. General Style Guidelines
 
+Logo: El logo de RideUp fue creado con un estilo minimalista, capturando la esencia de la marca y su función como una plataforma de carpooling para estudiantes universitarios. El diseño compuesto por un auto junto a elementos como hojas, líneas trazadas y un libro, representa visualmente una mezcla de simplicidad y significado.
+
+Lenguaje: En nuestra aplicación emplearemos un lenguaje formal, ya que buscamos generar en el usuario una sensación de seguridad y confianza en la información y recomendaciones que proporcionamos.
+
+
 ### 5.1.2. Information Architecture
 #### 5.1.2.1. Organization Systems
 #### 5.1.2.2. Labelling Systems
