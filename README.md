@@ -3559,6 +3559,92 @@ A continuación, se presenta capturas de la relación de endpoints implementados
   <img align="center" src="img/Commits.jpeg">
 </div>
 
+#### 6.2.1.6. Software Deployment Evidence for Sprint Review.
+
+Durante este Sprint, no se realizaron cambios adicionales en el proceso de despliegue. Sin embargo, se mantiene operativo el entorno previamente configurado y desplegado para cada uno de los componentes del sistema.
+
+A continuación, se presentan los enlaces de despliegue correspondientes, junto con una captura representativa de cada uno:
+
+**Landing Page:** [RideUp-Landing](https://unilink-grupo3.github.io/RideUp-Landing-Page/)
+
+**Backend:** [RideUp-Backend]()
+
+**Aplicación Móvil:** [archivo APK]()
+
+
+**Imagen de la Landing Page funcionando en el navegador**
+
+<div align="center">
+  <img align="center" src="img/Commits.jpeg">
+</div><br>
+
+**Imagen del Postman o Swagger mostrando que el backend responde**
+
+<div align="center">
+  <img align="center" src="img/Commits.jpeg">
+</div><br>
+
+**Imagen de la app móvil mostrando que funciona**
+
+<div align="center">
+  <img align="center" src="img/Commits.jpeg">
+</div><br>
+
+#### 6.2.1.7. Team Collaboration Insights during Sprint.
+
+El equipo desarrolló el Landing Page, Backend y la Aplicación móvil . En la aplicación móvil , se enfoco mas en las vistas y la navegacion entre esas.
+
+A continuación, se presentarán las tareas asignadas a cada integrante del equipo, así como el insight del equipo a través de la plataforma GitHub:
+
+<table border="1">
+  <tr>
+    <th>Integrante</th>
+    <th>Actividad</th>
+  </tr>
+  <tr>
+    <td>Pilares Pocohuanca, Maria</td>
+    <td>Se encargó del la implementación del documento del capitulo 5. Realizó una parte de la codificación del backend</td>
+  </tr>
+  <tr>
+    <td>Belleza Tello, Paolo Eduardo</td>
+    <td>Se encargó de realizar algunas vistas de la aplicación web como la busqueda de vehiculos. Cambio de idioma en el lading Page y por último un poco en la implementación en el documento. Realizó una parte de la codificación del backend</td>
+  </tr>
+  <tr>
+    <td>Fernandez Alva, María Fernanda</td>
+    <td>Se encargó de realizar la implementación del documento del capitulo 6. Realizó la implementacion del boton de idioma en el lading page. Realizó una parte de la codificación del backend</td>
+  </tr>
+  <tr>
+    <td>Ramirez Ortega, Diego Miguel</td>
+    <td>Se encargó de realizar la implementación de una vista en la app móvil con sus respectivas carpetas. Realizó una parte de la codificación del backend</td>
+  </tr>
+  <tr>
+    <td>Valera Garces, Samuel Ignacio</td>
+    <td>Se encargó de realizar el lading page con todo lo establecido. Realizó vistas de la app móvil con su respectiva ruta. Realizó una parte de la codificación del backend</td>
+  </tr>
+</table>
+
+A continuación, se mostrarán las capturas de participación:
+
+* <strong>Captura de los commits realizados de la Lading Page</strong>
+
+<div align=center>
+    <img src="./assets/commits.png">
+    <img src="./assets/commits.png">
+</div><br>
+
+* <strong>Captura de los commits realizados en el Backend</strong>
+
+<div align=center>
+    <img src="./assets/commits.png">
+    <img src="./assets/commits.png">
+</div><br>
+
+* <strong>Captura de los commits realizados de la App móvil</strong>
+
+<div align=center>
+    <img src="./assets/commits.png">
+    <img src="./assets/commits.png">
+</div><br>
 
 # Conclusiones
 Para asegurar el éxito en el desarrollo del proyecto, es fundamental que todos los integrantes del equipo participen activamente y colaboren de manera equitativa, permitiendo así un avance eficiente hacia los objetivos del trabajo como del curso. La correcta elaboración de User Stories , del Product Backlog junto con las entrevistas nos permitirá comprender con claridad qué características y funcionalidades debe incluir la app para ser realmente útil y práctica para los usuarios.
