@@ -351,17 +351,17 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     - [6.2.1.1. Sprint Planning 1](#6211-sprint-planning-1)
     - [6.2.1.2. Sprint Backlog 1](#6212-sprint-backlog-1)
     - [6.2.1.3. Development Evidence for Sprint Review](#6213-development-evidence-for-sprint-review)
-    - [6.2.1.4. Testing Suite Evidence for Sprint Review](#6214-testing-suite-evidence-for-sprint-review)
-    - [6.2.1.5. Execution Evidence for Sprint Review](#6215-execution-evidence-for-sprint-review)
-    - [6.2.1.6. Services Documentation Evidence for Sprint Review](#6216-services-documentation-evidence-for-sprint-review)
-    - [6.2.1.7. Software Deployment Evidence for Sprint Review](#6217-software-deployment-evidence-for-sprint-review)
-    - [6.2.1.8. Team Collaboration Insights during Sprint](#6218-team-collaboration-insights-during-sprint)
+    - [6.2.1.4. Execution Evidence for Sprint Review](#6214-execution-evidence-for-sprint-review)
+    - [6.2.1.5. Services Documentation Evidence for Sprint Review](#6215-services-documentation-evidence-for-sprint-review)
+    - [6.2.1.6. Software Deployment Evidence for Sprint Review](#6216-software-deployment-evidence-for-sprint-review)
+    - [6.2.1.7. Team Collaboration Insights during Sprint](#6217-team-collaboration-insights-during-sprint)
+<!--
 - [6.3. Validation Interviews](#63-validation-interviews)  
   - [6.3.1. Diseño de Entrevistas](#631-diseño-de-entrevistas) 
   - [6.3.2. Registro de Entrevistas](#632-registro-de-entrevistas)
   - [6.3.3. Evaluaciones según heurísticas](#633-evaluaciones-segun-heuristicas) 
 - [6.4. Video About-the-Product](#64-viedo-about-the-product)  
-
+-->
 - [Avance de Conclusiones](#avance-de-conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
