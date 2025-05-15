@@ -3528,15 +3528,30 @@ A continuación, se presentan capturas de pantalla de las vistas implementadas.
 2. **Backend**
 
     <div align="center">
-        <img src="assets/backend/foto 1.png" style="margin: 10px;">
+        <img src="assets/backend/railway 1.jpg">
+    </div>
+
+    <div align="center">
+        <img src="assets/backend/railway 2.jpg">
     </div><br>
 
 3. **Aplicación Móvil**
 
     <div align="center">
-        <img src="img/Commits.jpeg" style="width:200px; margin: 10px;">
-        <img src="img/Commits.jpeg" style="width:200px; margin: 10px;">
-        <img src="img/Commits.jpeg" style="width:200px; margin: 10px;">
+        <img src="./assets/aplicacion-móvil/paso1.jpg" style="width:300px; margin: 10px;">
+        <img src="./assets/aplicacion-móvil/paso2.jpg" style="width:300px; margin: 10px;">
+        <img src="./assets/aplicacion-móvil/paso3.jpg" style="width:300px; margin: 10px;">
+    </div>
+
+    <div align="center">
+        <img src="./assets/aplicacion-móvil/paso 4.jpg" style="width:300px; margin: 10px;">
+        <img src="./assets/aplicacion-móvil/paso 5.jpg" style="width:300px; margin: 10px;">
+        <img src="./assets/aplicacion-móvil/paso6.jpg" style="width:300px; margin: 10px;">
+    </div>
+
+    <div align="center">
+        <img src="./assets/aplicacion-móvil/paso7.jpg" style="width:300px; margin: 10px;">
+        <img src="./assets/aplicacion-móvil/paso8.jpg" style="width:300px; margin: 10px;">
     </div><br>
 
 #### 6.2.1.5. Services Documentation Evidence for Sprint Review. 
@@ -3545,18 +3560,16 @@ Durante este Sprint, se documentaron los endpoints desarrollados en el backend d
 
 A continuación, se presenta capturas de la relación de endpoints implementados y documentados, indicando las acciones que soportan, sus respectivos métodos HTTP, parámetros relevantes, ejemplo de uso y respuesta.
 
-(Fotos del swagger aplicando los get-post,etc)
+<div align="center">
+  <img align="center" src="./assets/backend/swagger.jpg">
+</div><br>
 
 <div align="center">
-  <img align="center" src="img/Commits.jpeg">
-</div>
+  <img align="center" src="./assets/backend/prueba 1.png">
+</div><br>
 
 <div align="center">
-  <img align="center" src="img/Commits.jpeg">
-</div>
-
-<div align="center">
-  <img align="center" src="img/Commits.jpeg">
+  <img align="center" src="./assets/backend/prueba 2.png">
 </div>
 
 #### 6.2.1.6. Software Deployment Evidence for Sprint Review.
@@ -3567,27 +3580,31 @@ A continuación, se presentan los enlaces de despliegue correspondientes, junto 
 
 **Landing Page:** [RideUp-Landing](https://unilink-grupo3.github.io/RideUp-Landing-Page/)
 
-**Backend:** [RideUp-Backend]()
+**Backend:** [RideUp-Backend](https://moviles-back-production.up.railway.app)
 
-**Aplicación Móvil:** [archivo APK]()
+**Aplicación Móvil:** [Para descargar el archivo APK](https://drive.google.com/file/d/1pSuPTgnZ2aG_0eBcumhxvDnwjOyMd7MK/view?usp=sharing)
 
 
 **Imagen de la Landing Page funcionando en el navegador**
 
 <div align="center">
-  <img align="center" src="img/Commits.jpeg">
+  <img align="center" src="./assets/Lading-Page/evidencia de despliegue.png">
 </div><br>
 
 **Imagen del Postman o Swagger mostrando que el backend responde**
 
 <div align="center">
-  <img align="center" src="img/Commits.jpeg">
+  <img align="center" src="./assets/backend/prueba 1.png">
 </div><br>
 
 **Imagen de la app móvil mostrando que funciona**
 
 <div align="center">
-  <img align="center" src="img/Commits.jpeg">
+  <img align="center" src="./assets/aplicacion-móvil/evidencia.jpg">
+</div>
+
+<div align="center">
+  <img align="center" src="./assets/aplicacion-móvil/paso 4.jpg">
 </div><br>
 
 #### 6.2.1.7. Team Collaboration Insights during Sprint.
@@ -3628,22 +3645,22 @@ A continuación, se mostrarán las capturas de participación:
 * <strong>Captura de los commits realizados de la Lading Page</strong>
 
 <div align=center>
-    <img src="./assets/commits.png">
-    <img src="./assets/commits.png">
+    <img src="./assets/Lading-Page/Commits.png" style="width:320px; margin: 10px;">
+    <img src="./assets/Lading-Page/contribuidores.png" style="width:320px; margin: 10px;">
 </div><br>
 
 * <strong>Captura de los commits realizados en el Backend</strong>
 
 <div align=center>
-    <img src="./assets/commits.png">
-    <img src="./assets/commits.png">
+    <img src="./assets/commits.png" style="width:320px; margin: 10px;">
+    <img src="./assets/commits.png" style="width:320px; margin: 10px;">
 </div><br>
 
 * <strong>Captura de los commits realizados de la App móvil</strong>
 
 <div align=center>
-    <img src="./assets/commits.png">
-    <img src="./assets/commits.png">
+    <img src="./assets/commits.png" style="width:320px; margin: 10px;">
+    <img src="./assets/commits.png" style="width:320px; margin: 10px;">
 </div><br>
 
 # Conclusiones
