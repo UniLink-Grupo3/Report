@@ -2731,9 +2731,21 @@ Lenguaje: En nuestra aplicación emplearemos un lenguaje formal, ya que buscamos
 
 ### 5.1.2. Information Architecture
 #### 5.1.2.1. Organization Systems
+
+A continuación, explicaremos cómo se aplicaron los diferentes tipos de organización visual en los grupos de información para ambos segmentos objetivo, asimismo en qué casos se utiliza algún tipo de categorización:
+
+Estructura de información: La información dentro de la aplicación se organizará en módulos o secciones clave, como "Perfil", "Viajes", "Conducir", "Búsqueda de compañeros de viaje", "Notificaciones" y "Configuración".
+
+	- Pantalla de inicio: Mostrará opciones de viaje y búsqueda de conductores o pasajeros disponibles.
+	- Pantalla de viajes: Permitirá a los usuarios ver los viajes pasados y próximos, con la opción de reservar o gestionar viajes.
+	- Pantalla de perfil: Aquí se visualizarán los datos personales, historial de viajes y configuración de la cuenta.
+
 #### 5.1.2.2. Labelling Systems
+
 #### 5.1.2.3. SEO Tags and Meta Tags
+
 #### 5.1.2.4. Searching Systems
+
 #### 5.1.2.5. Navigation Systems
 
 ### 5.1.3. Landing Page UI Design
