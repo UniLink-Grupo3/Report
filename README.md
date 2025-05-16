@@ -75,6 +75,24 @@ Producto: RideUp
         ● Avance de Conclusiones, Bibliografía y Anexos
       </td>
     </tr>
+    <tr>
+      <td>TB2</td>
+      <td>12/05/2025</td>
+      <td>
+        <ul>
+            <li>Pilares Pocohuanca, Maria</li>
+            <li>Ramirez Ortega, Diego Miguel</li>
+            <li>Valera Garces, Samuel Ignacio</li>
+            <li>Belleza Tello, Paolo Eduardo</li>
+            <li>Fernandez Alva, Maria Fernanda</li>
+        </ul>
+      </td>
+      <td>
+        ● Capítulo V: Solution UI/UX Design<br>
+        ● Capítulo VI: Product Implementation, Validation & Deployment<br>
+        ● Avance de Conclusiones, Bibliografía y Anexos
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -330,11 +348,9 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
           - [4.2.2.6.1. Bounded Context Domain Layer Class Level Diagrams](#42161-bounded-context-domain-layer-code-level-diagrams)
           - [4.2.2.6.2. Bounded Context Database Design Diagram](#42161-bounded-context-domain-layer-class-diagrams)
 
-- [Avance de Conclusiones](#avance-de-conclusiones)
-- [Bibliografía](#bibliografía)
-- [Anexos](#anexos)
 
-<!--
+
+<!-- -->
 ### Capítulo V: Solution UI/UX Design 
 - [5.1. Product design](#51-product-design)  
   - [5.1.1. Style Guidelines](#511-style-guidelines) 
@@ -363,22 +379,24 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   - [6.1.3. Source Code Style Guide & Conventions](#613-source-code-style-guide-&-conventions) 
   - [6.1.4. Software Deployment Configuration](#614-software-deployment-configuration) 
 - [6.2. Landing Page & Mobile Application Implementation](#62-landing-page-&-mobile-application-implementation)  
-  - [6.2.X Sprint n](#62x-sprint-n)
-    - [6.2.X.1. Sprint Planning n](#62x1-sprint-planning-n)
-    - [6.2.X.2. Sprint Backlog n](#62x2-sprint-backlog-n)
-    - [6.2.X.3. Development Evidence for Sprint Review](#62x3-development-evidence-for-sprint-review)
-    - [6.2.X.4. Testing Suite Evidence for Sprint Review](#62x4-testing-suite-evidence-for-sprint-review)
-    - [6.2.X.5. Execution Evidence for Sprint Review](#62x5-execution-evidence-for-sprint-review)
-    - [6.2.X.6. Services Documentation Evidence for Sprint Review](#62x6-services-documentation-evidence-for-sprint-review)
-    - [6.2.X.7. Software Deployment Evidence for Sprint Review](#62x7-software-deployment-evidence-for-sprint-review)
-    - [6.2.X.8. Team Collaboration Insights during Sprint](#62x8-team-collaboration-insights-during-sprint)
+  - [6.2.1 Sprint 1](#621-sprint-1)
+    - [6.2.1.1. Sprint Planning 1](#6211-sprint-planning-1)
+    - [6.2.1.2. Sprint Backlog 1](#6212-sprint-backlog-1)
+    - [6.2.1.3. Development Evidence for Sprint Review](#6213-development-evidence-for-sprint-review)
+    - [6.2.1.4. Testing Suite Evidence for Sprint Review](#6214-testing-suite-evidence-for-sprint-review)
+    - [6.2.1.5. Execution Evidence for Sprint Review](#6215-execution-evidence-for-sprint-review)
+    - [6.2.1.6. Services Documentation Evidence for Sprint Review](#6216-services-documentation-evidence-for-sprint-review)
+    - [6.2.1.7. Software Deployment Evidence for Sprint Review](#6217-software-deployment-evidence-for-sprint-review)
+    - [6.2.1.8. Team Collaboration Insights during Sprint](#6218-team-collaboration-insights-during-sprint)
 - [6.3. Validation Interviews](#63-validation-interviews)  
   - [6.3.1. Diseño de Entrevistas](#631-diseño-de-entrevistas) 
   - [6.3.2. Registro de Entrevistas](#632-registro-de-entrevistas)
   - [6.3.3. Evaluaciones según heurísticas](#633-evaluaciones-segun-heuristicas) 
 - [6.4. Video About-the-Product](#64-viedo-about-the-product)  
--->
 
+- [Avance de Conclusiones](#avance-de-conclusiones)
+- [Bibliografía](#bibliografía)
+- [Anexos](#anexos)
   
 ---  
 # Capítulo I: Introducción  
@@ -2698,8 +2716,55 @@ Para mayor información, visualizar la (ver figura 4.25).
   <img align="center" src="assets/bound contex - 2 Database Design Diagram.png"></p>
 <p align="center"><em>Figura 4.25: Database Design Diagram - Segundo Bounded Context</em></p>
 
+# Capítulo V: 
 
+## 5.1. Product design
 
+### 5.1.1. Style Guidelines
+#### 5.1.1.1. General Style Guidelines
+
+### 5.1.2. Information Architecture
+#### 5.1.2.1. Organization Systems
+#### 5.1.2.2. Labelling Systems
+#### 5.1.2.3. SEO Tags and Meta Tags
+#### 5.1.2.4. Searching Systems
+#### 5.1.2.5. Navigation Systems
+
+### 5.1.3. Landing Page UI Design
+#### 5.1.3.1. Landing Page Wireframe
+#### 5.1.3.2. Landing Page Mock-up
+
+### 5.1.4. Mobile Applications UX/UI Design
+#### 5.1.4.1. Mobile Applications Wireframes
+#### 5.1.4.2. Mobile Applications Wireflow Diagrams
+#### 5.1.4.3. Mobile Applications Mock-ups
+#### 5.1.4.4. Mobile Applications User Flow Diagrams
+#### 5.1.4.5. Mobile Applications Prototyping
+
+# Capítulo VI: 
+## 6.1. Software Configuration Management
+### 6.1.1. Software Development Environment Configuration
+### 6.1.2. Source Code Management
+### 6.1.3. Source Code Style Guide & Conventions
+### 6.1.4. Software Deployment Configuration
+
+## 6.2. Landing Page & Mobile Application Implementation
+### 6.2.1. Sprint 1
+#### 6.2.1.1. Sprint Planning 1
+#### 6.2.1.2. Sprint Backlog 1
+#### 6.2.1.3. Development Evidence for Sprint Review
+#### 6.2.1.4. Testing Suite Evidence for Sprint Review
+#### 6.2.1.5. Execution Evidence for Sprint Review
+#### 6.2.1.6. Services Documentation Evidence for Sprint Review
+#### 6.2.1.7. Software Deployment Evidence for Sprint Review
+#### 6.2.1.8. Team Collaboration Insights during Sprint
+
+## 6.3. Validation Interviews
+### 6.3.1. Diseño de Entrevistas
+### 6.3.2. Registro de Entrevistas
+### 6.3.3. Evaluaciones según heurísticas
+
+## 6.4. Video About-the-Produc
 
 # Conclusiones
 Para asegurar el éxito en el desarrollo del proyecto, es fundamental que todos los integrantes del equipo participen activamente y colaboren de manera equitativa, permitiendo así un avance eficiente hacia los objetivos del trabajo como del curso. La correcta elaboración de User Stories , del Product Backlog junto con las entrevistas nos permitirá comprender con claridad qué características y funcionalidades debe incluir la app para ser realmente útil y práctica para los usuarios.
