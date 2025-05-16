@@ -182,7 +182,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   </tr>
   <tr>
     <td><strong>Pilares Pocohuanca, Maria</strong><br>
-    <strong>TB1:</strong> Realicé el desarrollo de los capítulos 1, 2 y 3 del proyecto, siguiendo el enfoque de Lean UX Process. Elaboré el análisis competitivo de competidores, diseñé y registré entrevistas con usuarios para validar necesidades reales. Además, desarrollé User Stories y apliqué la técnica de Impact Mapping para alinear funcionalidades con los objetivos del negocio. Esto fortaleció mis conocimientos en investigación de usuarios, análisis competitivo y diseño ágil de soluciones de software centradas en el usuario.
+    <strong>TB1:</strong> Realicé el desarrollo de los capítulos 1, 2 y 3 del proyecto, siguiendo el enfoque de Lean UX Process. Elaboré el análisis competitivo de competidores, diseñé y registré entrevistas con usuarios para validar necesidades reales. Además, desarrollé User Stories y apliqué la técnica de Impact Mapping para alinear funcionalidades con los objetivos del negocio. Esto fortaleció mis conocimientos en investigación de usuarios, análisis competitivo y diseño ágil de soluciones de software centradas en el usuario.<br><strong>TP:</strong> Realicé la documentación del capítulo 5, para ello hice uso de la herramienta Figma y Miro. Asimismo, colaboré con algunos componentes respecto al frontend de la aplicación.
 </td>
   </tr>
   <tr>
@@ -206,7 +206,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   </tr>
   <tr>
     <td><strong>Pilares Pocohuanca, Maria</strong><br>
-    <strong>TB1:</strong> Para aplicar correctamente los conceptos de Lean UX Process, me apoyé en documentación especializada sobre análisis competitivo, entrevistas a usuarios y técnicas de Impact Mapping. Revisé guías prácticas y ejemplos de User Stories en otros proyectos. Este proceso reforzó en mí la importancia del aprendizaje continuo y me permitió fortalecer habilidades clave para el diseño centrado en el usuario y la validación temprana de soluciones de software.</td>
+    <strong>TB1:</strong> Para aplicar correctamente los conceptos de Lean UX Process, me apoyé en documentación especializada sobre análisis competitivo, entrevistas a usuarios y técnicas de Impact Mapping. Revisé guías prácticas y ejemplos de User Stories en otros proyectos. Este proceso reforzó en mí la importancia del aprendizaje continuo y me permitió fortalecer habilidades clave para el diseño centrado en el usuario y la validación temprana de soluciones de software.<br><strong>TP:</strong> Para realizar parte del código del frontend tuve que revisar las grabaciones en las que el profesor explicaba paso a paso el desarrollo. Esto ayudó significativamente a que pueda entender y saber todo ello.</td>
   </tr>
 </table>
 
