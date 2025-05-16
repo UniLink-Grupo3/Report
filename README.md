@@ -2837,13 +2837,11 @@ La administración y estructuración de las múltiples modificaciones del proyec
 - **Repositorio de la Landing Page:**  
   [https://github.com/UniLink-Grupo3/RideUp-Landing-Page](https://github.com/UniLink-Grupo3/RideUp-Landing-Page)
 
-******* FALTA MODIFICAR
-
 - **Repositorio de la Mobile Application:**  
-  [https://github.com/UniLink-Grupo3/](https://github.com/UniLink-Grupo3/)
+  [https://github.com/UniLink-Grupo3/Front-End-App](https://github.com/UniLink-Grupo3/Front-End-App)
 
 - **Repositorio del Backend:**  
-  [https://github.com/UniLink-Grupo3/](https://github.com/UniLink-Grupo3/)
+  [https://github.com/UniLink-Grupo3/Backend](https://github.com/UniLink-Grupo3/Backend)
 
 Para gestionar eficientemente los cambios en el código fuente, se utilizó **Gitflow**, un modelo de ramificación que facilita el desarrollo colaborativo. Se establecieron una rama principal y varias ramas auxiliares para mantener un flujo de trabajo organizado.
 
@@ -3444,7 +3442,7 @@ Vista del Sprint Backlog 1 en Trello:
     <td>f00b2aa</td>
     <td>file: added body files</td>
     <td>Funcionalidad del Body</td>
-    <td>13/05/2025</td>
+    <td>15/05/2025</td>
   </tr>
   <tr>
     <td>RideUp - Móvil</td>
@@ -3452,7 +3450,7 @@ Vista del Sprint Backlog 1 en Trello:
     <td>ba0c2d2</td>
     <td>feat: added Register Screen, Routes and themes</td>
     <td>Funcionalidad de enrutamiento y registro</td>
-    <td>13/05/2025</td>
+    <td>15/05/2025</td>
   </tr>
   <tr>
     <td>RideUp - Móvil</td>
@@ -3460,7 +3458,7 @@ Vista del Sprint Backlog 1 en Trello:
     <td>fa87f62</td>
     <td>feat: AppScreen.kt was added</td>
     <td>Agregando AppScreen</td>
-    <td>13/05/2025</td>
+    <td>15/05/2025</td>
   </tr>
   <tr>
     <td>RideUp - Móvil</td>
@@ -3468,7 +3466,7 @@ Vista del Sprint Backlog 1 en Trello:
     <td>7e9c0ef</td>
     <td>feat: SessionCookiJar.kt was added</td>
     <td>Agregando SessionCookiJar</td>
-    <td>13/05/2025</td>
+    <td>15/05/2025</td>
   </tr>
   <tr>
     <td>RideUp - Móvil</td>
@@ -3476,7 +3474,7 @@ Vista del Sprint Backlog 1 en Trello:
     <td>530bce0</td>
     <td>feat: HomeScreen.kt was added</td>
     <td>Funcionalidad Home</td>
-    <td>13/05/2025</td>
+    <td>15/05/2025</td>
   </tr>
   <tr>
     <td>RideUp - Móvil</td>
@@ -3484,7 +3482,7 @@ Vista del Sprint Backlog 1 en Trello:
     <td>8aeaa17</td>
     <td>feat: Vehicle.kt was added</td>
     <td>Funcionalidad del vehículo</td>
-    <td>13/05/2025</td>
+    <td>15/05/2025</td>
   </tr>
 </table>
 
