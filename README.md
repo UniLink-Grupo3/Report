@@ -2886,9 +2886,29 @@ Enlace a la mockup de la Landing Page en Figma: [Landing Page - Mock-Up](https:/
 
 #### 5.1.4.4. Mobile Applications User Flow Diagrams
 
+* **Reserva**
+
+  <div align="center">
+    <img align="center" src="./assets/reserva.jpg">
+  </div><br>
+
+* **Perfil**
+
+  <div align="center">
+    <img align="center" src="./assets/perfil.jpg">
+  </div><br>
+
+* **Búsqueda**
+
+  <div align="center">
+    <img align="center" src="./assets/busqueda.jpg">
+  </div><br>
+
 
 
 #### 5.1.4.5. Mobile Applications Prototyping
+
+
 
 
 
