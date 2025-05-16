@@ -3584,11 +3584,8 @@ A continuación, se presentan los enlaces de despliegue correspondientes, junto 
 **Imagen de la app móvil mostrando que funciona**
 
 <div align="center">
-  <img align="center" src="./assets/aplicacion-móvil/evidencia.jpg">
-</div>
-
-<div align="center">
-  <img align="center" src="./assets/aplicacion-móvil/paso 4.jpg">
+  <img align="center" src="./assets/aplicacion-móvil/evidencia.jpg" style="width:300px; margin: 10px;">
+  <img align="center" src="./assets/aplicacion-móvil/paso 4.jpg" style="width:300px; margin: 10px;">
 </div><br>
 
 #### 6.2.1.7. Team Collaboration Insights during Sprint.
