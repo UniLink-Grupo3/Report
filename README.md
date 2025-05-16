@@ -2869,10 +2869,28 @@ Enlace a la mockup de la Landing Page en Figma: [Landing Page - Mock-Up](https:/
 
 ### 5.1.4. Mobile Applications UX/UI Design
 #### 5.1.4.1. Mobile Applications Wireframes
+
+
+
 #### 5.1.4.2. Mobile Applications Wireflow Diagrams
+
+  <div align="center">
+    <img align="center" src="./assets/wireflow.jpg">
+  </div><br>
+
+
 #### 5.1.4.3. Mobile Applications Mock-ups
+
+
+
+
 #### 5.1.4.4. Mobile Applications User Flow Diagrams
+
+
+
 #### 5.1.4.5. Mobile Applications Prototyping
+
+
 
 # Capítulo VI: 
 ## 6.1. Software Configuration Management
