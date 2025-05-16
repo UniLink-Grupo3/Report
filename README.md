@@ -2870,7 +2870,13 @@ Enlace a la mockup de la Landing Page en Figma: [Landing Page - Mock-Up](https:/
 ### 5.1.4. Mobile Applications UX/UI Design
 #### 5.1.4.1. Mobile Applications Wireframes
 
+  <div align="center">
+    <img align="center" src="./assets/wireframes1.jpg">
+  </div><br>
 
+  <div align="center">
+    <img align="center" src="./assets/wireframes2.jpg">
+  </div><br>
 
 #### 5.1.4.2. Mobile Applications Wireflow Diagrams
 
