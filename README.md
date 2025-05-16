@@ -3313,42 +3313,10 @@ Vista del Sprint Backlog 1 en Trello:
   <tr>
     <td>RideUp - Backend</td>
     <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
-    <td>13/05/2025</td>
-  </tr>
-  <tr>
-    <td>RideUp - Backend</td>
-    <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
-    <td>13/05/2025</td>
-  </tr>
-  <tr>
-    <td>RideUp - Backend</td>
-    <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
-    <td>13/05/2025</td>
-  </tr>
-  <tr>
-    <td>RideUp - Backend</td>
-    <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
-    <td>13/05/2025</td>
-  </tr>
-  <tr>
-    <td>RideUp - Backend</td>
-    <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
-    <td>13/05/2025</td>
+    <td>5583f60</td>
+    <td>feat: added back_code</td>
+    <td>Agregando codigo completo del backend</td>
+    <td>15/05/2025</td>
   </tr>
 </table>
 
