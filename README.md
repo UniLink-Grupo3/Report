@@ -97,7 +97,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 <br><br>
   
 <p align="center">
-  <img align="center" src="assets/Evidencia GitHub/Commits.png"></p>
+  <img align="center" src="assets/Evidencia GitHub/Commits.png" ></p>
 <p align="center"><em> Historial de commits en GitHub </em></p>
 
 <br>
@@ -116,13 +116,21 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 <br><br>
   
 <p align="center">
-  <img align="center" src="assets/Evidencia GitHub/Commits.png"></p>
+  <img align="center" src="assets/TP-evidence/Commits-landing.png" style="width:320px; margin: 10px;">
+  <img align="center" src="assets/TP-evidence/commits-back.png" style="width:320px; margin: 10px;">
+  <img align="center" src="assets/TP-evidence/Commits-landing.png" style="width:320px; margin: 10px;">
+</p>
 <p align="center"><em> Historial de commits en GitHub (lading Page - Backend - App móvil) </em></p>
+
+---
 
 <br>
 
 <p align="center">
-  <img align="center" src="assets/Evidencia GitHub/Contribuidores.png"></p>
+  <img align="center" src="assets/TP-evidence/contribuidores-landing.png" style="width:320px; margin: 10px;">
+  <img align="center" src="assets/TP-evidence/contributor-back.png" style="width:320px; margin: 10px;">
+  <img align="center" src="assets/TP-evidence/contributor-back.png" style="width:320px; margin: 10px;">
+</p>
 <p align="center"><em> Colaboradores del proyecto en GitHub (lading Page - Backend - App móvil)</em></p>
 
 ---  
@@ -2726,6 +2734,3 @@ Por último, la definición adecuada de los Bounded Contexts que se emplearán e
 
 - Bounded Context Domain Layer Class Diagrams - 2: <br>
 [https://lucid.app/lucidchart/d3478451-d855-4364-8380-db7c3b9a8999/edit?invitationId=inv_d3ac8bfe-466b-405b-9556-2ad17c5aaa7b&page=0_0#](https://lucid.app/lucidchart/d3478451-d855-4364-8380-db7c3b9a8999/edit?invitationId=inv_d3ac8bfe-466b-405b-9556-2ad17c5aaa7b&page=0_0#)
-
-
-
