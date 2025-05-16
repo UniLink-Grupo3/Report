@@ -3524,8 +3524,8 @@ A continuación, se mostrarán las capturas de participación:
 * <strong>Captura de los commits realizados en el Backend</strong>
 
 <div align=center>
-    <img src="./assets/commits.png" style="width:320px; margin: 10px;">
-    <img src="./assets/commits.png" style="width:320px; margin: 10px;">
+    <img src="./assets/backend/commits.png" style="width:320px; margin: 10px;">
+    <img src="./assets/backend/contributor.png" style="width:320px; margin: 10px;">
 </div><br>
 
 * <strong>Captura de los commits realizados de la App móvil</strong>
