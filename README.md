@@ -2951,41 +2951,37 @@ Haz clic en "Save". Esperar unos segundos y GitHub entregará una URL pública.
 
 Para configurar el despliegue del Backend, seguimos los pasos detallados a continuación utilizando **Railway** como plataforma:
 
-**Enlace del Despliegue del Backend:** [Backend](https://unilink-grupo3.github.io/RideUp-Landing-Page/)
+**Enlace del Despliegue del Backend:** [Backend](https://moviles-back-production.up.railway.app/)
 
 1. **Crea tu cuenta en Railway**  
    Entra a [Railway](https://railway.com/) e inicia sesión con tu cuenta de GitHub
 
     <div align=center>
-      <img src="./assets/commits.png">
-    </div>
+      <img src="./assets/backend/paso1.png">
+    </div><br>
 
 2. **Conecta tu repositorio**  
    Haz clic en `New Project`, después elige la opción `Deploy from GitHub Repo` y seleccionas el repositorio del backend
 
     <div align=center>
-      <img src="./assets/commits.png">
-    </div>
+      <img src="./assets/backend/paso2.png">
+    </div><br>
 
 3. **Configurar las Variables de Entorno**  
    Ve a la pestaña `Variables` y haz clic en `Raw Editor`. Pega todas las variables de entorno necesarias (como en el archivo `application.properties` o `application.yml` de tu backend). Luego haz clic en `Update Variables`, presiona `Apply changes` y finalmente en `Deploy` para aplicar y ejecutar el backend.
 
     <div align=center>
-      <img src="./assets/commits.png">
-    </div>
+      <img src="./assets/backend/paso3.png">
+    </div><br>
 
 3. **Despliegue del Backend**  
    Espera a que el estado del `deployment` pase de `building` a `active`. Una vez activo, ve a `Settings` → `Networking` para copiar el link desplegado de tu backend.
-
-    <div align=center>
-      <img src="./assets/commits.png">
-    </div>
 
 ---
 
 Para configurar el despliegue del Frontend en Android Studio, seguimos los pasos detallados a continuación utilizando **Firebase Distribution** como plataforma:
 
-**Enlace para acceder al archivo APK:** [Archivo Apk](https://unilink-grupo3.github.io/RideUp-Landing-Page/)
+**Enlace para acceder al archivo APK:** [Link de descarga del archivo APK](https://drive.google.com/file/d/1pSuPTgnZ2aG_0eBcumhxvDnwjOyMd7MK/view?usp=sharing )
 
 1. **Creación de cuenta en Firebase**
 
@@ -2994,16 +2990,16 @@ Para configurar el despliegue del Frontend en Android Studio, seguimos los pasos
     c.  Cuando se te solicite una cuenta de Google Analytics, selecciona `Default Account for Firebase`.<br>
 
     <div align=center>
-      <img src="./assets/commits.png">
-    </div>
+      <img src="./assets/aplicacion-móvil/paso1-despliegue.jpg">
+    </div><br>
 
 2. **Selección de plataforma**
 
    En el panel principal, que muestra tarjetas para diferentes plataformas (iOS, Android, Web), selecciona el **icono de Android**. A continuación, deberás completar ciertos pasos para la creación de la aplicación.
 
    <div align=center>
-      <img src="./assets/commits.png">
-    </div>
+      <img src="./assets/aplicacion-móvil/paso2-despliegue.jpg">
+    </div><br>
 
 3. **Registro de la APP**
 
@@ -3016,18 +3012,14 @@ Para configurar el despliegue del Frontend en Android Studio, seguimos los pasos
     e.  Los demás campos en Firebase son opcionales.
 
     <div align=center>
-      <img src="./assets/commits.png">
-    </div>
+      <img src="./assets/aplicacion-móvil/paso3-despliegue.png">
+    </div><br>
 
 4. **Adición del archivo de configuración de Firebase**
 
     a.  Haz clic en `Descargar google-services.json`.<br>
     b.  Una vez descargado, en Android Studio, cambia la vista a **Project**.<br>
     c.  Navega hasta la carpeta `app` y arrastra el archivo `google-services.json` dentro de ella.<br>
-
-    <div align=center>
-      <img src="./assets/commits.png">
-    </div>
 
 5. **Integración de los SDKs de Firebase**
 
@@ -3048,10 +3040,6 @@ Para configurar el despliegue del Frontend en Android Studio, seguimos los pasos
         implementation("com.google.firebase:firebase-analytics")
       ```
 
-    <div align=center>
-      <img src="./assets/commits.png">
-    </div>
-
 6. **Generación del APK para compartir**
 
     a.  En la barra de menú de Android Studio, ve a **Build**.<br>
@@ -3061,7 +3049,7 @@ Para configurar el despliegue del Frontend en Android Studio, seguimos los pasos
     e.  Se abrirá una ventana del explorador de archivos donde podrás encontrar el archivo `app-debug.apk`.<br>
 
     <div align=center>
-      <img src="./assets/commits.png">
+      <img src="./assets/aplicacion-móvil/paso4-despliegue.png">
     </div><br>
 
 7. **Instalación de la aplicación desde el APK**
@@ -3073,9 +3061,6 @@ Para configurar el despliegue del Frontend en Android Studio, seguimos los pasos
     c.  Aparecerá una advertencia de seguridad indicando que la aplicación no proviene de Google Play Store. Marca la opción **"Soy consciente de los posibles riesgos..."** y presiona **OK**.<br>
     d.  La descarga e instalación de la aplicación comenzará. Una vez finalizada, la aplicación estará lista para usar.<br>
 
-    <div align=center>
-      <img src="./assets/commits.png">
-    </div><br>
 
 ## 6.2. Landing Page, Services & Applications Implementation
 
@@ -3359,56 +3344,49 @@ Vista del Sprint Backlog 1 en Trello:
 
 * Se presentan los commits realizados en el repositorio de la Lading Page en GitHub. 
 
-    Link del repositorio de la Lading Page: [RideUp - Landing Page](URL)
+  Link del repositorio de la Lading Page: [RideUp - Landing Page](https://github.com/UniLink-Grupo3/RideUp-Landing-Page)
 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td>RideUp - Landing Page</td>
     <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
+    <td>f50f795</td>
+    <td>docs: added landingpage</td>
+    <td>Documentación de la Lading page</td>
+    <td>09/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Landing Page</td>
+    <td>main</td>
+    <td>b47e81c</td>
+    <td>feat: update index.html</td>
+    <td>Creación de la Landing page</td>
+    <td>09/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Landing Page</td>
+    <td>main</td>
+    <td>d1a972e</td>
+    <td>feat: adding language swith button</td>
+    <td>Implementación del botón de cambio de idioma</td>
     <td>13/05/2025</td>
   </tr>
   <tr>
     <td>RideUp - Landing Page</td>
     <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
-    <td>13/05/2025</td>
-  </tr>
-  <tr>
-    <td>RideUp - Landing Page</td>
-    <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
-    <td>13/05/2025</td>
-  </tr>
-  <tr>
-    <td>RideUp - Landing Page</td>
-    <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
-    <td>13/05/2025</td>
-  </tr>
-  <tr>
-    <td>RideUp - Landing Page</td>
-    <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
+    <td>26767b0</td>
+    <td>feat: add the i18n with the script 
+</td>
+    <td>Funcionalidad de i18n en las etiquetas del HTML</td>
     <td>13/05/2025</td>
   </tr>
 </table>
 
 ---
 
-* Se presentan los commits realizados en el repositorio de la Lading Page en GitHub. 
+* Se presentan los commits realizados en el repositorio del Backend en GitHub. 
 
-    Link del repositorio de la Lading Page: [RideUp - Backend](URL)
+  Link del repositorio del Backend: [RideUp - Backend](https://github.com/UniLink-Grupo3/Backend)
 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
@@ -3457,47 +3435,55 @@ Vista del Sprint Backlog 1 en Trello:
 
 * Se presentan los commits realizados en el repositorio de la Aplicación móvil en GitHub. 
 
-    Link del repositorio de la Aplicación móvil: [RideUp - Móvil](URL)
+  Link del repositorio de la Aplicación móvil: [RideUp - Móvil](https://github.com/UniLink-Grupo3/Front-End-App)
 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td>RideUp - Móvil</td>
     <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
+    <td>f00b2aa</td>
+    <td>file: added body files</td>
+    <td>Funcionalidad del Body</td>
     <td>13/05/2025</td>
   </tr>
   <tr>
     <td>RideUp - Móvil</td>
     <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
+    <td>ba0c2d2</td>
+    <td>feat: added Register Screen, Routes and themes</td>
+    <td>Funcionalidad de enrutamiento y registro</td>
     <td>13/05/2025</td>
   </tr>
   <tr>
     <td>RideUp - Móvil</td>
     <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
+    <td>fa87f62</td>
+    <td>feat: AppScreen.kt was added</td>
+    <td>Agregando AppScreen</td>
     <td>13/05/2025</td>
   </tr>
   <tr>
     <td>RideUp - Móvil</td>
     <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
+    <td>7e9c0ef</td>
+    <td>feat: SessionCookiJar.kt was added</td>
+    <td>Agregando SessionCookiJar</td>
     <td>13/05/2025</td>
   </tr>
   <tr>
     <td>RideUp - Móvil</td>
     <td>main</td>
-    <td>81b748</td>
-    <td>feat: add ..</td>
-    <td>Acceso a la funcionalidad..</td>
+    <td>530bce0</td>
+    <td>feat: HomeScreen.kt was added</td>
+    <td>Funcionalidad Home</td>
+    <td>13/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Móvil</td>
+    <td>main</td>
+    <td>8aeaa17</td>
+    <td>feat: Vehicle.kt was added</td>
+    <td>Funcionalidad del vehículo</td>
     <td>13/05/2025</td>
   </tr>
 </table>
