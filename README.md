@@ -2744,6 +2744,20 @@ Estructura de información: La información dentro de la aplicación se organiza
 
 #### 5.1.2.3. SEO Tags and Meta Tags
 
+- Meta Tags: Se usarán metaetiquetas estándar para garantizar que la plataforma sea fácilmente indexada en los motores de búsqueda. Los títulos de las páginas deben ser descriptivos, como "RideUp: Carpooling para estudiantes universitarios en Lima".
+
+- SEO para landing pages: Utilizar palabras clave como "carpooling", "transporte universitario", "compartir viajes estudiantes", "viaje seguro", "carpooling sostenible", para mejorar la visibilidad de la plataforma.
+
+- Descripción en las páginas: Incluir una breve descripción en las metaetiquetas que explique de forma concisa la propuesta de valor de RideUp: "Conéctate con otros estudiantes de tu universidad para compartir viajes económicos y seguros".
+
+Otros Aspectos Relevantes:
+
+- Etiquetas Alt en Imágenes: Cada imagen en nuestra aplicación incluye una etiqueta alt descriptiva que ayuda a los motores de búsqueda a comprender el contenido visual, mejorando también la accesibilidad para usuarios con discapacidades visuales.
+
+- Etiquetas Heading (H1, H2, H3, etc.): Utilizamos etiquetas de encabezado de manera jerárquica para estructurar el contenido dentro de la aplicación, lo que no solo mejora la legibilidad y experiencia del usuario, sino que también ofrece pistas adicionales a los motores de búsqueda sobre la relevancia y organización del contenido.
+
+Nuestra estrategia de etiquetado ASO y meta tags está diseñada para garantizar que nuestra aplicación móvil sea fácilmente indexada y clasificada en las tiendas de aplicaciones, aumentando así su visibilidad y accesibilidad para nuestro público objetivo.
+
 #### 5.1.2.4. Searching Systems
 
 #### 5.1.2.5. Navigation Systems
