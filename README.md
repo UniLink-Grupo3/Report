@@ -177,9 +177,12 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <strong>TB1:</strong> Realicé un proceso de EventStorming para comprender en profundidad una parte clave de la aplicación. Utilicé Miro para modelar Domain Message Flows, Bounded Context Canvases y realizar Candidate Context Discovery. Esta actividad me permitió identificar uno de los principales Bounded Contexts del proyecto, lo que fortaleció significativamente mis conocimientos en modelado de dominios y diseño de sistemas complejos.<br><strong>TP:</strong> Apoyé cone la documentacion y correcion de capitulos. Contrubui en las vistas y navegacion de la app, asi como en el desarrollo y despliegue tanto del Back como de la landing page.</td>
   </tr>
   <tr>
-    <td><strong>Ramirez Ortega, Diego Miguel</strong><br>
-    <strong>TB1:</strong> Realicé la el Context mapping para entender las relaciones entre los bounded context. Luego, he realizado los diagramas de contexto y contenedor pertenecientes al modelo C4. Por último, he realizado el diagrama de despliegue del sistema. Esto me permitio aprender sobre y actualizar mi conocimiento sobre la arquitectura en general de un sistema y la relación entre sus componentes</td>
+    <td><strong>Ramirez Ortega, Diego Miguel</strong><br><br>
+    <strong>TB1:</strong> Realicé la el Context mapping para entender las relaciones entre los bounded context. Luego, he realizado los diagramas de contexto y contenedor pertenecientes al modelo C4. Por último, he realizado el diagrama de despliegue del sistema. Esto me permitio aprender y actualizar mi conocimiento sobre la arquitectura en general de un sistema y la relación entre sus componentes<br><br>
+    <strong>TP:</strong>Realicé algunas vistas del la app mobile. Durante la realización de las vistas de la aplicación móvil, actualicé y reforcé mis conocimientos en desarrollo de software mediante la implementación de patrones de diseño modernos como MVVM, el uso de tecnologías actualizadas como Jetpack Compose/SwiftUI, y la aplicación de buenas prácticas de UI/UX y responsive design.
+    </td> 
   </tr>
+
   <tr>
     <td><strong>Pilares Pocohuanca, Maria</strong><br>
     <strong>TB1:</strong> Realicé el desarrollo de los capítulos 1, 2 y 3 del proyecto, siguiendo el enfoque de Lean UX Process. Elaboré el análisis competitivo de competidores, diseñé y registré entrevistas con usuarios para validar necesidades reales. Además, desarrollé User Stories y apliqué la técnica de Impact Mapping para alinear funcionalidades con los objetivos del negocio. Esto fortaleció mis conocimientos en investigación de usuarios, análisis competitivo y diseño ágil de soluciones de software centradas en el usuario.<br><strong>TP:</strong> Realicé la documentación del capítulo 5, para ello hice uso de la herramienta Figma y Miro. Asimismo, colaboré con algunos componentes respecto al frontend de la aplicación.
@@ -201,9 +204,11 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <strong>TB1:</strong> Para aplicar correctamente estas herramientas, me apoyé en documentación oficial sobre EventStorming y en recursos como artículos especializados y videos de YouTube sobre el uso de Miro en entornos colaborativos. Este proceso reforzó en mí la importancia del aprendizaje continuo y me permitió desarrollar estrategias de autoformación efectivas para mejorar mi desempeño y comprensión del modelado de dominios.<br><strong>TP:</strong> Realize una investigacion para complemenar los conocimientos que obtuve durante las clases, cumpliendo satisfactoriamente con el desarrrollo de mi parte del trabajo.</td>
   </tr>
   <tr>
-    <td><strong>Ramirez Ortega, Diego Miguel</strong><br>
-    <strong>TB1:</strong><br> Para desarrollar los diagramas corespondientes consulté documentación para aplicar buenas prácticas y que tenga coherencia. Además, para el diseño de los diagramas, he consultado la documentación de DSL, lenguaje utilizado en Structurz, en donde he realizado los diagramas de contexto y componentes. Esto me ayudó a reforzar mi interés por el aprendizaje continuo sobre los conocimientos adquiridos a lo largo de la carrera</td>
-  </tr>
+    <td><strong>Ramirez Ortega, Diego Miguel</strong><br><br>
+    <strong>TB1:</strong><br> Para desarrollar los diagramas corespondientes consulté documentación para aplicar buenas prácticas y que tenga coherencia. Además, para el diseño de los diagramas, he consultado la documentación de DSL, lenguaje utilizado en Structurz, en donde he realizado los diagramas de contexto y componentes. Esto me ayudó a reforzar mi interés por el aprendizaje continuo sobre los conocimientos adquiridos a lo largo de la carrera<br><br>
+    <strong>TP:</strong><br> Durante el desarrollo de las vistas de la aplicación móvil, identifiqué la necesidad de aprender constantemente para resolver desafíos técnicos y mejorar la calidad del producto. Investigué y apliqué conceptos actualizados como arquitectura MVVM, Jetpack Compose/SwiftUI y principios de UI/UX, lo que me permitió optimizar el rendimiento y la experiencia de usuario. </td>
+  </tr>
+
   <tr>
     <td><strong>Pilares Pocohuanca, Maria</strong><br>
     <strong>TB1:</strong> Para aplicar correctamente los conceptos de Lean UX Process, me apoyé en documentación especializada sobre análisis competitivo, entrevistas a usuarios y técnicas de Impact Mapping. Revisé guías prácticas y ejemplos de User Stories en otros proyectos. Este proceso reforzó en mí la importancia del aprendizaje continuo y me permitió fortalecer habilidades clave para el diseño centrado en el usuario y la validación temprana de soluciones de software.<br><strong>TP:</strong> Para realizar parte del código del frontend tuve que revisar las grabaciones en las que el profesor explicaba paso a paso el desarrollo. Esto ayudó significativamente a que pueda entender y saber todo ello.</td>
