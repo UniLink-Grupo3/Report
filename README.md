@@ -2742,6 +2742,13 @@ Estructura de información: La información dentro de la aplicación se organiza
 
 #### 5.1.2.2. Labelling Systems
 
+| Iconos                    | Descripción                                                                                          |
+|---------------------------|------------------------------------------------------------------------------------------------------|
+| ![Perfil](#)               | **Perfil**: Al seleccionar este icono, el usuario puede ver y modificar sus datos según sus necesidades. |
+| ![Reserva de vehículo](#)  | **Reserva de vehículo**: Al seleccionar este icono dentro de la aplicación, el usuario podrá ver sus viajes reservados y gestionar nuevas reservas de viajes compartidos con otros estudiantes. |
+| ![Notificaciones](#)       | **Notificaciones**: Al seleccionar este icono, se mostrará al usuario su historial de notificaciones y las nuevas notificaciones dentro de la aplicación relacionadas con sus viajes y mensajes. |
+
+
 #### 5.1.2.3. SEO Tags and Meta Tags
 
 - Meta Tags: Se usarán metaetiquetas estándar para garantizar que la plataforma sea fácilmente indexada en los motores de búsqueda. Los títulos de las páginas deben ser descriptivos, como "RideUp: Carpooling para estudiantes universitarios en Lima".
