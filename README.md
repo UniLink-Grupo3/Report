@@ -3135,7 +3135,7 @@ Vista del Sprint Backlog 1 en Trello:
       </tr>
       <tr>
           <td style="font-weight: bold;">Sum of Story Points</td>
-          <td>80</td>
+          <td>35</td>
       </tr>
     </table>
 
@@ -3169,39 +3169,6 @@ Vista del Sprint Backlog 1 en Trello:
     <td>Implementacion de una busqueda de vehiculos que aun tienen espacio en su vehiculo</td>
     <td style="text-align: center;">8h</td>
     <td>Valera Garces, Samuel Ignacio</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-  <tr>
-    <td>US03</td>
-    <td>Evaluar la seguridad del viaje</td>
-    <td>T2</td>
-    <td>Seguridad</td>
-    <td>Observar la calificacion de otros usuarios con respecto al conductor</td>
-    <td style="text-align: center;">8h</td>
-    <td>Ramirez Ortega, Diego Miguel</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-  <tr>
-    <td>US12</td>
-    <td>Calificación y Comentario del Conductor</td>
-    <td>T3</td>
-    <td>Calificar al conductor</td>
-    <td>Implementación de una calificación del pasajero al conductor</td>
-    <td style="text-align: center;">7h</td>
-    <td>Belleza Tello, Paolo</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-  <tr>
-    <td>US04</td>
-    <td>Recibir notificaciones en tiempo real</td>
-    <td>T4</td>
-    <td>Notificaciones</td>
-    <td>Implementación en el horario de recogo</td>
-    <td style="text-align: center;">7h</td>
-    <td>Fernandez Alva, Maria</td>
     <td style="text-align: center;">Done</td>
   </tr>
 
@@ -3250,19 +3217,8 @@ Vista del Sprint Backlog 1 en Trello:
   </tr>
 
   <tr>
-    <td>US10</td>
-    <td>Comunicación con el Conductor</td>
-    <td>T9</td>
-    <td>Comunicación directar con el conductor</td>
-    <td>Implementar una chat para la comunicacion fluida</td>
-    <td style="text-align: center;">4h</td>
-    <td>Fernandez Alva, Maria</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-  <tr>
     <td>US11</td>
-    <td>ancelación de Reserva</td>
+    <td>Cancelación de Reserva</td>
     <td>T10</td>
     <td>Cancelación</td>
     <td>Implementación un botón para cancelar la reserva</td>
@@ -3272,44 +3228,11 @@ Vista del Sprint Backlog 1 en Trello:
   </tr>
 
   <tr>
-    <td>US25</td>
-    <td>Filtrar viajes por tipos de vehículos</td>
-    <td>T11</td>
-    <td>Filtro de vehiculos</td>
-    <td>Implementación de un filtro para que sea mas accesible encontrar el vehiculo adecuado</td>
-    <td style="text-align: center;">4h</td>
-    <td>Ramirez Ortega, Diego Miguel</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-  <tr>
-    <td>US28</td>
-    <td>Identificación de usuarios frecuentes</td>
-    <td>T12</td>
-    <td>Estudiante Universitario frecuente</td>
-    <td>Implementación para marcar conductores favoritos</td>
-    <td style="text-align: center;">4h</td>
-    <td>Valera Garces, Samuel Ignacio</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-  <tr>
-    <td>US29</td>
-    <td>Programar viajes recurrentes</td>
-    <td>T13</td>
-    <td>Viajes recurrentes</td>
-    <td>Implementación de una ruta ya recurrente para no tener que ponerlo siempre o de manera diaria</td>
-    <td style="text-align: center;">4h</td>
-    <td>Belleza Tello, Paolo Eduardo</td>
-    <td style="text-align: center;">Done</td>
-  </tr>
-
-  <tr>
     <td>US15</td>
     <td>Visualizar planes de servicio</td>
     <td>T14</td>
     <td>Planes</td>
-    <td>Implementación de la vista de los planes disponibles</td>
+    <td>Implementación de la vista de los planes disponibles en el landing page</td>
     <td style="text-align: center;">2h</td>
     <td>Fernandez Alva, Maria</td>
     <td style="text-align: center;">Done</td>
