@@ -2767,6 +2767,14 @@ Nuestra estrategia de etiquetado ASO y meta tags está diseñada para garantizar
 
 #### 5.1.2.4. Searching Systems
 
+Los sistemas de búsqueda son esenciales para permitir a los usuarios encontrar y descubrir características y funcionalidades relevantes en nuestro sitio web. Para una experiencia de usuario eficiente, hemos implementado un sistema de búsqueda simple pero efectivo:
+
+<!--IMAGEN -->
+
+- Lupa de Búsqueda: Permite a los usuarios buscar rápidamente cualquier tema de su interés.
+- Perfil de Usuario: Representado por el icono del usuario, proporciona acceso al perfil del
+  usuario para editar información o iniciar sesión.
+
 #### 5.1.2.5. Navigation Systems
 
 ### 5.1.3. Landing Page UI Design
