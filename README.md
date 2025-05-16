@@ -139,8 +139,8 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <strong>TB1:</strong> Realicé un proceso de EventStorming para comprender en profundidad una parte clave de la aplicación. Utilicé Miro para modelar Domain Message Flows, Bounded Context Canvases y realizar Candidate Context Discovery. Esta actividad me permitió identificar uno de los principales Bounded Contexts del proyecto, lo que fortaleció significativamente mis conocimientos en modelado de dominios y diseño de sistemas complejos.</td>
   </tr>
   <tr>
-    <td><strong>Ramirez Ortega, Diego Miguel</strong><br>
-    <strong>TB1:</strong> Realicé la el Context mapping para entender las relaciones entre los bounded context. Luego, he realizado los diagramas de contexto y contenedor pertenecientes al modelo C4. Por último, he realizado el diagrama de despliegue del sistema. Esto me permitio aprender y actualizar mi conocimiento sobre la arquitectura en general de un sistema y la relación entre sus componentes<br>
+    <td><strong>Ramirez Ortega, Diego Miguel</strong><br><br>
+    <strong>TB1:</strong> Realicé la el Context mapping para entender las relaciones entre los bounded context. Luego, he realizado los diagramas de contexto y contenedor pertenecientes al modelo C4. Por último, he realizado el diagrama de despliegue del sistema. Esto me permitio aprender y actualizar mi conocimiento sobre la arquitectura en general de un sistema y la relación entre sus componentes<br><br>
     <strong>TP:</strong>Realicé algunas vistas del la app mobile. Durante la realización de las vistas de la aplicación móvil, actualicé y reforcé mis conocimientos en desarrollo de software mediante la implementación de patrones de diseño modernos como MVVM, el uso de tecnologías actualizadas como Jetpack Compose/SwiftUI, y la aplicación de buenas prácticas de UI/UX y responsive design.
     </td> 
   </tr>
