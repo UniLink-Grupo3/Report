@@ -2750,7 +2750,88 @@ Estructura de información: La información dentro de la aplicación se organiza
 
 ### 5.1.3. Landing Page UI Design
 #### 5.1.3.1. Landing Page Wireframe
+
+A continuación, mostramos los wireframes de la landing page, los cuales representan la estructura básica y el layout sin elementos gráficos detallados. Estos sirven como una guía inicial para el diseño visual, asegurando que todos los elementos necesarios estén presentes y correctamente organizados.
+
+Enlace a los wireframes de la Landing Page en Figma: [Landing Page - Wireframe](https://www.figma.com/design/HFzJ5L8NNfNv2geyI3Lfg3/Landing-Page---RideUp?node-id=0-1&t=bz4ypbdFzlVISAWG-1)
+
+* **Home**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/home.png">
+  </div><br>
+
+* **Offer**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/offer.png">
+  </div><br>
+
+* **Plans**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/plans.png">
+  </div><br>
+
+* **About us**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/about.png">
+  </div><br>
+
+* **Our Team**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/team.png">
+  </div><br>
+
+* **Contact us**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/contact.png">
+  </div><br>
+
 #### 5.1.3.2. Landing Page Mock-up
+
+Esta sección presenta los mockups de la landing page, que ilustran el diseño final con detalles gráficos, tipografía, y color. Los mockups son fundamentales para visualizar cómo se verá la página final y para realizar ajustes antes del desarrollo.
+
+Enlace a la mockup de la Landing Page en Figma: [Landing Page - Mock-Up](https://www.figma.com/design/HFzJ5L8NNfNv2geyI3Lfg3/Landing-Page---RideUp?node-id=1-2&t=bz4ypbdFzlVISAWG-1)
+
+* **Home**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/home-color.png">
+  </div><br>
+
+* **Offer**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/offer-color.png">
+  </div><br>
+
+* **Plans**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/plans-color.png">
+  </div><br>
+
+* **About us**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/about-color.png">
+  </div><br>
+
+* **Our Team**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/team-color.png">
+  </div><br>
+
+* **Contact us**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/contact-color.png">
+  </div><br>
 
 ### 5.1.4. Mobile Applications UX/UI Design
 #### 5.1.4.1. Mobile Applications Wireframes
