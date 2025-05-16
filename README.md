@@ -2772,10 +2772,15 @@ Los sistemas de búsqueda son esenciales para permitir a los usuarios encontrar 
 <!--IMAGEN -->
 
 - Lupa de Búsqueda: Permite a los usuarios buscar rápidamente cualquier tema de su interés.
-- Perfil de Usuario: Representado por el icono del usuario, proporciona acceso al perfil del
-  usuario para editar información o iniciar sesión.
+- Perfil de Usuario: Representado por el icono del usuario, proporciona acceso al perfil del usuario para editar información o iniciar sesión.
 
 #### 5.1.2.5. Navigation Systems
+
+Nuestra aplicación cuenta con un sistema de navegación claro y definido para garantizar una experiencia fluida para los usuarios.
+
+<!--IMAGEN -->
+
+El sistema de navegación de nuestra aplicación móvil está diseñado para proporcionar una experiencia intuitiva y fluida. Con íconos claramente identificados en la parte inferior de la pantalla, los usuarios pueden acceder fácilmente a las funciones principales de la app.
 
 ### 5.1.3. Landing Page UI Design
 #### 5.1.3.1. Landing Page Wireframe
