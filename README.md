@@ -174,7 +174,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   </tr>
   <tr>
     <td><strong>Valera Garces, Samuel Ignacio</strong><br>
-    <strong>TB1:</strong> Realicé un proceso de EventStorming para comprender en profundidad una parte clave de la aplicación. Utilicé Miro para modelar Domain Message Flows, Bounded Context Canvases y realizar Candidate Context Discovery. Esta actividad me permitió identificar uno de los principales Bounded Contexts del proyecto, lo que fortaleció significativamente mis conocimientos en modelado de dominios y diseño de sistemas complejos.</td>
+    <strong>TB1:</strong> Realicé un proceso de EventStorming para comprender en profundidad una parte clave de la aplicación. Utilicé Miro para modelar Domain Message Flows, Bounded Context Canvases y realizar Candidate Context Discovery. Esta actividad me permitió identificar uno de los principales Bounded Contexts del proyecto, lo que fortaleció significativamente mis conocimientos en modelado de dominios y diseño de sistemas complejos.<br><strong>TP:</strong> Apoyé cone la documentacion y correcion de capitulos. Contrubui en las vistas y navegacion de la app, asi como en el desarrollo y despliegue tanto del Back como de la landing page.</td>
   </tr>
   <tr>
     <td><strong>Ramirez Ortega, Diego Miguel</strong><br>
@@ -198,7 +198,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   </tr>
   <tr>
     <td><strong>Valera Garces, Samuel Ignacio</strong><br>
-    <strong>TB1:</strong> Para aplicar correctamente estas herramientas, me apoyé en documentación oficial sobre EventStorming y en recursos como artículos especializados y videos de YouTube sobre el uso de Miro en entornos colaborativos. Este proceso reforzó en mí la importancia del aprendizaje continuo y me permitió desarrollar estrategias de autoformación efectivas para mejorar mi desempeño y comprensión del modelado de dominios.</td>
+    <strong>TB1:</strong> Para aplicar correctamente estas herramientas, me apoyé en documentación oficial sobre EventStorming y en recursos como artículos especializados y videos de YouTube sobre el uso de Miro en entornos colaborativos. Este proceso reforzó en mí la importancia del aprendizaje continuo y me permitió desarrollar estrategias de autoformación efectivas para mejorar mi desempeño y comprensión del modelado de dominios.<br><strong>TP:</strong> Realize una investigacion para complemenar los conocimientos que obtuve durante las clases, cumpliendo satisfactoriamente con el desarrrollo de mi parte del trabajo.</td>
   </tr>
   <tr>
     <td><strong>Ramirez Ortega, Diego Miguel</strong><br>
