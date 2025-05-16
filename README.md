@@ -118,7 +118,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 <p align="center">
   <img align="center" src="assets/TP-evidence/Commits-landing.png" style="width:320px; margin: 10px;">
   <img align="center" src="assets/TP-evidence/commits-back.png" style="width:320px; margin: 10px;">
-  <img align="center" src="assets/TP-evidence/Commits-landing.png" style="width:320px; margin: 10px;">
+  <img align="center" src="assets/TP-evidence/commits-app.png" style="width:320px; margin: 10px;">
 </p>
 <p align="center"><em> Historial de commits en GitHub (lading Page - Backend - App móvil) </em></p>
 
@@ -129,7 +129,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 <p align="center">
   <img align="center" src="assets/TP-evidence/contribuidores-landing.png" style="width:320px; margin: 10px;">
   <img align="center" src="assets/TP-evidence/contributor-back.png" style="width:320px; margin: 10px;">
-  <img align="center" src="assets/TP-evidence/contributor-back.png" style="width:320px; margin: 10px;">
+  <img align="center" src="assets/TP-evidence/contributors-app.png" style="width:320px; margin: 10px;">
 </p>
 <p align="center"><em> Colaboradores del proyecto en GitHub (lading Page - Backend - App móvil)</em></p>
 
