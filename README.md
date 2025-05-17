@@ -2729,25 +2729,219 @@ Para mayor información, visualizar la (ver figura 4.25).
 ### 5.1.1. Style Guidelines
 #### 5.1.1.1. General Style Guidelines
 
+Logo: El logo de RideUp fue creado con un estilo minimalista, capturando la esencia de la marca y su función como una plataforma de carpooling para estudiantes universitarios. El diseño compuesto por un auto junto a elementos como hojas, líneas trazadas y un libro, representa visualmente una mezcla de simplicidad y significado.
+
+Lenguaje: En nuestra aplicación emplearemos un lenguaje formal, ya que buscamos generar en el usuario una sensación de seguridad y confianza en la información y recomendaciones que proporcionamos.
+
+
 ### 5.1.2. Information Architecture
 #### 5.1.2.1. Organization Systems
+
+A continuación, explicaremos cómo se aplicaron los diferentes tipos de organización visual en los grupos de información para ambos segmentos objetivo, asimismo en qué casos se utiliza algún tipo de categorización:
+
+Estructura de información: La información dentro de la aplicación se organizará en módulos o secciones clave, como "Perfil", "Viajes", "Conducir", "Búsqueda de compañeros de viaje", "Notificaciones" y "Configuración".
+
+	- Pantalla de inicio: Mostrará opciones de viaje y búsqueda de conductores o pasajeros disponibles.
+	- Pantalla de viajes: Permitirá a los usuarios ver los viajes pasados y próximos, con la opción de reservar o gestionar viajes.
+	- Pantalla de perfil: Aquí se visualizarán los datos personales, historial de viajes y configuración de la cuenta.
+
 #### 5.1.2.2. Labelling Systems
+
+| Iconos                    | Descripción                                                                                          |
+|---------------------------|------------------------------------------------------------------------------------------------------|
+| ![Perfil](#)               | **Perfil**: Al seleccionar este icono, el usuario puede ver y modificar sus datos según sus necesidades. |
+| ![Reserva de vehículo](#)  | **Reserva de vehículo**: Al seleccionar este icono dentro de la aplicación, el usuario podrá ver sus viajes reservados y gestionar nuevas reservas de viajes compartidos con otros estudiantes. |
+| ![Notificaciones](#)       | **Notificaciones**: Al seleccionar este icono, se mostrará al usuario su historial de notificaciones y las nuevas notificaciones dentro de la aplicación relacionadas con sus viajes y mensajes. |
+
+
 #### 5.1.2.3. SEO Tags and Meta Tags
+
+- Meta Tags: Se usarán metaetiquetas estándar para garantizar que la plataforma sea fácilmente indexada en los motores de búsqueda. Los títulos de las páginas deben ser descriptivos, como "RideUp: Carpooling para estudiantes universitarios en Lima".
+
+- SEO para landing pages: Utilizar palabras clave como "carpooling", "transporte universitario", "compartir viajes estudiantes", "viaje seguro", "carpooling sostenible", para mejorar la visibilidad de la plataforma.
+
+- Descripción en las páginas: Incluir una breve descripción en las metaetiquetas que explique de forma concisa la propuesta de valor de RideUp: "Conéctate con otros estudiantes de tu universidad para compartir viajes económicos y seguros".
+
+Otros Aspectos Relevantes:
+
+- Etiquetas Alt en Imágenes: Cada imagen en nuestra aplicación incluye una etiqueta alt descriptiva que ayuda a los motores de búsqueda a comprender el contenido visual, mejorando también la accesibilidad para usuarios con discapacidades visuales.
+
+- Etiquetas Heading (H1, H2, H3, etc.): Utilizamos etiquetas de encabezado de manera jerárquica para estructurar el contenido dentro de la aplicación, lo que no solo mejora la legibilidad y experiencia del usuario, sino que también ofrece pistas adicionales a los motores de búsqueda sobre la relevancia y organización del contenido.
+
+Nuestra estrategia de etiquetado ASO y meta tags está diseñada para garantizar que nuestra aplicación móvil sea fácilmente indexada y clasificada en las tiendas de aplicaciones, aumentando así su visibilidad y accesibilidad para nuestro público objetivo.
+
 #### 5.1.2.4. Searching Systems
+
+Los sistemas de búsqueda son esenciales para permitir a los usuarios encontrar y descubrir características y funcionalidades relevantes en nuestro sitio web. Para una experiencia de usuario eficiente, hemos implementado un sistema de búsqueda simple pero efectivo:
+
+<!--IMAGEN -->
+
+- Lupa de Búsqueda: Permite a los usuarios buscar rápidamente cualquier tema de su interés.
+- Perfil de Usuario: Representado por el icono del usuario, proporciona acceso al perfil del usuario para editar información o iniciar sesión.
+
 #### 5.1.2.5. Navigation Systems
+
+Nuestra aplicación cuenta con un sistema de navegación claro y definido para garantizar una experiencia fluida para los usuarios.
+
+<!--IMAGEN -->
+
+El sistema de navegación de nuestra aplicación móvil está diseñado para proporcionar una experiencia intuitiva y fluida. Con íconos claramente identificados en la parte inferior de la pantalla, los usuarios pueden acceder fácilmente a las funciones principales de la app.
 
 ### 5.1.3. Landing Page UI Design
 #### 5.1.3.1. Landing Page Wireframe
+
+A continuación, mostramos los wireframes de la landing page, los cuales representan la estructura básica y el layout sin elementos gráficos detallados. Estos sirven como una guía inicial para el diseño visual, asegurando que todos los elementos necesarios estén presentes y correctamente organizados.
+
+Enlace a los wireframes de la Landing Page en Figma: [Landing Page - Wireframe](https://www.figma.com/design/HFzJ5L8NNfNv2geyI3Lfg3/Landing-Page---RideUp?node-id=0-1&t=bz4ypbdFzlVISAWG-1)
+
+* **Home**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/home.png">
+  </div><br>
+
+* **Offer**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/offer.png">
+  </div><br>
+
+* **Plans**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/plans.png">
+  </div><br>
+
+* **About us**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/about.png">
+  </div><br>
+
+* **Our Team**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/team.png">
+  </div><br>
+
+* **Contact us**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/contact.png">
+  </div><br>
+
 #### 5.1.3.2. Landing Page Mock-up
+
+Esta sección presenta los mockups de la landing page, que ilustran el diseño final con detalles gráficos, tipografía, y color. Los mockups son fundamentales para visualizar cómo se verá la página final y para realizar ajustes antes del desarrollo.
+
+Enlace a la mockup de la Landing Page en Figma: [Landing Page - Mock-Up](https://www.figma.com/design/HFzJ5L8NNfNv2geyI3Lfg3/Landing-Page---RideUp?node-id=1-2&t=bz4ypbdFzlVISAWG-1)
+
+* **Home**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/home-color.png">
+  </div><br>
+
+* **Offer**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/offer-color.png">
+  </div><br>
+
+* **Plans**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/plans-color.png">
+  </div><br>
+
+* **About us**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/about-color.png">
+  </div><br>
+
+* **Our Team**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/team-color.png">
+  </div><br>
+
+* **Contact us**
+
+  <div align="center">
+    <img align="center" src="./assets/landing-page/contact-color.png">
+  </div><br>
 
 ### 5.1.4. Mobile Applications UX/UI Design
 #### 5.1.4.1. Mobile Applications Wireframes
+
+  <div align="center">
+    <img align="center" src="./assets/wireframes1.jpg">
+  </div><br>
+
+  <div align="center">
+    <img align="center" src="./assets/wireframes2.jpg">
+  </div><br>
+
 #### 5.1.4.2. Mobile Applications Wireflow Diagrams
+
+  <div align="center">
+    <img align="center" src="./assets/wireflow.jpg">
+  </div><br>
+
+
 #### 5.1.4.3. Mobile Applications Mock-ups
+
+  <div align="center">
+    <img align="center" src="./assets/mockups1.jpg">
+  </div><br>
+
+  <div align="center">
+    <img align="center" src="./assets/mockups2.jpg">
+  </div><br>
+
+  <div align="center">
+    <img align="center" src="./assets/mockups3.jpg">
+  </div><br>
+
+
 #### 5.1.4.4. Mobile Applications User Flow Diagrams
+
+* **Reserva**
+
+  <div align="center">
+    <img align="center" src="./assets/reserva.jpg">
+  </div><br>
+
+* **Perfil**
+
+  <div align="center">
+    <img align="center" src="./assets/perfil.jpg">
+  </div><br>
+
+* **Búsqueda**
+
+  <div align="center">
+    <img align="center" src="./assets/busqueda.jpg">
+  </div><br>
+
+
+
 #### 5.1.4.5. Mobile Applications Prototyping
 
+
+En esta sección elaboramos una muestra de lo que sería el prototipo de la aplicación móvil con interacción.
+
+Enlace a los mockups de la aplicación en Figma: [Mobile - Mock-Up](https://www.figma.com/proto/1Zo0mU5dcw3XwfwGSTCN2G/dispositivos?node-id=6-2&t=HfHfYZjLl284PmzP-1)
+
+  <div align="center">
+    <img align="center" src="./assets/prototipo.jpg">
+  </div><br>
+
+
+
 # Capítulo VI: Product Implementation, Validation & Deployment
+
 
 ## 6.1. Software Configuration Management
 
