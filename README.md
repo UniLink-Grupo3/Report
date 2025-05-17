@@ -2924,7 +2924,13 @@ Enlace a la mockup de la Landing Page en Figma: [Landing Page - Mock-Up](https:/
 
 #### 5.1.4.5. Mobile Applications Prototyping
 
+En esta sección elaboramos una muestra de lo que sería el prototipo de la aplicación móvil con interacción.
 
+Enlace a los mockups de la aplicación en Figma: [Mobile - Mock-Up](https://www.figma.com/proto/1Zo0mU5dcw3XwfwGSTCN2G/dispositivos?node-id=6-2&t=HfHfYZjLl284PmzP-1)
+
+  <div align="center">
+    <img align="center" src="./assets/prototipo.jpg">
+  </div><br>
 
 
 
