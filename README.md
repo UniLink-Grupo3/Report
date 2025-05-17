@@ -139,9 +139,12 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <strong>TB1:</strong> Realicé un proceso de EventStorming para comprender en profundidad una parte clave de la aplicación. Utilicé Miro para modelar Domain Message Flows, Bounded Context Canvases y realizar Candidate Context Discovery. Esta actividad me permitió identificar uno de los principales Bounded Contexts del proyecto, lo que fortaleció significativamente mis conocimientos en modelado de dominios y diseño de sistemas complejos.</td>
   </tr>
   <tr>
-    <td><strong>Ramirez Ortega, Diego Miguel</strong><br>
-    <strong>TB1:</strong> Realicé la el Context mapping para entender las relaciones entre los bounded context. Luego, he realizado los diagramas de contexto y contenedor pertenecientes al modelo C4. Por último, he realizado el diagrama de despliegue del sistema. Esto me permitio aprender sobre y actualizar mi conocimiento sobre la arquitectura en general de un sistema y la relación entre sus componentes</td>
+    <td><strong>Ramirez Ortega, Diego Miguel</strong><br><br>
+    <strong>TB1:</strong> Realicé la el Context mapping para entender las relaciones entre los bounded context. Luego, he realizado los diagramas de contexto y contenedor pertenecientes al modelo C4. Por último, he realizado el diagrama de despliegue del sistema. Esto me permitio aprender y actualizar mi conocimiento sobre la arquitectura en general de un sistema y la relación entre sus componentes<br><br>
+    <strong>TP:</strong>Realicé algunas vistas del la app mobile. Durante la realización de las vistas de la aplicación móvil, actualicé y reforcé mis conocimientos en desarrollo de software mediante la implementación de patrones de diseño modernos como MVVM, el uso de tecnologías actualizadas como Jetpack Compose/SwiftUI, y la aplicación de buenas prácticas de UI/UX y responsive design.
+    </td> 
   </tr>
+
   <tr>
     <td><strong>Pilares Pocohuanca, Maria</strong><br>
     <strong>TB1:</strong> Realicé el desarrollo de los capítulos 1, 2 y 3 del proyecto, siguiendo el enfoque de Lean UX Process. Elaboré el análisis competitivo de competidores, diseñé y registré entrevistas con usuarios para validar necesidades reales. Además, desarrollé User Stories y apliqué la técnica de Impact Mapping para alinear funcionalidades con los objetivos del negocio. Esto fortaleció mis conocimientos en investigación de usuarios, análisis competitivo y diseño ágil de soluciones de software centradas en el usuario.
@@ -164,9 +167,11 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <strong>TB1:</strong> Para aplicar correctamente estas herramientas, me apoyé en documentación oficial sobre EventStorming y en recursos como artículos especializados y videos de YouTube sobre el uso de Miro en entornos colaborativos. Este proceso reforzó en mí la importancia del aprendizaje continuo y me permitió desarrollar estrategias de autoformación efectivas para mejorar mi desempeño y comprensión del modelado de dominios.</td>
   </tr>
   <tr>
-    <td><strong>Ramirez Ortega, Diego Miguel</strong><br>
-    <strong>TB1:</strong><br> Para desarrollar los diagramas corespondientes consulté documentación para aplicar buenas prácticas y que tenga coherencia. Además, para el diseño de los diagramas, he consultado la documentación de DSL, lenguaje utilizado en Structurz, en donde he realizado los diagramas de contexto y componentes. Esto me ayudó a reforzar mi interés por el aprendizaje continuo sobre los conocimientos adquiridos a lo largo de la carrera</td>
-  </tr>
+    <td><strong>Ramirez Ortega, Diego Miguel</strong><br><br>
+    <strong>TB1:</strong><br> Para desarrollar los diagramas corespondientes consulté documentación para aplicar buenas prácticas y que tenga coherencia. Además, para el diseño de los diagramas, he consultado la documentación de DSL, lenguaje utilizado en Structurz, en donde he realizado los diagramas de contexto y componentes. Esto me ayudó a reforzar mi interés por el aprendizaje continuo sobre los conocimientos adquiridos a lo largo de la carrera<br><br>
+    <strong>TP:</strong><br> Durante el desarrollo de las vistas de la aplicación móvil, identifiqué la necesidad de aprender constantemente para resolver desafíos técnicos y mejorar la calidad del producto. Investigué y apliqué conceptos actualizados como arquitectura MVVM, Jetpack Compose/SwiftUI y principios de UI/UX, lo que me permitió optimizar el rendimiento y la experiencia de usuario. </td>
+  </tr>
+
   <tr>
     <td><strong>Pilares Pocohuanca, Maria</strong><br>
     <strong>TB1:</strong> Para aplicar correctamente los conceptos de Lean UX Process, me apoyé en documentación especializada sobre análisis competitivo, entrevistas a usuarios y técnicas de Impact Mapping. Revisé guías prácticas y ejemplos de User Stories en otros proyectos. Este proceso reforzó en mí la importancia del aprendizaje continuo y me permitió fortalecer habilidades clave para el diseño centrado en el usuario y la validación temprana de soluciones de software.</td>
@@ -351,17 +356,17 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     - [6.2.1.1. Sprint Planning 1](#6211-sprint-planning-1)
     - [6.2.1.2. Sprint Backlog 1](#6212-sprint-backlog-1)
     - [6.2.1.3. Development Evidence for Sprint Review](#6213-development-evidence-for-sprint-review)
-    - [6.2.1.4. Testing Suite Evidence for Sprint Review](#6214-testing-suite-evidence-for-sprint-review)
-    - [6.2.1.5. Execution Evidence for Sprint Review](#6215-execution-evidence-for-sprint-review)
-    - [6.2.1.6. Services Documentation Evidence for Sprint Review](#6216-services-documentation-evidence-for-sprint-review)
-    - [6.2.1.7. Software Deployment Evidence for Sprint Review](#6217-software-deployment-evidence-for-sprint-review)
-    - [6.2.1.8. Team Collaboration Insights during Sprint](#6218-team-collaboration-insights-during-sprint)
+    - [6.2.1.4. Execution Evidence for Sprint Review](#6214-execution-evidence-for-sprint-review)
+    - [6.2.1.5. Services Documentation Evidence for Sprint Review](#6215-services-documentation-evidence-for-sprint-review)
+    - [6.2.1.6. Software Deployment Evidence for Sprint Review](#6216-software-deployment-evidence-for-sprint-review)
+    - [6.2.1.7. Team Collaboration Insights during Sprint](#6217-team-collaboration-insights-during-sprint)
+<!--
 - [6.3. Validation Interviews](#63-validation-interviews)  
   - [6.3.1. Diseño de Entrevistas](#631-diseño-de-entrevistas) 
   - [6.3.2. Registro de Entrevistas](#632-registro-de-entrevistas)
   - [6.3.3. Evaluaciones según heurísticas](#633-evaluaciones-segun-heuristicas) 
 - [6.4. Video About-the-Product](#64-viedo-about-the-product)  
-
+-->
 - [Avance de Conclusiones](#avance-de-conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -2924,6 +2929,7 @@ Enlace a la mockup de la Landing Page en Figma: [Landing Page - Mock-Up](https:/
 
 #### 5.1.4.5. Mobile Applications Prototyping
 
+
 En esta sección elaboramos una muestra de lo que sería el prototipo de la aplicación móvil con interacción.
 
 Enlace a los mockups de la aplicación en Figma: [Mobile - Mock-Up](https://www.figma.com/proto/1Zo0mU5dcw3XwfwGSTCN2G/dispositivos?node-id=6-2&t=HfHfYZjLl284PmzP-1)
@@ -2934,30 +2940,799 @@ Enlace a los mockups de la aplicación en Figma: [Mobile - Mock-Up](https://www.
 
 
 
-# Capítulo VI: 
+# Capítulo VI: Product Implementation, Validation & Deployment
+
+
 ## 6.1. Software Configuration Management
+
+En la sección siguiente, se describirán las herramientas, convenciones, referencias y configuraciones utilizadas durante el desarrollo del proyecto, las cuales ayudaron a mantener la coherencia en el trabajo realizado.
+
 ### 6.1.1. Software Development Environment Configuration
+
+En esta parte, se mencionarán los distintos programas de software que el equipo de desarrollo utilizó para llevar a cabo las tareas relacionadas con la creación del proyecto.
+<br>
+
+**Project Management**
+
+- **Trello**: <https://trello.com/>  
+  La plataforma de Trello se empleó para la gestión de las tareas y la organización del flujo del trabajo en el proyecto. Las tareas se presentaron dentro de tarjetas en listas con el integrante encargado de realizarlas. Además, utilizamos funcionalidades como agregar etiquetas de colores y marcar el proceso de las tareas. De esta manera, pudimos hacer seguimiento a nuestros avances en el proyecto.
+
+- **Google Meet**: <https://meet.google.com/landing>
+  Se utilizó la plataforma de Google Meet para realizar reuniones entre los integrantes del grupo, con el fin de coordinar las tareas de cada uno, compartir ideas sobre cómo se llevará a cabo el trabajo y definir las fechas de entrega.
+
+**Requirements Management**
+
+- **Trello**: <https://trello.com/>  
+  Trello se empleó para organizar los requisitos de la aplicación. En él se gestionó el product backlog, ordenado según la prioridad aplicando Fibonacci para enumerar las historias de usuario, y en otra sección organizándolas según las épicas.
+
+**Product UX/UI Design**
+
+- **Figma**: <https://www.figma.com/><br>
+  Figma nos ayudó a desarrollar los wireframes, mockups y prototipos de la aplicación móvil.
+
+- **Miro**: <https://miro.com/es/><br>
+  Miro fue de utilidad para realizar los As-Is Scenario Mapping , To-Be Scenario Mapping y Strategic-Level Domain-Driven Design para cada uno de los segmentos objetivos.
+
+- **LucidChart**: <https://www.lucidchart.com/><br>
+  LucidChart se utilizó para la creación de los diagramas de flujo y los diagramas de arquitectura de software.
+
+- **Vertabelo**: <https://vertabelo.com/><br>
+  Vertabelo se uso para hacer los diagramas de los dos Bounded Context Database Design Diagram principales
+
+- **UXPressia**: <https://uxpressia.com/>  
+  UXPressia se empleó para la creación de User Personas, Empathy Maps, Journey Maps e Impact Maps. Usamos plantillas de UXPressia para elaborar cada una de estas herramientas, permitiendo exportar el trabajo realizado para incluirlo en el proyecto.
+
+**Software Development**
+
+- **Landing Page**<br>
+  La landing page fue desarrollada utilizando **Html** , **CSS** y **JavaScript (JS)**, lo que permitió un desarrollo más estructurado y escalable. Además, se utilizaron estilos personalizados con **CSS**. El diseño y desarrollo fueron optimizados para su despliegue en **GitHub Page**.
+
+
+- **Frontend mobile application with Android Studio**<br>
+  Se utilizó **Android Studio** para diseñar la interfaz de un segmento objetivo de la aplicación móvil de forma nativa. Este frontend se construyó usando **XML** para definir las vistas (pantallas, botones, textos, etc.) y **Kotlin** como lenguajes de programación para controlar la lógica de la interfaz. Esta parte se encarga de la interacción directa del usuario con la app, permitiendo una experiencia fluida y acorde a las pautas de diseño de Android.
+
+- **Frontend mobile application with Flutter**<br>
+  También se desarrolló un frontend usando Flutter, para el otro segmento objetivo, un framework multiplataforma. Con **Flutter**, la UI se implementó en el lenguaje **Dart**, usando **widgets** que permiten crear interfaces modernas y adaptables tanto para Android como para otros sistemas. Esta alternativa facilita el desarrollo rápido y una misma base de código para varias plataformas.
+
+- **Backend**<br>
+  El backend fue desarrollado utilizando **Java** con el framework **Spring Boot**, proporcionando APIs RESTful que interactúan con una base de datos **MySQL**. Esto nos ayudará a gestionar la lógica del negocio, procesar las solicitudes del frontend, almacenar y recuperar información de manera eficiente, así como garantizar una comunicación segura y estructurada entre la aplicación y la base de datos.
+
+**Software Testing**
+
+Para las pruebas funcionales de la Landing Page , el Backend y la aplicación móvil, se utilizaron herramientas de desarrollo de navegadores web como [Google Chrome](https://www.google.com/chrome/) y [Microsoft Edge](https://www.microsoft.com/en-us/edge).
+
+**Software Deployment**
+
+- **GitHub Pages**: [https://pages.github.com/](https://pages.github.com/)  
+  Para el despliegue de la Landing Page, se utilizó GitHub Pages, conectando directamente el repositorio del proyecto. Esto permitió que el sitio se actualizara automáticamente con cada cambio realizado en la rama principal, facilitando un flujo continuo de publicación sin necesidad de configuraciones adicionales.
+
+- **Railway**: [https://railway.app/](https://railway.app/)  
+  Para el despliegue del backend, se utilizó Railway, conectando el repositorio de GitHub al servicio. Esto permitió implementar automáticamente los cambios realizados en el código.  
+  Railway proporcionó un entorno escalable y simplificado para manejar las configuraciones del servidor y las bases de datos, facilitando el proceso de desarrollo y despliegue.
+
+- **Firebase Distribution**: [https://firebase.google.com/](https://firebase.google.com/?gad_source=1&gad_campaignid=12302357971&gbraid=0AAAAADpUDOhnJ69fUPif2O_qPeGOJqQyZ&gclid=Cj0KCQjw8vvABhCcARIsAOCfwwqtOiUW0N8lz05F9zsxBgHV8-J3B3r40nxR-e7NwI44GcCbQuzddcMaAuClEALw_wcB&gclsrc=aw.ds)  
+  Para el despliegue del Frontend de la aplicación móvil en Android Studio, se generó un archivo APK que será distribuido a través de Firebase App Distribution. Esto permitirá compartir fácilmente la aplicación con los usuarios o testers, quienes podrán instalarla en sus dispositivos Android, interactuar con la interfaz y probar sus funcionalidades antes del lanzamiento oficial.
+
+**Software Documentation**
+
+- **Structurizr**: [https://structurizr.com/](https://structurizr.com/)  
+  Se empleó **Structurizr** para la creación de diagramas C4, cubriendo los niveles de contexto, contenedor y componentes. Esta herramienta facilitó la visualización de la arquitectura del sistema utilizando una sintaxis basada en texto, ideal para mantener la documentación actualizada y consistente.
+
+
+- **GitHub**: [https://github.com/](https://github.com/)  
+  GitHub se utilizó tanto para la creación de la **documentación** (report), **Landing Page**, **Backend** y la **aplicación móvil**. Su sistema de control de versiones y las herramientas para trabajo colaborativo permitieron gestionar cambios de manera eficiente.
+
+
 ### 6.1.2. Source Code Management
+
+La administración y estructuración de las múltiples modificaciones del proyecto se realizó mediante la creación de varios repositorios en GitHub. Nuestra organización se estructuró de la siguiente manera:
+
+**Organización:**  
+[https://github.com/UniLink-Grupo3](https://github.com/UniLink-Grupo3)
+
+- **Repositorio de la documentación:**  
+  [https://github.com/UniLink-Grupo3/Report](https://github.com/UniLink-Grupo3/Report)
+
+- **Repositorio de la Landing Page:**  
+  [https://github.com/UniLink-Grupo3/RideUp-Landing-Page](https://github.com/UniLink-Grupo3/RideUp-Landing-Page)
+
+- **Repositorio de la Mobile Application:**  
+  [https://github.com/UniLink-Grupo3/Front-End-App](https://github.com/UniLink-Grupo3/Front-End-App)
+
+- **Repositorio del Backend:**  
+  [https://github.com/UniLink-Grupo3/Backend](https://github.com/UniLink-Grupo3/Backend)
+
+Para gestionar eficientemente los cambios en el código fuente, se utilizó **Gitflow**, un modelo de ramificación que facilita el desarrollo colaborativo. Se establecieron una rama principal y varias ramas auxiliares para mantener un flujo de trabajo organizado.
+
+
+#### **Ramas principales:**
+
+- **`main`:**  
+  Contiene las versiones oficiales del proyecto, listas para ser desplegadas en producción. Es la rama más estable y representa el estado final del código.
+
+
+#### **Ramas auxiliares:**
+
+- **`feature`:**  
+  Estas ramas se crean para desarrollar nuevas funcionalidades. Cada rama está enfocada en una tarea específica o mejora. Una vez completada y probada, se fusiona en el `main`.  
+  Ejemplo: `feature/navbar` para el desarrollo de la barra de navegación.
+
+Este modelo de ramificación permitió mantener un control riguroso sobre las versiones del código y facilitar el trabajo colaborativo entre los miembros del equipo.
+
+
 ### 6.1.3. Source Code Style Guide & Conventions
+
+
+- Utilizaremos el lenguaje de etiquetas **HTML** para el desarrollo principal de nuestra Landing Page.
+- Utilizaremos el lenguaje **CSS** para aplicar los estilos a la estructura de nuestra Landing Page.
+- Implementaremos el lenguaje **JavaScript** para añadir interactividad y funcionalidades dinámicas a la Landing Page.
+- Utilizaremos el lenguaje **Kotlin** para el desarrollo del frontend móvil en **Android Studio**, permitiendo crear interfaces nativas y fluidas en dispositivos Android.
+- se utilizo **Java** con el framework **Spring Boot** para el desarrollo del backend permitiendo crear APIs RESTful que se comunican con una base de datos MySQL para gestionar la lógica del negocio y el intercambio de datos con el frontend.
+
+---
+
+#### **Convenciones de Commits**
+
+Nuestro equipo sigue las **Conventional Commits** en su versión 1.0.0 (disponible en [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/)) para garantizar claridad y coherencia en los registros. La estructura es la siguiente:
+
+**Formato:**  
+`<type>[scope opcional]: <description>`
+
+- **type:** Indica el tipo de modificación realizada, con opciones como `feat` (nueva funcionalidad), `fix` (corrección de errores), `docs` (documentación), etc.
+- **scope (opcional):** Define el alcance del cambio realizado en el código (e.g., un módulo o componente específico).
+- **description:** Ofrece un resumen conciso de los cambios implementados.
+
+---
+
+#### **Convenciones de Versionado de Lanzamientos**
+
+Seguimos el estándar **Semantic Versioning 2.0.0**, en el cual las versiones se presentan como `X.Y.Z`, con las siguientes interpretaciones:
+
+- **X (Major):**  
+  Incrementa con cambios incompatibles con versiones anteriores. Comienza en `0` durante el desarrollo inicial y pasa a `1` cuando el proyecto está listo para su lanzamiento público.  
+  _Nota:_ Al aumentar `X`, los valores de `Y` y `Z` se reinician a `0`.
+
+- **Y (Minor):**  
+  Incrementa con cambios compatibles que agregan nuevas funcionalidades, generalmente provenientes de ramas `release`.  
+  _Nota:_ Al aumentar `Y`, el valor de `Z` se reinicia a `0`.
+
+- **Z (Patch):**  
+  Incrementa con correcciones de errores menores, integrando commits realizados en ramas de corrección (`hotfix`) que se fusionan con la rama principal.
+
+Este enfoque asegura que las versiones del proyecto sean claras y fácilmente interpretables por todos los miembros del equipo y usuarios finales.
+
 ### 6.1.4. Software Deployment Configuration
 
-## 6.2. Landing Page & Mobile Application Implementation
+Para configurar el despliegue de la Lading Page, seguimos los pasos detallados a continuación utilizando **Vercel** como plataforma:
+
+**Enlace del Despliegue de la Lading Page:** [Lading Page](https://unilink-grupo3.github.io/RideUp-Landing-Page/)
+
+1. **Accediendo al proyecto**  
+Asegúrate de tener tu proyecto en un repositorio de GitHub (puede estar en la rama `main`).
+
+2. **Creación de la carpeta docs**  
+Crea una carpeta llamada `/docs` en la raíz del proyecto y mueve allí todos los archivos del sitio web (HTML, CSS, JS, etc.).
+
+3. **Realizar cambios en el diseño**  
+Realiza un commit con los cambios y súbelos a GitHub:
+
+   ```bash
+   git add .
+   git commit -m "Mover archivos al directorio /docs"
+   git push origin main
+   ```
+      <div align="center">
+        <img align="center" src="assets/GitHub-Page/github Page - 1.png">
+      </div><br>
+
+4. **Ubicación para desplegar**  
+Entra al repositorio en GitHub y haz clic en la pestaña Settings (⚙️). En el menú lateral, haz clic en "Pages" (GitHub Pages).
+
+5. **Configuraciones**  
+En la sección "Build and deployment", selecciona:
+
+    a. Source: Deploy from a branch
+
+    b. Branch: main
+
+    c. Folder: /docs
+
+    <div align="center">
+      <img align="center" src="assets/GitHub-Page/github Page - 2.png">
+    </div><br>
+
+6. **Último paso**  
+Haz clic en "Save". Esperar unos segundos y GitHub entregará una URL pública.
+
+---
+
+Para configurar el despliegue del Backend, seguimos los pasos detallados a continuación utilizando **Railway** como plataforma:
+
+**Enlace del Despliegue del Backend:** [Backend](https://moviles-back-production.up.railway.app/)
+
+1. **Crea tu cuenta en Railway**  
+   Entra a [Railway](https://railway.com/) e inicia sesión con tu cuenta de GitHub
+
+    <div align=center>
+      <img src="./assets/backend/paso1.png">
+    </div><br>
+
+2. **Conecta tu repositorio**  
+   Haz clic en `New Project`, después elige la opción `Deploy from GitHub Repo` y seleccionas el repositorio del backend
+
+    <div align=center>
+      <img src="./assets/backend/paso2.png">
+    </div><br>
+
+3. **Configurar las Variables de Entorno**  
+   Ve a la pestaña `Variables` y haz clic en `Raw Editor`. Pega todas las variables de entorno necesarias (como en el archivo `application.properties` o `application.yml` de tu backend). Luego haz clic en `Update Variables`, presiona `Apply changes` y finalmente en `Deploy` para aplicar y ejecutar el backend.
+
+    <div align=center>
+      <img src="./assets/backend/paso3.png">
+    </div><br>
+
+3. **Despliegue del Backend**  
+   Espera a que el estado del `deployment` pase de `building` a `active`. Una vez activo, ve a `Settings` → `Networking` para copiar el link desplegado de tu backend.
+
+---
+
+Para configurar el despliegue del Frontend en Android Studio, seguimos los pasos detallados a continuación utilizando **Firebase Distribution** como plataforma:
+
+**Enlace para acceder al archivo APK:** [Link de descarga del archivo APK](https://drive.google.com/file/d/1pSuPTgnZ2aG_0eBcumhxvDnwjOyMd7MK/view?usp=sharing )
+
+1. **Creación de cuenta en Firebase**
+
+    a.  Haz clic en `Agregar proyecto`.<br>
+    b.  Introduce el nombre deseado para tu proyecto y sigue los pasos indicados para su creación.<br>
+    c.  Cuando se te solicite una cuenta de Google Analytics, selecciona `Default Account for Firebase`.<br>
+
+    <div align=center>
+      <img src="./assets/aplicacion-móvil/paso1-despliegue.jpg">
+    </div><br>
+
+2. **Selección de plataforma**
+
+   En el panel principal, que muestra tarjetas para diferentes plataformas (iOS, Android, Web), selecciona el **icono de Android**. A continuación, deberás completar ciertos pasos para la creación de la aplicación.
+
+   <div align=center>
+      <img src="./assets/aplicacion-móvil/paso2-despliegue.jpg">
+    </div><br>
+
+3. **Registro de la APP**
+
+   Para registrar tu aplicación y obtener el nombre del paquete de Android:
+
+    a.  Abre tu proyecto en Android Studio.<br>
+    b.  Cambia la vista a **Android**.<br>
+    c.  En la lista de carpetas, localiza el archivo **`build.gradle.kts (Module :app)`**.<br>
+    d.  Dentro de este archivo, busca la línea **`namespace`**. El valor de esta línea será el **Nombre del paquete de Android** que debes ingresar en Firebase.<br>
+    e.  Los demás campos en Firebase son opcionales.
+
+    <div align=center>
+      <img src="./assets/aplicacion-móvil/paso3-despliegue.png">
+    </div><br>
+
+4. **Adición del archivo de configuración de Firebase**
+
+    a.  Haz clic en `Descargar google-services.json`.<br>
+    b.  Una vez descargado, en Android Studio, cambia la vista a **Project**.<br>
+    c.  Navega hasta la carpeta `app` y arrastra el archivo `google-services.json` dentro de ella.<br>
+
+5. **Integración de los SDKs de Firebase**
+
+    a.  En Android Studio, cambia la vista a **Android**.<br>
+    b.  Abre el archivo `build.gradle.kts (Project: RideUp)`.<br>
+    c.  Dentro del bloque `plugins`, agrega la siguiente línea:<br>
+      ```kotlin
+        id("com.google.gms.google-services") version "4.4.2" apply false
+      ```
+    d.  Abre el archivo `build.gradle.kts (:app)`.<br>
+    e.  Dentro del bloque `plugins`, agrega esta línea:
+      ```kotlin
+        id("com.google.gms.google-services")
+      ```
+    f.  Dentro del bloque `dependencies`, agrega las siguientes líneas:<br>
+      ```kotlin
+        implementation(platform("com.google.firebase:firebase-bom:33.13.0"))
+        implementation("com.google.firebase:firebase-analytics")
+      ```
+
+6. **Generación del APK para compartir**
+
+    a.  En la barra de menú de Android Studio, ve a **Build**.<br>
+    b.  Selecciona la opción `Generate App Bundles or APKs`.<br>
+    c.  En el submenú que aparece, elige `Generate APKs`.<br>
+    d.  Android comenzará a compilar el APK. Una vez finalizado, aparecerá un mensaje flotante. Haz clic en `Locate`.<br>
+    e.  Se abrirá una ventana del explorador de archivos donde podrás encontrar el archivo `app-debug.apk`.<br>
+
+    <div align=center>
+      <img src="./assets/aplicacion-móvil/paso4-despliegue.png">
+    </div><br>
+
+7. **Instalación de la aplicación desde el APK**
+
+   Puedes compartir el archivo `app-debug.apk` a través de un enlace o directamente. Para instalar la aplicación en un dispositivo Android:
+
+    a.  Abre el archivo `app-debug.apk` en tu dispositivo móvil Android.<br>
+    b.  El sistema te pedirá permisos para instalar aplicaciones de fuentes desconocidas. **Debes aceptar estos permisos** para continuar.<br>
+    c.  Aparecerá una advertencia de seguridad indicando que la aplicación no proviene de Google Play Store. Marca la opción **"Soy consciente de los posibles riesgos..."** y presiona **OK**.<br>
+    d.  La descarga e instalación de la aplicación comenzará. Una vez finalizada, la aplicación estará lista para usar.<br>
+
+
+## 6.2. Landing Page, Services & Applications Implementation
+
 ### 6.2.1. Sprint 1
+
+En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el **Sprint 1**, enfocado en el desarrollo de la landing page, Backend y el frontend. Se detalla el progreso tangible y funcional, incluyendo su diseño, desarrollo y funcionalidades implementadas, así como la colaboración del equipo, los métodos de comunicación utilizados y las herramientas empleadas para garantizar una cooperación efectiva.
+
 #### 6.2.1.1. Sprint Planning 1
-#### 6.2.1.2. Sprint Backlog 1
-#### 6.2.1.3. Development Evidence for Sprint Review
-#### 6.2.1.4. Testing Suite Evidence for Sprint Review
-#### 6.2.1.5. Execution Evidence for Sprint Review
-#### 6.2.1.6. Services Documentation Evidence for Sprint Review
-#### 6.2.1.7. Software Deployment Evidence for Sprint Review
-#### 6.2.1.8. Team Collaboration Insights during Sprint
 
-## 6.3. Validation Interviews
-### 6.3.1. Diseño de Entrevistas
-### 6.3.2. Registro de Entrevistas
-### 6.3.3. Evaluaciones según heurísticas
+En esta parte mostramos las tareas que se realizaron en este sprint.
 
-## 6.4. Video About-the-Produc
+Link del Trello: [Ir a Trello](https://trello.com/invite/b/682137d6cc19197ed3a8ed8c/ATTI9ddb4fdb698689e540dc94e77ea61eb2860AC9B6/unilink)
+
+Vista del Sprint Backlog 1 en Trello:
+
+<div align="center">
+  <img align="center" src="./assets/GitHub-Page/UniLink _ Trello.png">
+</div><br><br>
+
+<table border="1px" align="center">
+      <tr>
+          <th style="font-weight: bold;" >Sprint #</th>
+          <th style="font-weight: bold;" >Sprint 1</th>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Planning Background</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Date</td>
+          <td>13-05-2025</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Time</td>
+          <td>5:00 pm - 10:00 pm</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Location</td>
+          <td>Canal de Voz de Meet</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prepared By</td>
+          <td>Fernandez Alva, María Fernanda</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Attendees (to planning meeting)</td>
+          <td>
+              Belleza Tello, Paolo Eduardo<br>
+              Fernandez Alva, María Fernanda<br>
+              Valera Garces, Samuel Ignacio<br>
+              Ramirez Ortega, Diego Miguel<br>
+              Pilares Pocohuanca, Maria<br>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 0 Review Summary</td>
+          <td>Debido a que es nuestro primer sprint de desarrollo, no existe un review summary del sprint.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 0 Retrospective Summary</td>
+          <td>Debido a que es nuestro primer sprint de desarrollo, no existen planes de mejora.</td>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Goal & User Stories</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 1 Goal</td>
+          <td>
+              El objetivo principal de este sprint es desarrollar la Landing Page, el Backend y el Frontend de la aplicación móvil RideUp (solo un segmento objetivo en este caso seria para el estudiante universitario), enfocándonos en la estructura inicial, la conexión y la presentación básica de funcionalidades clave.
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 1 Velocity</td>
+          <td>8</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sum of Story Points</td>
+          <td>35</td>
+      </tr>
+    </table>
+
+#### 6.2.1.2. Sprint Backlog 1.
+
+<table border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th style="text-align: center;"><b>Sprint #</b></th>
+    <th colspan="7" style="text-align: center;"><b>Sprint 1</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;"><b>User Story</b></td>
+    <td colspan="6" style="text-align: center;"><b>Work-item / Task</b></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><b>ID</b></td>
+    <td style="text-align: center;"><b>Title</b></td>
+    <td style="text-align: center;"><b>ID</b></td>
+    <td style="text-align: center;"><b>Title</b></td>
+    <td style="text-align: center;"><b>Description</b></td>
+    <td style="text-align: center;"><b>Estimation (hours)</b></td>
+    <td style="text-align: center;"><b>Assigned To</b></td>
+    <td style="text-align: center;"><b>Status</b></td>
+  </tr>
+
+  <tr>
+    <td>US08</td>
+    <td>Búsqueda de Viaje Disponibles</td>
+    <td>T1</td>
+    <td>Búsqueda de viajes</td>
+    <td>Implementacion de una busqueda de vehiculos que aun tienen espacio en su vehiculo</td>
+    <td style="text-align: center;">8h</td>
+    <td>Valera Garces, Samuel Ignacio</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US05</td>
+    <td>Verificación de identidades</td>
+    <td>T5</td>
+    <td>Informacion sobre los usuarios</td>
+    <td>Implementar un apartado donde se vea la informacion del conductor</td>
+    <td style="text-align: center;">6h</td>
+    <td>Pilares Pocohuanca, Maria</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US06</td>
+    <td>Realizar pagos de manera segura</td>
+    <td>T6</td>
+    <td>Pagos</td>
+    <td>Implementación de un formulario para hacer el pago , llenando los datos mas importantes</td>
+    <td style="text-align: center;">5h</td>
+    <td>Ramirez Ortega, Diego Miguel</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US07</td>
+    <td>Registro de usuario</td>
+    <td>T7</td>
+    <td>registro para el estudiante universitario</td>
+    <td>Implementación de un formulario para el llenado de los datos generales</td>
+    <td style="text-align: center;">5h</td>
+    <td>Valera Garces, Samuel Ignacio</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US09</td>
+    <td>Reserva de Viaje</td>
+    <td>T8</td>
+    <td>Reservación</td>
+    <td>Implementar un botón para hacer la reserva de manera mas rápida</td>
+    <td style="text-align: center;">4h</td>
+    <td>Belleza Tello, Paolo Eduardo</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US11</td>
+    <td>Cancelación de Reserva</td>
+    <td>T10</td>
+    <td>Cancelación</td>
+    <td>Implementación un botón para cancelar la reserva</td>
+    <td style="text-align: center;">4h</td>
+    <td>Pilares Pocohuanca, Maria</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US15</td>
+    <td>Visualizar planes de servicio</td>
+    <td>T14</td>
+    <td>Planes</td>
+    <td>Implementación de la vista de los planes disponibles en el landing page</td>
+    <td style="text-align: center;">2h</td>
+    <td>Fernandez Alva, Maria</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US19</td>
+    <td>Barra de navegación en la landing page</td>
+    <td>T15</td>
+    <td>Navegación</td>
+    <td>Implementación de una barra para que sea mas comodo moverse por la lading page</td>
+    <td style="text-align: center;">2h</td>
+    <td>Pilares Pocohuanca, Maria</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+
+  <tr>
+    <td>US23</td>
+    <td>Sección about the product y about the team</td>
+    <td>T16</td>
+    <td>Informacion sobre el equipo y el proyecto</td>
+    <td>Implementación de una vista donde tenga toda la informacion necesaria para los usuarios</td>
+    <td style="text-align: center;">2h</td>
+    <td>Ramirez Ortega, Diego Miguel</td>
+    <td style="text-align: center;">Done</td>
+  </tr>
+</table>
+
+#### 6.2.1.3. Development Evidence for Sprint Review. 
+
+* Se presentan los commits realizados en el repositorio de la Lading Page en GitHub. 
+
+  Link del repositorio de la Lading Page: [RideUp - Landing Page](https://github.com/UniLink-Grupo3/RideUp-Landing-Page)
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <td>RideUp - Landing Page</td>
+    <td>main</td>
+    <td>f50f795</td>
+    <td>docs: added landingpage</td>
+    <td>Documentación de la Lading page</td>
+    <td>09/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Landing Page</td>
+    <td>main</td>
+    <td>b47e81c</td>
+    <td>feat: update index.html</td>
+    <td>Creación de la Landing page</td>
+    <td>09/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Landing Page</td>
+    <td>main</td>
+    <td>d1a972e</td>
+    <td>feat: adding language swith button</td>
+    <td>Implementación del botón de cambio de idioma</td>
+    <td>13/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Landing Page</td>
+    <td>main</td>
+    <td>26767b0</td>
+    <td>feat: add the i18n with the script 
+</td>
+    <td>Funcionalidad de i18n en las etiquetas del HTML</td>
+    <td>13/05/2025</td>
+  </tr>
+</table>
+
+---
+
+* Se presentan los commits realizados en el repositorio del Backend en GitHub. 
+
+  Link del repositorio del Backend: [RideUp - Backend](https://github.com/UniLink-Grupo3/Backend)
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <td>RideUp - Backend</td>
+    <td>main</td>
+    <td>5583f60</td>
+    <td>feat: added back_code</td>
+    <td>Agregando codigo completo del backend</td>
+    <td>15/05/2025</td>
+  </tr>
+</table>
+
+---
+
+* Se presentan los commits realizados en el repositorio de la Aplicación móvil en GitHub. 
+
+  Link del repositorio de la Aplicación móvil: [RideUp - Móvil](https://github.com/UniLink-Grupo3/Front-End-App)
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <td>RideUp - Móvil</td>
+    <td>main</td>
+    <td>f00b2aa</td>
+    <td>file: added body files</td>
+    <td>Funcionalidad del Body</td>
+    <td>15/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Móvil</td>
+    <td>main</td>
+    <td>ba0c2d2</td>
+    <td>feat: added Register Screen, Routes and themes</td>
+    <td>Funcionalidad de enrutamiento y registro</td>
+    <td>15/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Móvil</td>
+    <td>main</td>
+    <td>fa87f62</td>
+    <td>feat: AppScreen.kt was added</td>
+    <td>Agregando AppScreen</td>
+    <td>15/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Móvil</td>
+    <td>main</td>
+    <td>7e9c0ef</td>
+    <td>feat: SessionCookiJar.kt was added</td>
+    <td>Agregando SessionCookiJar</td>
+    <td>15/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Móvil</td>
+    <td>main</td>
+    <td>530bce0</td>
+    <td>feat: HomeScreen.kt was added</td>
+    <td>Funcionalidad Home</td>
+    <td>15/05/2025</td>
+  </tr>
+  <tr>
+    <td>RideUp - Móvil</td>
+    <td>main</td>
+    <td>8aeaa17</td>
+    <td>feat: Vehicle.kt was added</td>
+    <td>Funcionalidad del vehículo</td>
+    <td>15/05/2025</td>
+  </tr>
+</table>
+
+#### 6.2.1.4. Execution Evidence for Sprint Review. 
+
+En el Sprint 1 hemos logrado implementar la Lading Page, Backend como la aplicación móvil con las funcionalidades más relevantes.
+
+A continuación, se presentan capturas de pantalla de las vistas implementadas.
+
+1. **Landing Page**  
+
+    <div align="center">
+        <img src="assets/Lading-Page/foto 1.png" style="margin: 10px;">
+        <img src="assets/Lading-Page/foto 2.png" style="margin: 10px;">
+    </div>
+
+    <div align="center">
+        <img src="assets/Lading-Page/foto 3.png" style="margin: 10px;">
+        <img src="assets/Lading-Page/foto 4.png" style="margin: 10px;">
+    </div>
+
+    <div align="center">
+        <img src="assets/Lading-Page/foto 5.png" style="margin: 10px;">
+        <img src="assets/Lading-Page/foto 6.png" style="margin: 10px;">
+    </div><br>
+
+2. **Backend**
+
+    <div align="center">
+        <img src="assets/backend/railway 1.jpg">
+    </div>
+
+    <div align="center">
+        <img src="assets/backend/railway 2.jpg">
+    </div><br>
+
+3. **Aplicación Móvil**
+
+    <div align="center">
+        <img src="./assets/aplicacion-móvil/paso1.jpg" style="width:300px; margin: 10px;">
+        <img src="./assets/aplicacion-móvil/paso2.jpg" style="width:300px; margin: 10px;">
+        <img src="./assets/aplicacion-móvil/paso3.jpg" style="width:300px; margin: 10px;">
+    </div>
+
+    <div align="center">
+        <img src="./assets/aplicacion-móvil/paso 4.jpg" style="width:300px; margin: 10px;">
+        <img src="./assets/aplicacion-móvil/paso 5.jpg" style="width:300px; margin: 10px;">
+        <img src="./assets/aplicacion-móvil/paso6.jpg" style="width:300px; margin: 10px;">
+    </div>
+
+    <div align="center">
+        <img src="./assets/aplicacion-móvil/paso7.jpg" style="width:300px; margin: 10px;">
+        <img src="./assets/aplicacion-móvil/paso8.jpg" style="width:300px; margin: 10px;">
+    </div><br>
+
+#### 6.2.1.5. Services Documentation Evidence for Sprint Review. 
+
+Durante este Sprint, se documentaron los endpoints desarrollados en el backend de RideUp utilizando la especificación OpenAPI (swagger), con el objetivo de facilitar su comprensión, prueba y futura integración por parte de otros miembros del equipo o desarrolladores externos.
+
+A continuación, se presenta capturas de la relación de endpoints implementados y documentados, indicando las acciones que soportan, sus respectivos métodos HTTP, parámetros relevantes, ejemplo de uso y respuesta.
+
+<div align="center">
+  <img align="center" src="./assets/backend/swagger.jpg">
+</div><br>
+
+<div align="center">
+  <img align="center" src="./assets/backend/prueba 1.png">
+</div><br>
+
+<div align="center">
+  <img align="center" src="./assets/backend/prueba 2.png">
+</div>
+
+#### 6.2.1.6. Software Deployment Evidence for Sprint Review.
+
+Durante este Sprint, no se realizaron cambios adicionales en el proceso de despliegue. Sin embargo, se mantiene operativo el entorno previamente configurado y desplegado para cada uno de los componentes del sistema.
+
+A continuación, se presentan los enlaces de despliegue correspondientes, junto con una captura representativa de cada uno:
+
+**Landing Page:** [RideUp-Landing](https://unilink-grupo3.github.io/RideUp-Landing-Page/)
+
+**Backend:** [RideUp-Backend](https://moviles-back-production.up.railway.app)
+
+**Aplicación Móvil:** [Para descargar el archivo APK](https://drive.google.com/file/d/1pSuPTgnZ2aG_0eBcumhxvDnwjOyMd7MK/view?usp=sharing)
+
+
+**Imagen de la Landing Page funcionando en el navegador**
+
+<div align="center">
+  <img align="center" src="./assets/Lading-Page/evidencia de despliegue.png">
+</div><br>
+
+**Imagen del Postman o Swagger mostrando que el backend responde**
+
+<div align="center">
+  <img align="center" src="./assets/backend/prueba 1.png">
+</div><br>
+
+**Imagen de la app móvil mostrando que funciona**
+
+<div align="center">
+  <img align="center" src="./assets/aplicacion-móvil/evidencia.jpg" style="width:300px; margin: 10px;">
+  <img align="center" src="./assets/aplicacion-móvil/paso 4.jpg" style="width:300px; margin: 10px;">
+</div><br>
+
+#### 6.2.1.7. Team Collaboration Insights during Sprint.
+
+El equipo desarrolló el Landing Page, Backend y la Aplicación móvil . En la aplicación móvil , se enfoco mas en las vistas y la navegacion entre esas.
+
+A continuación, se presentarán las tareas asignadas a cada integrante del equipo, así como el insight del equipo a través de la plataforma GitHub:
+
+<table border="1">
+  <tr>
+    <th>Integrante</th>
+    <th>Actividad</th>
+  </tr>
+  <tr>
+    <td>Pilares Pocohuanca, Maria</td>
+    <td>Se encargó del la implementación del documento del capitulo 5. Realizó una parte de la codificación del backend</td>
+  </tr>
+  <tr>
+    <td>Belleza Tello, Paolo Eduardo</td>
+    <td>Se encargó de realizar algunas vistas de la aplicación web como la busqueda de vehiculos. Cambio de idioma en el lading Page y por último un poco en la implementación en el documento. Realizó una parte de la codificación del backend</td>
+  </tr>
+  <tr>
+    <td>Fernandez Alva, María Fernanda</td>
+    <td>Se encargó de realizar la implementación del documento del capitulo 6. Realizó la implementacion del boton de idioma en el lading page. Realizó una parte de la codificación del backend</td>
+  </tr>
+  <tr>
+    <td>Ramirez Ortega, Diego Miguel</td>
+    <td>Se encargó de realizar la implementación de una vista en la app móvil con sus respectivas carpetas. Realizó una parte de la codificación del backend</td>
+  </tr>
+  <tr>
+    <td>Valera Garces, Samuel Ignacio</td>
+    <td>Se encargó de realizar el lading page con todo lo establecido. Realizó vistas de la app móvil con su respectiva ruta. Realizó una parte de la codificación del backend</td>
+  </tr>
+</table>
+
+A continuación, se mostrarán las capturas de participación:
+
+* <strong>Captura de los commits realizados de la Lading Page</strong>
+
+<div align=center>
+    <img src="./assets/Lading-Page/Commits.png" style="width:320px; margin: 10px;">
+    <img src="./assets/Lading-Page/contribuidores.png" style="width:320px; margin: 10px;">
+</div><br>
+
+* <strong>Captura de los commits realizados en el Backend</strong>
+
+<div align=center>
+    <img src="./assets/backend/commits.png" style="width:320px; margin: 10px;">
+    <img src="./assets/backend/contributor.png" style="width:320px; margin: 10px;">
+</div><br>
+
+* <strong>Captura de los commits realizados de la App móvil</strong>
+
+<div align=center>
+    <img src="./assets/aplicacion-móvil/commits-app.png" style="width:320px; margin: 10px;">
+    <img src="./assets/aplicacion-móvil/contributors-app.png" style="width:320px; margin: 10px;">
+</div><br>
 
 # Conclusiones
 Para asegurar el éxito en el desarrollo del proyecto, es fundamental que todos los integrantes del equipo participen activamente y colaboren de manera equitativa, permitiendo así un avance eficiente hacia los objetivos del trabajo como del curso. La correcta elaboración de User Stories , del Product Backlog junto con las entrevistas nos permitirá comprender con claridad qué características y funcionalidades debe incluir la app para ser realmente útil y práctica para los usuarios.
