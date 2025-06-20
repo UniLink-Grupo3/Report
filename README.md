@@ -3698,7 +3698,57 @@ Para el diseño de entrevistas se consideraron los siguientes aspectos:
 
 ### 6.3.2. Registro de entrevistas
 
-En esta sección se 
+A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios del primer segmento:
+<p align="center"><strong>Segmento Estudiantes Universitarios</strong></p>
+
+| **Entrevista 1** ||
+|:-:|:-:|
+| Nombre | Josep Melgarejo Quiroz |
+|Edad| 23 |
+|Departamento| Lima |
+|Distrito| Huaral |
+|Minuto de inicio|00:00:10|
+|Captura de la entrevista| ![ganadero1](Imagenes/Entrevistas2/ganadero1.png)|
+|Link de la entrevista|enlaceyt |
+
+| **Entrevista 2** ||
+|:-:|:-:|
+| Nombre | Kiara Gallardo |
+|Edad| 21 |
+|Departamento| Lima |
+|Distrito| San Miguel |
+|Minuto de inicio|00:00:18|
+|Captura de la entrevista|![ganadero2](Imagenes/Entrevistas2/ganadero2.png)|
+|Link de la entrevista|enlaceyt |
+
+
+---
+
+
+<p align="center"><strong>Segmento Estudiantes universitarios propietarios de vehículos privados</strong></p>
+
+| **Entrevista 1** ||
+|:-:|:-:|
+| Nombre | Marco Rodriguez |
+|Edad| 28 |
+|Departamento| Arequipa |
+|Distrito| Arequipa |
+|Minuto de inicio| 00:00:04|
+|Captura de la entrevista|![ganadero2](Imagenes/Entrevistas2/veterinario1.png)|
+|Link de la entrevista|enlaceyt|
+
+| **Entrevista 2** ||
+|:-:|:-:|
+| Nombre | Fabian Rojas |
+|Edad| 19 |
+|Departamento| Lima |
+|Distrito| Lurigancho |
+|Minuto de inicio| 00:00:00 |
+|Captura de la entrevista| ![Veterinario 2](Imagenes/Entrevistas2/veterinario2.png)|
+|Link de la entrevista| enlaceyt |
+
+
+
 
 ### 6.3.3. Evaluaciones según heurísticas
 
