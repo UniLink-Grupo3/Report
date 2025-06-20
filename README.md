@@ -3750,24 +3750,36 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 
 | **Entrevista 1** ||
 |:-:|:-:|
-| Nombre | Josep Melgarejo Quiroz |
-|Edad| 23 |
+| Nombre | Dayana Andrea Fernandez Ala |
+|Edad| 24 |
 |Departamento| Lima |
-|Distrito| Huaral |
-|Minuto de inicio|00:00:10|
-|Captura de la entrevista| ![ganadero1](Imagenes/Entrevistas2/ganadero1.png)|
+|Distrito| Los Olivos |
+|Minuto de inicio|00:00:18|
+|Duración|00:09:10|
+|Captura de la entrevista| ![estudiante universitario sin vehiculo - 1](/assets/entrevistas-finales/entrevista-dayana.png)|
 |Link de la entrevista|enlaceyt |
+
+
+Resumen:<br>
+La señorita Dayana nos comentó que la información de la landing page le pareció clara y fácil de entender, destacando el paso a paso para ambos tipos de usuarios. Le transmitió confianza gracias al diseño profesional y los testimonios, aunque sugirió incluir validaciones de seguridad y alianzas. Recomendó añadir un video explicativo y resaltar mejor los beneficios. Al usar la app, valoró que los vehículos estuvieran cerca y el proceso fuera sencillo, aunque le gustaría ver reseñas de los conductores y recibir notificaciones cuando aceptan su solicitud. También mencionó que el sistema de pago le parece práctico, pero preferiría tener opciones como Yape o efectivo. Finalmente, señaló que se sentiría más segura si pudiera ver calificaciones o validaciones del conductor.
+
+---
+
 
 | **Entrevista 2** ||
 |:-:|:-:|
-| Nombre | Kiara Gallardo |
-|Edad| 21 |
+| Nombre | Gabriel Alexander Fernandez Guevara |
+|Edad| 24 |
 |Departamento| Lima |
 |Distrito| San Miguel |
 |Minuto de inicio|00:00:18|
-|Captura de la entrevista|![ganadero2](Imagenes/Entrevistas2/ganadero2.png)|
+|Duración|00:07:05|
+|Captura de la entrevista|![estudiante universitario sin vehiculo - 2](/assets/entrevistas-finales/entrevista-gabriel.png)|
 |Link de la entrevista|enlaceyt |
 
+
+Resumen:<br>
+El joven Gabriel nos informó que la landing page le pareció en general clara, pero sugirió mejorar la organización del contenido para que sea más comprensible, especialmente para usuarios sin vehículo. Comentó que el diseño es moderno, aunque le gustaría ver validaciones oficiales o alianzas con universidades para generar más confianza. Propuso agregar testimonios reales de estudiantes con foto y carrera, y hacer más visible el botón de registro. Al usar la app, destacó que la carga fue rápida y pudo ver fácilmente autos cercanos, pero recomendó incluir datos como el número de viajes del conductor y comentarios. El proceso para enviar la solicitud le pareció muy fácil, aunque la sección de respuesta le resultó algo vacía. Sobre el pago, lo consideró cómodo, pero sugirió la opción de dividir el costo y confirmar el precio antes de iniciar el viaje. Finalmente, indicó que el sistema para elegir conductor le inspira confianza a medias, y que ayudaría ver más información académica del chofer.
 
 ---
 
@@ -3776,13 +3788,20 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 
 | **Entrevista 1** ||
 |:-:|:-:|
-| Nombre | Marco Rodriguez |
-|Edad| 28 |
-|Departamento| Arequipa |
-|Distrito| Arequipa |
+| Nombre | Maria Yesenia Alva Leyva |
+|Edad| 32 |
+|Departamento| Lima |
+|Distrito| Los Olivos |
 |Minuto de inicio| 00:00:04|
-|Captura de la entrevista|![ganadero2](Imagenes/Entrevistas2/veterinario1.png)|
+|Duración|00:08:13|
+|Captura de la entrevista|![estudiante universitario cpn vehiculo - 1](/assets/entrevistas-finales/entrevista-maria.png)|
 |Link de la entrevista|enlaceyt|
+
+
+Resumen:<br>
+La señorita María nos comentó que la información en la landing page le pareció clara, especialmente al explicar el propósito de RideUp y la división entre tipos de usuarios. Sin embargo, indicó que sería importante reforzar la confianza mostrando más validaciones o garantías para los conductores. Sugirió incluir ejemplos de cuánto se puede ganar por trayecto para motivar el registro. También expresó interés en ver filtros o calificaciones para los pasajeros. Sobre el uso de la app, señaló que indicar el destino fue muy sencillo y que las solicitudes de pasajeros estaban bien organizadas, con información útil para planear la ruta. Valoró poder ver a quién ya aceptó y que el botón para detener solicitudes funcionara correctamente. Finalmente, propuso mejorar la experiencia del conductor añadiendo un mapa con las ubicaciones de los pasajeros aceptados y permitir volver a iniciar viajes tras borrar los anteriores.
+
+---
 
 | **Entrevista 2** ||
 |:-:|:-:|
@@ -3791,9 +3810,12 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 |Departamento| Lima |
 |Distrito| Lurigancho |
 |Minuto de inicio| 00:00:00 |
+|Duración|00:08:13|
 |Captura de la entrevista| ![Veterinario 2](Imagenes/Entrevistas2/veterinario2.png)|
 |Link de la entrevista| enlaceyt |
 
+
+Resumen:<br>
 
 
 
