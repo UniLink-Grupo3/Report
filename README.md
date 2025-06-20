@@ -3535,6 +3535,32 @@ A continuación, se mostrarán las capturas de participación:
     <img src="./assets/aplicacion-móvil/contributors-app.png" style="width:320px; margin: 10px;">
 </div><br>
 
+
+### 6.2.2. Sprint 2
+
+En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el **Sprint 2**, enfocado en el desarrollo en Flutter junto con el frontend y backend. Se detalla el progreso tangible y funcional, incluyendo su diseño, desarrollo y funcionalidades implementadas, así como la colaboración del equipo, los métodos de comunicación utilizados y las herramientas empleadas para garantizar una cooperación efectiva.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Conclusiones
 Para asegurar el éxito en el desarrollo del proyecto, es fundamental que todos los integrantes del equipo participen activamente y colaboren de manera equitativa, permitiendo así un avance eficiente hacia los objetivos del trabajo como del curso. La correcta elaboración de User Stories , del Product Backlog junto con las entrevistas nos permitirá comprender con claridad qué características y funcionalidades debe incluir la app para ser realmente útil y práctica para los usuarios.
 
