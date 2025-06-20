@@ -3616,7 +3616,7 @@ Vista del Sprint Backlog 2 en Trello:
     </table>
 
 
-#### 6.2.2.2. Sprint Backlog 1.
+#### 6.2.2.2. Sprint Backlog 2.
 
 
 
@@ -3658,6 +3658,8 @@ Vista del Sprint Backlog 2 en Trello:
 
 
 ## 6.3. Validation Interviews
+
+En esta sección se presenta a detalle las entrevistas de validación de producto realizadas.
 
 ### 6.3.1. Diseño de entrevistas
 
