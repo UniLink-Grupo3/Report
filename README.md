@@ -3623,13 +3623,9 @@ Vista del Sprint Backlog 2 en Trello:
 
 #### 6.2.2.3. Development Evidence for Sprint Review. 
 
-
-
-
 #### 6.2.2.4. Testing Suite Evidence for Sprint Review. 
 
-
-
+Dado que estamos en la fase de diseño del prototipo de la aplicación web, aún no es posible llevar a cabo pruebas exhaustivas. Sin embargo, estamos evaluando diversas herramientas y metodologías para garantizar que, una vez implementada, nuestra aplicación web sea robusta y libre de errores.
 
 
 #### 6.2.2.5. Execution Evidence for Sprint Review. 
