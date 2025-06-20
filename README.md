@@ -3541,8 +3541,79 @@ A continuación, se mostrarán las capturas de participación:
 En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el **Sprint 2**, enfocado en el desarrollo en Flutter junto con el frontend y backend. Se detalla el progreso tangible y funcional, incluyendo su diseño, desarrollo y funcionalidades implementadas, así como la colaboración del equipo, los métodos de comunicación utilizados y las herramientas empleadas para garantizar una cooperación efectiva.
 
 
+#### 6.2.2.1. Sprint Planning 2
+
+En esta parte mostramos las tareas que se realizaron en este sprint.
+
+Link del Trello: [Ir a Trello](https://trello.com/invite/b/682137d6cc19197ed3a8ed8c/ATTI9ddb4fdb698689e540dc94e77ea61eb2860AC9B6/unilink)
+
+Vista del Sprint Backlog 2 en Trello:
+
+<div align="center">
+  <img align="center" src="./assets/GitHub-Page/UniLink _ Trello.png">
+</div><br><br>
 
 
+<table border="1px" align="center">
+      <tr>
+          <th style="font-weight: bold;" >Sprint #</th>
+          <th style="font-weight: bold;" >Sprint 2</th>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Planning Background</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Date</td>
+          <td>16-06-2025</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Time</td>
+          <td>5:00 pm - 10:00 pm</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Location</td>
+          <td>Canal de Voz de Discord</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prepared By</td>
+          <td>Ramirez Ortega, Diego Miguel</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Attendees (to planning meeting)</td>
+          <td>
+              Belleza Tello, Paolo Eduardo<br>
+              Fernandez Alva, María Fernanda<br>
+              Valera Garces, Samuel Ignacio<br>
+              Ramirez Ortega, Diego Miguel<br>
+              Pilares Pocohuanca, Maria<br>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 0 Review Summary</td>
+          <td>Al ser nuestro segundo sprint de desarrollo, contamos con un review summary del sprint.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 0 Retrospective Summary</td>
+          <td>Al ser nuestro segundo sprint de desarrollo, se presentan planes de mejora.</td>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Goal & User Stories</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 2 Goal</td>
+          <td>
+              El objetivo principal de este sprint es desarrollo en Flutter y despliegue del Backend de la aplicación móvil RideUp (para ambos segmentos), enfocándonos en la estructura inicial, la conexión y la presentación básica de funcionalidades clave.
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 2 Velocity</td>
+          <td>8</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sum of Story Points</td>
+          <td>35</td>
+      </tr>
+    </table>
 
 
 
