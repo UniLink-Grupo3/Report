@@ -3661,7 +3661,38 @@ Vista del Sprint Backlog 2 en Trello:
 
 ### 6.3.1. Diseño de entrevistas
 
-En esta sección se 
+Para el diseño de entrevistas se consideraron los siguientes aspectos:
+
+**LANDING PAGE**
+- ¿La información que se muestra en la landing page es clara y fácil de entender?
+- ¿Sientes que la landing page transmite confianza en el servicio
+- ¿Qué mejorarías en el contenido o diseño para que te motive a registrarte?
+- ¿Qué información adicional te gustaría ver antes de usar la app?
+
+
+---
+
+
+**ESTUDIANTE UNIVERSITARIO SIN VEHICULO**
+- ¿Cómo fue tu experiencia al explorar los vehículos disponibles desde tu ubicación?
+- ¿La información del conductor, destino y precio fue suficiente para tomar una decisión?
+- ¿El proceso para enviar una solicitud te pareció claro y sencillo?
+- ¿Qué te pareció la sección donde puedes ver si tu solicitud fue aceptada?
+- ¿Cómo te sentirías al tener que pagar el viaje desde la app al final del trayecto?
+- ¿Te inspiró confianza el sistema para elegir con quién viajar?
+
+
+---
+
+
+**ESTUDIANTE UNIVERSITARIO CON VEHICULO**
+- ¿El proceso para indicar tu destino e iniciar viaje fue intuitivo?
+- ¿Qué opinas de la forma en que se muestran las solicitudes de pasajeros?
+- ¿La información del estudiante que solicita el viaje te pareció suficiente para aceptarlo?
+- ¿Te parece útil que las solicitudes aceptadas se guarden en otro apartado?
+- ¿El botón de detenerse fue fácil de entender y útil cuando ya no podías recibir más pasajeros?
+- ¿Qué mejorarías en la experiencia general como conductor dentro de la app?
+
 
 ### 6.3.2. Registro de entrevistas
 
