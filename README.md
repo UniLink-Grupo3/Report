@@ -3654,6 +3654,27 @@ Vista del Sprint Backlog 2 en Trello:
 #### 6.2.2.8. Team Collaboration Insights during Sprint.
 
 
+<!--EDITANDO -->
+
+**Distribución de aportes en el informe:**
+
+**URL del repositorio para el Project Report en la organización de GitHub del equipo:** [https://github.com/UniLink-Grupo3/Report](https://github.com/UniLink-Grupo3/Report)
+
+**¿Cómo se han desarrollado las actividades de elaboración del informe?**
+
+Para el desarrollo del informe en este sprint, optamos por dividirnos el capítulo de la siguiente manera:
+
+| Integrante  | Aporte en el informe                                                                                                                                                       |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  Diego  | Sprint 3, Development Evidence for Sprint Review, Validation Interviews.                                                                                           |
+| Paolo     | Sprint planning 3, Deployment Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
+| Maria Fernanda   | Sprint 3, Development Evidence for Sprint Review, Validation Interviews, Mejora continua en Domain Driven Design Architecture, Heuristics evaluation.              |
+| Samuel  | Validation Interviews, Development Evidence for Sprint Review.                                                                                                      |
+| Maria    | Sprint 3, Validation Interviews, Video About-the-product.                                                                                                           |
+
+
+
+Durante este sprint, para proteger la rama “main” creamos una rama “develop” de la que cada integrante de nuestro grupo creó su propia sub-rama “feature” para subir un capítulo del reporte siguiendo las convenciones antes señaladas(conventional commit y git flow).
 
 
 
