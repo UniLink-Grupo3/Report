@@ -3616,18 +3616,64 @@ Vista del Sprint Backlog 2 en Trello:
     </table>
 
 
+#### 6.2.2.2. Sprint Backlog 1.
+
+
+
+
+#### 6.2.2.3. Development Evidence for Sprint Review. 
+
+
+
+
+#### 6.2.1.4. Testing Suite Evidence for Sprint Review. 
+
+
+
+
+
+#### 6.2.1.5. Execution Evidence for Sprint Review. 
+
+
+
+
+
+#### 6.2.1.6. Services Documentation Evidence for Sprint Review. 
+
+
+
+
+
+#### 6.2.1.7. Software Deployment Evidence for Sprint Review.
 
 
 
 
 
 
+#### 6.2.1.8. Team Collaboration Insights during Sprint.
 
 
 
 
 
+## 6.3. Validation Interviews
 
+### 6.3.1. Diseño de entrevistas
+
+En esta sección se 
+
+### 6.3.2. Registro de entrevistas
+
+En esta sección se 
+
+### 6.3.3. Evaluaciones según heurísticas
+
+En esta sección se 
+
+
+
+## 6.4. Video About-the-Product
 
 
 
