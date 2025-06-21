@@ -168,10 +168,10 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 <br>
 
 <p align="center">
-  <img align="center" src="assets/" style="width:320px; margin: 10px;">
-  <img align="center" src="assets/" style="width:320px; margin: 10px;">
+  <img align="center" src="assets/pulse.png" style="width:320px; margin: 10px;">
+  <img align="center" src="assets/pulse2.png" style="width:320px; margin: 10px;">
 </p>
-<p align="center"><em> Colaboradores del proyecto en GitHub (App móvil)</em></p>
+<p align="center"><em> Colaboradores del proyecto en GitHub (App móvil y documentación)</em></p>
 
 ---  
 
