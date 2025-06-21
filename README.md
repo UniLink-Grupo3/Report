@@ -3826,6 +3826,14 @@ En esta sección se
 
 ## 6.4. Video About-the-Product
 
+Video del About the Product en el flutter del segmento objetivo: Estudiante Universitario con vehiculo
+
+**Video :**  [https://youtu.be/yJnzieK0mB0](https://youtu.be/yJnzieK0mB0)
+
+<div style="text-align: center;">
+  <img src="./assets/capturas-flutter/about the product.png">
+</div>
+
 
 
 
