@@ -3672,9 +3672,12 @@ Muestra de nuestra API hecha con Spring Boot:
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review.
 
+El proyecto se trabajó en un repositorio dentro de nuestra organización:
+
+<img src="https://raw.githubusercontent.com/UniLink-Grupo3/Report/312d587669969068a316f7c4dbdd7cbedc4e84ac/assets/softw_deployment.jpg?raw=true" alt="" width="650px">
 
 
-
+Link: [https://github.com/orgs/UniLink-Grupo3/repositories](https://github.com/orgs/UniLink-Grupo3/repositories)
 
 
 #### 6.2.2.8. Team Collaboration Insights during Sprint.
