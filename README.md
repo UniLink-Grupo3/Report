@@ -76,7 +76,7 @@ Producto: RideUp
       </td>
     </tr>
     <tr>
-      <td>TB2</td>
+      <td>TP</td>
       <td>12/05/2025</td>
       <td>
         <ul>
@@ -90,6 +90,25 @@ Producto: RideUp
       <td>
         ● Capítulo V: Solution UI/UX Design<br>
         ● Capítulo VI: Product Implementation, Validation & Deployment<br>
+        ● Avance de Conclusiones, Bibliografía y Anexos
+      </td>
+    </tr>
+    <tr>
+      <td>TB2</td>
+      <td>20/06/2025</td>
+      <td>
+        <ul>
+            <li>Pilares Pocohuanca, Maria</li>
+            <li>Ramirez Ortega, Diego Miguel</li>
+            <li>Valera Garces, Samuel Ignacio</li>
+            <li>Belleza Tello, Paolo Eduardo</li>
+            <li>Fernandez Alva, Maria Fernanda</li>
+        </ul>
+      </td>
+      <td>
+        ● Capítulo VI: Product Implementation, Validation & Deployment - Sprint 2<br>
+        ● Validation Interviews<br>
+        ● About-the-Product<br>
         ● Avance de Conclusiones, Bibliografía y Anexos
       </td>
     </tr>
@@ -140,16 +159,19 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 </p>
 <p align="center"><em> Historial de commits en GitHub (lading Page - Backend - App móvil) </em></p>
 
----
+--- 
+
+**Entrega N°3: TB2**
+<br>
+- Todos los miembros del equipo contribuyeron en distintas partes del entregable. Por ejemplo, uno se encargaron de la documentación y el resto se centró en la implementación de las vistas de la aplicación móvil en flutter.
 
 <br>
 
 <p align="center">
-  <img align="center" src="assets/TP-evidence/contribuidores-landing.png" style="width:320px; margin: 10px;">
-  <img align="center" src="assets/TP-evidence/contributor-back.png" style="width:320px; margin: 10px;">
-  <img align="center" src="assets/TP-evidence/contributors-app.png" style="width:320px; margin: 10px;">
+  <img align="center" src="assets/" style="width:320px; margin: 10px;">
+  <img align="center" src="assets/" style="width:320px; margin: 10px;">
 </p>
-<p align="center"><em> Colaboradores del proyecto en GitHub (lading Page - Backend - App móvil)</em></p>
+<p align="center"><em> Colaboradores del proyecto en GitHub (App móvil)</em></p>
 
 ---  
 
@@ -164,13 +186,13 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   <tr>
     <td rowspan="5"><strong>Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software</strong></td>
     <td><strong>Fernandez Alva, Maria Fernanda</strong><br>
-    <strong>TB1:</strong> Durante el desarrollo del proyecto, reforcé conocimientos sobre Bounded Contexts y su importancia en la estructuración del sistema. Usé herramientas como Vertabelo y Structurizr para modelar los datos y la arquitectura.<br><strong>TP:</strong> Realicé la documentación del capitulo 6. También elabore la implementación del boton de cambio de idioma en el lading page y un poco de codificación en el backend.</td>
+    <strong>TB1:</strong> Durante el desarrollo del proyecto, reforcé conocimientos sobre Bounded Contexts y su importancia en la estructuración del sistema. Usé herramientas como Vertabelo y Structurizr para modelar los datos y la arquitectura.<br><strong>TP:</strong> Realicé la documentación del capitulo 6. También elabore la implementación del boton de cambio de idioma en el lading page y un poco de codificación en el backend.<br><strong>TB2:</strong> Realice las vistas de "Trip" en el flutter para el segmento objetivo de estudiante universitario con vehiculo</td>
     <td rowspan="5">
-    <strong>TB1:</strong>Como equipo, actualizamos y fortalecimos nuestros conocimientos usando herramientas como Uxpressia para user persona y journey mapping, Structurizr para el modelo C4, y análisis de la competencia. Estas herramientas nos ayudaron a diseñar una solución de software más completa y centrada en el usuario.<br><br><strong>TP:</strong> Como equipo, tuvimos que repasar y volver a ver las grabaciones de las clases del profesor, así como revisar su repositorio con los proyectos trabajados en clase. Sin estos recursos, habría sido muy difícil desarrollar el proyecto de forma individual.</td>
+    <strong>TB1:</strong>Como equipo, actualizamos y fortalecimos nuestros conocimientos usando herramientas como Uxpressia para user persona y journey mapping, Structurizr para el modelo C4, y análisis de la competencia. Estas herramientas nos ayudaron a diseñar una solución de software más completa y centrada en el usuario.<br><br><strong>TP:</strong> Como equipo, tuvimos que repasar y volver a ver las grabaciones de las clases del profesor, así como revisar su repositorio con los proyectos trabajados en clase. Sin estos recursos, habría sido muy difícil desarrollar el proyecto de forma individual.<br><br><strong>TB2:</strong> Como equipo, nos dividimos el trabajo con respecto a nuestras fortalezas, y logramos tener un avance para esta entrega, lo unico que nos falta como grupo es diseño.</td>
   </tr>
   <tr>
     <td><strong>Belleza Tello, Paolo Eduardp</strong><br>
-    <strong>TB1:</strong> Realicé uno de los principales Bounded Contexts del proyecto para entender el funcionamiento de una parte clave de la app. Utilicé StarUML para diagramas de clases y contenedores, y Structurizr para modelar en los niveles 2, 3 y 4 del modelo C4. Esto fortaleció mis conocimientos en modelado de software y estructura de sistemas complejos.<br><strong>TP:</strong> Realicé un poco de la documentacion del capitulo 6. Aborde el i18n en el index.html de la lading page haciendo las traducciones. Elabore la vista de busqueda de vehiculos en la app móvil y un poco de código al backend.</td>
+    <strong>TB1:</strong> Realicé uno de los principales Bounded Contexts del proyecto para entender el funcionamiento de una parte clave de la app. Utilicé StarUML para diagramas de clases y contenedores, y Structurizr para modelar en los niveles 2, 3 y 4 del modelo C4. Esto fortaleció mis conocimientos en modelado de software y estructura de sistemas complejos.<br><strong>TP:</strong> Realicé un poco de la documentacion del capitulo 6. Aborde el i18n en el index.html de la lading page haciendo las traducciones. Elabore la vista de busqueda de vehiculos en la app móvil y un poco de código al backend.<br><strong>TB2:</strong> Realice la vista de "Home" que a su vez , tiene otras dos vistas , una que es para iniciar viaje y otra es la solicitudes para el viaje.</td>
   </tr>
   <tr>
     <td><strong>Valera Garces, Samuel Ignacio</strong><br>
@@ -191,13 +213,14 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
   <tr>
     <td rowspan="5"><strong>Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.</strong></td>
     <td><strong>Fernandez Alva, Maria Fernanda</strong><br>
-    <strong>TB1:</strong> Para retomar el uso de estas herramientas, recurrí a videos de YouTube y documentación oficial. Apliqué estrategias de autoaprendizaje, como el estudio del modelo C4, para elaborar diagramas del sistema.<br><strong>TP:</strong> Para implementar el botón tuve que volver a estudiar como era el html como css con ayuda de videos y paginas web. Tambien tuve que buscar tutoriales para saber como desplegar la app móvil en Firebase.</td>
+    <strong>TB1:</strong> Para retomar el uso de estas herramientas, recurrí a videos de YouTube y documentación oficial. Apliqué estrategias de autoaprendizaje, como el estudio del modelo C4, para elaborar diagramas del sistema.<br><strong>TP:</strong> Para implementar el botón tuve que volver a estudiar como era el html como css con ayuda de videos y paginas web. Tambien tuve que buscar tutoriales para saber como desplegar la app móvil en Firebase.<br><strong>TB2:</strong> Para implementar las vista del trip, tenia que estudiar la interaccion con la vista home y la vista trip , para que pasaran los datos , lo cual se me dificulto.</td>
     <td rowspan="5">
-    <strong>TB1:</strong> El uso de nuevas metodologías y entrevistas a usuarios nos impulsó a investigar y aprender de forma continua. Este proceso nos permitió identificar necesidades reales y aplicar estrategias de aprendizaje colaborativo, reconociendo así el valor del aprendizaje permanente en nuestra formación profesional.<br><br><strong>TP:</strong> Usar Android Studio por primera vez, junto con su estructura para desarrollar un proyecto, fue un gran desafío. Sin embargo, nos motivó mucho descubrir cómo se crea una aplicación y cómo se trabaja con este nuevo lenguaje llamado Kotlin.</td>
+    <strong>TB1:</strong> El uso de nuevas metodologías y entrevistas a usuarios nos impulsó a investigar y aprender de forma continua. Este proceso nos permitió identificar necesidades reales y aplicar estrategias de aprendizaje colaborativo, reconociendo así el valor del aprendizaje permanente en nuestra formación profesional.<br><br><strong>TP:</strong> Usar Android Studio por primera vez, junto con su estructura para desarrollar un proyecto, fue un gran desafío. Sin embargo, nos motivó mucho descubrir cómo se crea una aplicación y cómo se trabaja con este nuevo lenguaje llamado Kotlin.
+    <br><br><strong>TB2:</strong> Usar Flutter por primera vez , fue mas sencillo entenderlo que android studio, Habia sus dificultades, pero se podia entender de mejor manera. Y elaboramos un buen armado de la aplicación móvil.</td>
   </tr>
   <tr>
     <td><strong>Belleza Tello, Paolo Eduardo</strong><br>
-    <strong>TB1:</strong> Para aplicar correctamente estas herramientas, consulté la documentación oficial del modelo C4 y videos de YouTube sobre el uso de StarUML. Este proceso me ayudó a comprender la necesidad del aprendizaje continuo. Gracias a ello, pude implementar estrategias de autoformación efectivas para mejorar mi desempeño.<br><strong>TP:</strong> Para la implementacion de las vistas en el android studio tuve que volver a revisar todas las grabaciones del profesor para poder guiarme. Especialmente el proyecto que el profesor hizo de "agenda compose" me ayudo muchisimo para la implementación</td>
+    <strong>TB1:</strong> Para aplicar correctamente estas herramientas, consulté la documentación oficial del modelo C4 y videos de YouTube sobre el uso de StarUML. Este proceso me ayudó a comprender la necesidad del aprendizaje continuo. Gracias a ello, pude implementar estrategias de autoformación efectivas para mejorar mi desempeño.<br><strong>TP:</strong> Para la implementacion de las vistas en el android studio tuve que volver a revisar todas las grabaciones del profesor para poder guiarme. Especialmente el proyecto que el profesor hizo de "agenda compose" me ayudo muchisimo para la implementación<br><strong>TB2:</strong> Para la implementacion de la vista Home , me costo cambiar de vista ya que en si esa vista no se cambiaba con un navegador , sino se cambiaba al tener ciertas restricciones para cambiar a otra vista sin cambiar la navegacion inicial.</td>
   </tr>
   <tr>
     <td><strong>Valera Garces, Samuel Ignacio</strong><br>
