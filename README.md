@@ -3754,10 +3754,10 @@ A continuación se presentan los detalles clave de las entrevistas realizadas a 
 |Edad| 24 |
 |Departamento| Lima |
 |Distrito| Los Olivos |
-|Minuto de inicio|00:00:18|
+|Minuto de inicio|00:00:04|
 |Duración|00:09:10|
 |Captura de la entrevista| ![estudiante universitario sin vehiculo - 1](/assets/entrevistas-finales/entrevista-dayana.png)|
-|Link de la entrevista|enlaceyt |
+|Link de la entrevista| (https://youtu.be/Bd_KN98lRBo)[https://youtu.be/Bd_KN98lRBo] |
 
 
 Resumen:<br>
@@ -3772,10 +3772,10 @@ La señorita Dayana nos comentó que la información de la landing page le parec
 |Edad| 24 |
 |Departamento| Lima |
 |Distrito| San Miguel |
-|Minuto de inicio|00:00:18|
+|Minuto de inicio|00:00:04|
 |Duración|00:07:05|
 |Captura de la entrevista|![estudiante universitario sin vehiculo - 2](/assets/entrevistas-finales/entrevista-gabriel.png)|
-|Link de la entrevista|enlaceyt |
+|Link de la entrevista| (https://youtu.be/sWxPumtGX8U)[https://youtu.be/sWxPumtGX8U] |
 
 
 Resumen:<br>
@@ -3795,7 +3795,7 @@ El joven Gabriel nos informó que la landing page le pareció en general clara, 
 |Minuto de inicio| 00:00:04|
 |Duración|00:08:13|
 |Captura de la entrevista|![estudiante universitario cpn vehiculo - 1](/assets/entrevistas-finales/entrevista-maria.png)|
-|Link de la entrevista|enlaceyt|
+|Link de la entrevista| (https://youtu.be/soC3err9U_4)[https://youtu.be/soC3err9U_4] |
 
 
 Resumen:<br>
