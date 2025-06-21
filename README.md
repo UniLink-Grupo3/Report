@@ -3805,18 +3805,17 @@ La señorita María nos comentó que la información en la landing page le parec
 
 | **Entrevista 2** ||
 |:-:|:-:|
-| Nombre | Fabian Rojas |
-|Edad| 19 |
+| Nombre | Fernanda Peña |
+|Edad| 22 |
 |Departamento| Lima |
-|Distrito| Lurigancho |
+|Distrito| Breña |
 |Minuto de inicio| 00:00:00 |
-|Duración|00:08:13|
-|Captura de la entrevista| ![Veterinario 2](Imagenes/Entrevistas2/veterinario2.png)|
-|Link de la entrevista| enlaceyt |
+|Duración|00:04:16|
+|Captura de la entrevista| <img src="https://raw.githubusercontent.com/UniLink-Grupo3/Report/f1bb762ce9fa9b94dbad8ef3a50a3cf4ed2dfe3a/assets/entrevistas-finales/entrev_univ4.jpg" alt="" width="650px">|
+|Link de la entrevista| https://youtu.be/KhHIxS04zio |
 
 
-Resumen:<br>
-
+---
 
 
 ### 6.3.3. Evaluaciones según heurísticas
