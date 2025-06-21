@@ -3619,6 +3619,92 @@ Vista del Sprint Backlog 2 en Trello:
 #### 6.2.2.2. Sprint Backlog 2.
 
 
+<table border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th style="text-align: center;"><b>Sprint #</b></th>
+    <th colspan="7" style="text-align: center;"><b>Sprint 2</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;"><b>User Story</b></td>
+    <td colspan="6" style="text-align: center;"><b>Work-item / Task</b></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><b>ID</b></td>
+    <td style="text-align: center;"><b>Title</b></td>
+    <td style="text-align: center;"><b>ID</b></td>
+    <td style="text-align: center;"><b>Title</b></td>
+    <td style="text-align: center;"><b>Description</b></td>
+    <td style="text-align: center;"><b>Estimation (hours)</b></td>
+    <td style="text-align: center;"><b>Assigned To</b></td>
+    <td style="text-align: center;"><b>Status</b></td>
+  </tr>
+
+<tr>
+  <td>US26</td>
+  <td>Navegación entre login y registro</td>
+  <td>T17</td>
+  <td>Navegación entre pantallas</td>
+  <td>Implementar la navegación entre la pantalla de inicio de sesión y la pantalla de registro</td>
+  <td style="text-align: center;">3h</td>
+  <td>Ramirez Ortega, Diego Miguel</td>
+  <td style="text-align: center;">To Do</td>
+</tr>
+
+<tr>
+  <td>US27</td>
+  <td>Actualización del logo</td>
+  <td>T18</td>
+  <td>Estética y branding</td>
+  <td>Agregar y mostrar el logo actualizado en la pantalla principal</td>
+  <td style="text-align: center;">2h</td>
+  <td>Pilares Pocohuanca, Maria</td>
+  <td style="text-align: center;">To Do</td>
+</tr>
+
+<tr>
+  <td>US28</td>
+  <td>Mejora de colores en barra de navegación</td>
+  <td>T19</td>
+  <td>UI/UX</td>
+  <td>Actualizar los colores de la barra de navegación en la página principal</td>
+  <td style="text-align: center;">2h</td>
+  <td>Valera Garcés, Samuel Ignacio</td>
+  <td style="text-align: center;">To Do</td>
+</tr>
+
+<tr>
+  <td>US29</td>
+  <td>Cambio de colores en el perfil</td>
+  <td>T20</td>
+  <td>UI/UX</td>
+  <td>Aplicar nuevos colores a la pantalla del perfil del usuario</td>
+  <td style="text-align: center;">2h</td>
+  <td>Fernandez Alva, Maria Fernanda</td>
+  <td style="text-align: center;">To Do</td>
+</tr>
+
+<tr>
+  <td>US30</td>
+  <td>Mostrar más datos en la tarjeta de viaje</td>
+  <td>T21</td>
+  <td>Funcionalidad del viaje</td>
+  <td>Mostrar información adicional en la tarjeta de viaje</td>
+  <td style="text-align: center;">4h</td>
+  <td>Belleza Tello, Paolo Eduardo</td>
+  <td style="text-align: center;">To Do</td>
+</tr>
+
+<tr>
+  <td>US31</td>
+  <td>Visualización de lista de pasajeros</td>
+  <td>T22</td>
+  <td>Funcionalidad del viaje</td>
+  <td>Mostrar al conductor la lista de pasajeros de un viaje</td>
+  <td style="text-align: center;">4h</td>
+  <td>Valera Garcés, Samuel Ignacio</td>
+  <td style="text-align: center;">To Do</td>
+</tr>
+
 
 
 #### 6.2.2.3. Development Evidence for Sprint Review. 
@@ -3683,7 +3769,15 @@ Muestra de nuestra API hecha con Spring Boot:
 #### 6.2.2.6. Services Documentation Evidence for Sprint Review. 
 
 
+---
 
+<img src="https://raw.githubusercontent.com/UniLink-Grupo3/Report/feature/chapter-VI/assets/backend/swagger.jpg?raw=true" alt="" width="650px">
+
+<img src="https://github.com/UniLink-Grupo3/Report/blob/feature/chapter-V/assets/backend/prueba%202.png?raw=true" alt="" width="650px">
+
+<img src="https://github.com/UniLink-Grupo3/Report/blob/feature/chapter-V/assets/backend/prueba%201.png?raw=true" alt="" width="650px">
+
+---
 
 
 #### 6.2.2.7. Software Deployment Evidence for Sprint Review.
