@@ -3834,7 +3834,13 @@ Video del About the Product en el flutter del segmento objetivo: Estudiante Univ
   <img src="./assets/capturas-flutter/about the product.png">
 </div>
 
+Video del About the Product en el Android del segmento objetivo: Estudiante Universitario sin vehiculo
 
+**Video :**  [https://youtu.be/-0lzqxT2WyA](https://youtu.be/-0lzqxT2WyA)
+
+<div style="text-align: center;">
+  <img src="./assets/capturas-flutter/about the product - android.png">
+</div>
 
 
 # Conclusiones
