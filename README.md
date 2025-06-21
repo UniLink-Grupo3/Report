@@ -3823,8 +3823,84 @@ La señorita María nos comentó que la información en la landing page le parec
 
 ### 6.3.3. Evaluaciones según heurísticas
 
-En esta sección se 
+<!--EDITANDO -->
 
+**TAREAS A EVALUAR:**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+#### Desktop landing page
+1. Información y descripción de la aplicación y sus funcionalidades.
+2. Información y breve descripción sobre el equipo de trabajo.
+3. Visualización de testimonios.
+4. Header y footer funcionales.
+
+#### Desktop Web Applications
+1. Registro de nuevo usuario.
+2. Inicio de sesión de usuario existente.
+3. Header y footer funcionales.
+4. Pestañas de navegación dentro de la aplicación.
+5. Botones interactivos y de uso intuitivo.
+6. Reservas.
+
+---
+
+#### App Web Applications
+1. Visualización de perfil de usuario.
+2. Funciones presentadas.
+3. Política de privacidad y condiciones de uso.
+
+---
+
+#### ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+---
+
+#### TABLA RESUMEN (Problemas):
+
+| #  | Problema                                                          | Escala de severidad | Heurística/Principio violado            |
+|----|-------------------------------------------------------------------|---------------------|-----------------------------------------|
+| 1  | El toolbar no sigue la normativa responsive                       | 1                   | IA - ¿Es fácil de encontrar?           |
+| 2  | En la webApp el icono de perfil de usuario no presenta ninguna vista | 1                   | Usabilidad - Consistencia y estándares |
+| 3  | Se presenta el sistema de chat de forma incompleta               | 2                   | Usabilidad - Consistencia y estándares |
+
+---
+
+#### **PROBLEMA #1:** El toolbar no sigue la normativa responsive
+
+- **Severidad:** 1
+- **Heurística violada:** IA - ¿Es fácil de encontrar?
+- **Descripción:** La barra de herramientas no se adapta adecuadamente en dispositivos móviles, dificultando el acceso a las opciones en pantallas más pequeñas.
+- **Recomendación:** Implementar estilos responsive en el toolbar para que se ajuste correctamente a dispositivos móviles. Utilizar técnicas de diseño adaptativo como media queries para garantizar que los elementos sean accesibles en cualquier tamaño de pantalla.
+
+---
+
+#### **PROBLEMA #2:** En la webApp el ícono de perfil de usuario no presenta ninguna vista
+
+- **Severidad:** 1
+- **Heurística violada:** Usabilidad - Consistencia y estándares
+- **Descripción:** Al hacer clic en el ícono de perfil, no se muestra ninguna vista relacionada con la cuenta del usuario, lo cual genera una experiencia inconsistente.
+- **Recomendación:** Vincular el ícono de perfil a una página o vista que permita al usuario acceder a sus detalles de cuenta, configuración de perfil o historial, ofreciendo una experiencia consistente con lo que el usuario espera encontrar al hacer clic en su perfil.
+
+---
+
+#### **PROBLEMA #3:** Se presenta el sistema de chat de forma incompleta
+
+- **Severidad:** 2
+- **Heurística violada:** Usabilidad - Consistencia y estándares
+- **Descripción:** El sistema de chat se muestra en una forma incompleta, lo que impide a los usuarios interactuar adecuadamente y genera frustración.
+- **Recomendación:** Asegurarse de que el sistema de chat esté completamente operativo antes de ser presentado a los usuarios. Esto incluye verificar la interfaz, la capacidad de enviar mensajes y la funcionalidad de respuestas automáticas si las hay.
+
+ 
+<!--EDITANDO -->
 
 
 ## 6.4. Video About-the-Product
