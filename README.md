@@ -3756,6 +3756,488 @@ A continuación, se mostrarán las capturas de participación:
     <img src="./assets/aplicacion-móvil/contributors-app.png" style="width:320px; margin: 10px;">
 </div><br>
 
+
+### 6.2.2. Sprint 2
+
+En esta sección se registra y explica el avance en términos de producto y trabajo colaborativo para el **Sprint 2**, enfocado en el desarrollo en Flutter junto con el frontend y backend. Se detalla el progreso tangible y funcional, incluyendo su diseño, desarrollo y funcionalidades implementadas, así como la colaboración del equipo, los métodos de comunicación utilizados y las herramientas empleadas para garantizar una cooperación efectiva.
+
+
+#### 6.2.2.1. Sprint Planning 2
+
+En esta parte mostramos las tareas que se realizaron en este sprint.
+
+Link del Trello: [Ir a Trello](https://trello.com/invite/b/682137d6cc19197ed3a8ed8c/ATTI9ddb4fdb698689e540dc94e77ea61eb2860AC9B6/unilink)
+
+Vista del Sprint Backlog 2 en Trello:
+
+<div align="center">
+  <img align="center" src="./assets/GitHub-Page/UniLink _ Trello.png">
+</div><br><br>
+
+
+<table border="1px" align="center">
+      <tr>
+          <th style="font-weight: bold;" >Sprint #</th>
+          <th style="font-weight: bold;" >Sprint 2</th>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Planning Background</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Date</td>
+          <td>16-06-2025</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Time</td>
+          <td>5:00 pm - 10:00 pm</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Location</td>
+          <td>Canal de Voz de Discord</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prepared By</td>
+          <td>Ramirez Ortega, Diego Miguel</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Attendees (to planning meeting)</td>
+          <td>
+              Belleza Tello, Paolo Eduardo<br>
+              Fernandez Alva, María Fernanda<br>
+              Valera Garces, Samuel Ignacio<br>
+              Ramirez Ortega, Diego Miguel<br>
+              Pilares Pocohuanca, Maria<br>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 0 Review Summary</td>
+          <td>Al ser nuestro segundo sprint de desarrollo, contamos con un review summary del sprint.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 0 Retrospective Summary</td>
+          <td>Al ser nuestro segundo sprint de desarrollo, se presentan planes de mejora.</td>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Goal & User Stories</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 2 Goal</td>
+          <td>
+              El objetivo principal de este sprint es desarrollo en Flutter y despliegue del Backend de la aplicación móvil RideUp (para ambos segmentos), enfocándonos en la estructura inicial, la conexión y la presentación básica de funcionalidades clave.
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 2 Velocity</td>
+          <td>8</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sum of Story Points</td>
+          <td>35</td>
+      </tr>
+    </table>
+
+
+#### 6.2.2.2. Sprint Backlog 2.
+
+
+<table border="1" cellspacing="0" cellpadding="4">
+  <tr>
+    <th style="text-align: center;"><b>Sprint #</b></th>
+    <th colspan="7" style="text-align: center;"><b>Sprint 2</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;"><b>User Story</b></td>
+    <td colspan="6" style="text-align: center;"><b>Work-item / Task</b></td>
+  </tr>
+  <tr>
+    <td style="text-align: center;"><b>ID</b></td>
+    <td style="text-align: center;"><b>Title</b></td>
+    <td style="text-align: center;"><b>ID</b></td>
+    <td style="text-align: center;"><b>Title</b></td>
+    <td style="text-align: center;"><b>Description</b></td>
+    <td style="text-align: center;"><b>Estimation (hours)</b></td>
+    <td style="text-align: center;"><b>Assigned To</b></td>
+    <td style="text-align: center;"><b>Status</b></td>
+  </tr>
+
+<tr>
+  <td>US26</td>
+  <td>Navegación entre login y registro</td>
+  <td>T17</td>
+  <td>Navegación entre pantallas</td>
+  <td>Implementar la navegación entre la pantalla de inicio de sesión y la pantalla de registro</td>
+  <td style="text-align: center;">3h</td>
+  <td>Ramirez Ortega, Diego Miguel</td>
+  <td style="text-align: center;">To Do</td>
+</tr>
+
+<tr>
+  <td>US27</td>
+  <td>Actualización del logo</td>
+  <td>T18</td>
+  <td>Estética y branding</td>
+  <td>Agregar y mostrar el logo actualizado en la pantalla principal</td>
+  <td style="text-align: center;">2h</td>
+  <td>Pilares Pocohuanca, Maria</td>
+  <td style="text-align: center;">To Do</td>
+</tr>
+
+<tr>
+  <td>US28</td>
+  <td>Mejora de colores en barra de navegación</td>
+  <td>T19</td>
+  <td>UI/UX</td>
+  <td>Actualizar los colores de la barra de navegación en la página principal</td>
+  <td style="text-align: center;">2h</td>
+  <td>Valera Garcés, Samuel Ignacio</td>
+  <td style="text-align: center;">To Do</td>
+</tr>
+
+<tr>
+  <td>US29</td>
+  <td>Cambio de colores en el perfil</td>
+  <td>T20</td>
+  <td>UI/UX</td>
+  <td>Aplicar nuevos colores a la pantalla del perfil del usuario</td>
+  <td style="text-align: center;">2h</td>
+  <td>Fernandez Alva, Maria Fernanda</td>
+  <td style="text-align: center;">To Do</td>
+</tr>
+
+<tr>
+  <td>US30</td>
+  <td>Mostrar más datos en la tarjeta de viaje</td>
+  <td>T21</td>
+  <td>Funcionalidad del viaje</td>
+  <td>Mostrar información adicional en la tarjeta de viaje</td>
+  <td style="text-align: center;">4h</td>
+  <td>Belleza Tello, Paolo Eduardo</td>
+  <td style="text-align: center;">To Do</td>
+</tr>
+
+<tr>
+  <td>US31</td>
+  <td>Visualización de lista de pasajeros</td>
+  <td>T22</td>
+  <td>Funcionalidad del viaje</td>
+  <td>Mostrar al conductor la lista de pasajeros de un viaje</td>
+  <td style="text-align: center;">4h</td>
+  <td>Valera Garcés, Samuel Ignacio</td>
+  <td style="text-align: center;">To Do</td>
+</tr>
+
+
+
+#### 6.2.2.3. Development Evidence for Sprint Review. 
+
+| Repository                                | Branch  | Commit id | Commit Message                                         | Commit Message Body | Committed On (Date) |
+|-------------------------------------------|---------|------------|--------------------------------------------------------|---------------------|----------------------|
+| UniLink/App-Mobile-Flutter                | develop | 5776d11    | Merge pull request #4 from UniLink-Grupo3/develop      | -                   | 21/06/2025           |
+| UniLink/App-Mobile-Flutter                | develop | 719b854    | Merge branch 'develop' of https://github.com/...      | -                   | 21/06/2025           |
+| UniLink/App-Mobile-Flutter                | develop | a84e093    | feat: add new data to trip card                        | -                   | 21/06/2025           |
+| UniLink/App-Mobile-Flutter                | develop | b5fea32    | fix: color of bottom profile                           | -                   | 21/06/2025           |
+| UniLink/App-Mobile-Flutter                | develop | 4b9e393    | feat: update passenger list display                    | -                   | 21/06/2025           |
+| UniLink/App-Mobile-Flutter                | develop | fa05b0b    | feat: Added register page button navigation            | -                   | 21/06/2025           |
+| UniLink/App-Mobile-Flutter                | develop | 61d7331    | Feat: Added navigation to login page buttons           | -                   | 21/06/2025           |
+| UniLink/App-Mobile-Flutter                | develop | b447550    | style: update logo in main page                        | -                   | 21/06/2025           |
+| UniLink/App-Mobile-Flutter                | develop | 5b8028d    | chore: add logo image to assets                        | -                   | 21/06/2025           |
+| UniLink/App-Mobile-Flutter                | develop | c23433e    | style: update colors in profile page                   | -                   | 21/06/2025           |
+| UniLink/App-Mobile-Flutter                | develop | f953972    | style: Update colors on the main page navigation bar   | -                   | 21/06/2025           |
+
+
+
+#### 6.2.2.4. Testing Suite Evidence for Sprint Review. 
+
+Dado que estamos en la fase de diseño del prototipo de la aplicación web, aún no es posible llevar a cabo pruebas exhaustivas. Sin embargo, estamos evaluando diversas herramientas y metodologías para garantizar que, una vez implementada, nuestra aplicación web sea robusta y libre de errores.
+
+
+#### 6.2.2.5. Execution Evidence for Sprint Review. 
+
+<!--EDITANDO -->
+En este sprint, logramos como tercera fase de nuestro producto final, desarrollar la API hecha con Java en Spring Boot.
+Muestra de nuestra API hecha con Spring Boot:
+
+<img src="https://github.com/UniLink-Grupo3/Report/blob/feature/chapter-VI/assets/capturas-flutter/login_flu.png?raw=true" alt="" width="650px">
+
+
+---
+
+
+<img src="https://github.com/UniLink-Grupo3/Report/blob/feature/chapter-VI/assets/capturas-flutter/register_flu.png?raw=true" alt="" width="650px">
+
+
+---
+
+
+<img src="https://github.com/UniLink-Grupo3/Report/blob/feature/chapter-VI/assets/capturas-flutter/home-vista-inicio.png?raw=true" alt="" width="650px">
+
+
+---
+
+<img src="https://github.com/UniLink-Grupo3/Report/blob/feature/chapter-VI/assets/capturas-flutter/home-vista-solicitudes.png?raw=true" alt="" width="650px">
+
+
+---
+
+
+<img src="https://github.com/UniLink-Grupo3/Report/blob/feature/chapter-VI/assets/capturas-flutter/trip-vista-solicitudes-aceptadas.png?raw=true" alt="" width="650px">
+
+
+---
+
+
+
+#### 6.2.2.6. Services Documentation Evidence for Sprint Review. 
+
+
+---
+
+<img src="https://raw.githubusercontent.com/UniLink-Grupo3/Report/feature/chapter-VI/assets/backend/swagger.jpg?raw=true" alt="" width="650px">
+
+<img src="https://github.com/UniLink-Grupo3/Report/blob/feature/chapter-V/assets/backend/prueba%202.png?raw=true" alt="" width="650px">
+
+<img src="https://github.com/UniLink-Grupo3/Report/blob/feature/chapter-V/assets/backend/prueba%201.png?raw=true" alt="" width="650px">
+
+---
+
+
+#### 6.2.2.7. Software Deployment Evidence for Sprint Review.
+
+El proyecto se trabajó en un repositorio dentro de nuestra organización:
+
+<img src="https://raw.githubusercontent.com/UniLink-Grupo3/Report/312d587669969068a316f7c4dbdd7cbedc4e84ac/assets/softw_deployment.jpg?raw=true" alt="" width="650px">
+
+
+Link: [https://github.com/orgs/UniLink-Grupo3/repositories](https://github.com/orgs/UniLink-Grupo3/repositories)
+
+
+#### 6.2.2.8. Team Collaboration Insights during Sprint.
+
+
+<!--EDITANDO -->
+
+**Distribución de aportes en el informe:**
+
+**URL del repositorio para el Project Report en la organización de GitHub del equipo:** [https://github.com/UniLink-Grupo3/Report](https://github.com/UniLink-Grupo3/Report)
+
+**¿Cómo se han desarrollado las actividades de elaboración del informe?**
+
+Para el desarrollo del informe en este sprint, optamos por dividirnos el capítulo de la siguiente manera:
+
+| Integrante  | Aporte en el informe                                                                                                                                                       |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  Diego  | Sprint 3, Development Evidence for Sprint Review, Validation Interviews.                                                                                           |
+| Paolo     | Sprint planning 3, Deployment Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
+| Maria Fernanda   | Sprint 3, Development Evidence for Sprint Review, Validation Interviews, Mejora continua en Domain Driven Design Architecture, Heuristics evaluation.              |
+| Samuel  | Validation Interviews, Development Evidence for Sprint Review.                                                                                                      |
+| Maria    | Sprint 3, Validation Interviews, Video About-the-product.                                                                                                           |
+
+
+
+Durante este sprint, para proteger la rama “main” creamos una rama “develop” de la que cada integrante de nuestro grupo creó su propia sub-rama “feature” para subir un capítulo del reporte siguiendo las convenciones antes señaladas(conventional commit y git flow).
+
+
+
+## 6.3. Validation Interviews
+
+En esta sección se presenta a detalle las entrevistas de validación de producto realizadas.
+
+### 6.3.1. Diseño de entrevistas
+
+Para el diseño de entrevistas se consideraron los siguientes aspectos:
+
+**LANDING PAGE**
+- ¿La información que se muestra en la landing page es clara y fácil de entender?
+- ¿Sientes que la landing page transmite confianza en el servicio
+- ¿Qué mejorarías en el contenido o diseño para que te motive a registrarte?
+- ¿Qué información adicional te gustaría ver antes de usar la app?
+
+
+---
+
+
+**ESTUDIANTE UNIVERSITARIO SIN VEHICULO**
+- ¿Cómo fue tu experiencia al explorar los vehículos disponibles desde tu ubicación?
+- ¿La información del conductor, destino y precio fue suficiente para tomar una decisión?
+- ¿El proceso para enviar una solicitud te pareció claro y sencillo?
+- ¿Qué te pareció la sección donde puedes ver si tu solicitud fue aceptada?
+- ¿Cómo te sentirías al tener que pagar el viaje desde la app al final del trayecto?
+- ¿Te inspiró confianza el sistema para elegir con quién viajar?
+
+
+---
+
+
+**ESTUDIANTE UNIVERSITARIO CON VEHICULO**
+- ¿El proceso para indicar tu destino e iniciar viaje fue intuitivo?
+- ¿Qué opinas de la forma en que se muestran las solicitudes de pasajeros?
+- ¿La información del estudiante que solicita el viaje te pareció suficiente para aceptarlo?
+- ¿Te parece útil que las solicitudes aceptadas se guarden en otro apartado?
+- ¿El botón de detenerse fue fácil de entender y útil cuando ya no podías recibir más pasajeros?
+- ¿Qué mejorarías en la experiencia general como conductor dentro de la app?
+
+
+### 6.3.2. Registro de entrevistas
+
+A continuación se presentan los detalles clave de las entrevistas realizadas a los usuarios del primer segmento:
+<p align="center"><strong>Segmento Estudiantes Universitarios</strong></p>
+
+| **Entrevista 1** ||
+|:-:|:-:|
+| Nombre | Dayana Andrea Fernandez Ala |
+|Edad| 24 |
+|Departamento| Lima |
+|Distrito| Los Olivos |
+|Minuto de inicio|00:00:04|
+|Duración|00:09:10|
+|Captura de la entrevista| ![estudiante universitario sin vehiculo - 1](/assets/entrevistas-finales/entrevista-dayana.png)|
+|Link de la entrevista| (https://youtu.be/Bd_KN98lRBo)[https://youtu.be/Bd_KN98lRBo] |
+
+
+Resumen:<br>
+La señorita Dayana nos comentó que la información de la landing page le pareció clara y fácil de entender, destacando el paso a paso para ambos tipos de usuarios. Le transmitió confianza gracias al diseño profesional y los testimonios, aunque sugirió incluir validaciones de seguridad y alianzas. Recomendó añadir un video explicativo y resaltar mejor los beneficios. Al usar la app, valoró que los vehículos estuvieran cerca y el proceso fuera sencillo, aunque le gustaría ver reseñas de los conductores y recibir notificaciones cuando aceptan su solicitud. También mencionó que el sistema de pago le parece práctico, pero preferiría tener opciones como Yape o efectivo. Finalmente, señaló que se sentiría más segura si pudiera ver calificaciones o validaciones del conductor.
+
+---
+
+
+| **Entrevista 2** ||
+|:-:|:-:|
+| Nombre | Gabriel Alexander Fernandez Guevara |
+|Edad| 24 |
+|Departamento| Lima |
+|Distrito| San Miguel |
+|Minuto de inicio|00:00:04|
+|Duración|00:07:05|
+|Captura de la entrevista|![estudiante universitario sin vehiculo - 2](/assets/entrevistas-finales/entrevista-gabriel.png)|
+|Link de la entrevista| (https://youtu.be/sWxPumtGX8U)[https://youtu.be/sWxPumtGX8U] |
+
+
+Resumen:<br>
+El joven Gabriel nos informó que la landing page le pareció en general clara, pero sugirió mejorar la organización del contenido para que sea más comprensible, especialmente para usuarios sin vehículo. Comentó que el diseño es moderno, aunque le gustaría ver validaciones oficiales o alianzas con universidades para generar más confianza. Propuso agregar testimonios reales de estudiantes con foto y carrera, y hacer más visible el botón de registro. Al usar la app, destacó que la carga fue rápida y pudo ver fácilmente autos cercanos, pero recomendó incluir datos como el número de viajes del conductor y comentarios. El proceso para enviar la solicitud le pareció muy fácil, aunque la sección de respuesta le resultó algo vacía. Sobre el pago, lo consideró cómodo, pero sugirió la opción de dividir el costo y confirmar el precio antes de iniciar el viaje. Finalmente, indicó que el sistema para elegir conductor le inspira confianza a medias, y que ayudaría ver más información académica del chofer.
+
+---
+
+
+<p align="center"><strong>Segmento Estudiantes universitarios propietarios de vehículos privados</strong></p>
+
+| **Entrevista 1** ||
+|:-:|:-:|
+| Nombre | Maria Yesenia Alva Leyva |
+|Edad| 32 |
+|Departamento| Lima |
+|Distrito| Los Olivos |
+|Minuto de inicio| 00:00:04|
+|Duración|00:08:13|
+|Captura de la entrevista|![estudiante universitario cpn vehiculo - 1](/assets/entrevistas-finales/entrevista-maria.png)|
+|Link de la entrevista| (https://youtu.be/soC3err9U_4)[https://youtu.be/soC3err9U_4] |
+
+
+Resumen:<br>
+La señorita María nos comentó que la información en la landing page le pareció clara, especialmente al explicar el propósito de RideUp y la división entre tipos de usuarios. Sin embargo, indicó que sería importante reforzar la confianza mostrando más validaciones o garantías para los conductores. Sugirió incluir ejemplos de cuánto se puede ganar por trayecto para motivar el registro. También expresó interés en ver filtros o calificaciones para los pasajeros. Sobre el uso de la app, señaló que indicar el destino fue muy sencillo y que las solicitudes de pasajeros estaban bien organizadas, con información útil para planear la ruta. Valoró poder ver a quién ya aceptó y que el botón para detener solicitudes funcionara correctamente. Finalmente, propuso mejorar la experiencia del conductor añadiendo un mapa con las ubicaciones de los pasajeros aceptados y permitir volver a iniciar viajes tras borrar los anteriores.
+
+---
+
+| **Entrevista 2** ||
+|:-:|:-:|
+| Nombre | Fernanda Peña |
+|Edad| 22 |
+|Departamento| Lima |
+|Distrito| Breña |
+|Minuto de inicio| 00:00:00 |
+|Duración|00:04:16|
+|Captura de la entrevista| <img src="https://raw.githubusercontent.com/UniLink-Grupo3/Report/f1bb762ce9fa9b94dbad8ef3a50a3cf4ed2dfe3a/assets/entrevistas-finales/entrev_univ4.jpg" alt="" width="650px">|
+|Link de la entrevista| https://youtu.be/KhHIxS04zio |
+
+
+---
+
+
+### 6.3.3. Evaluaciones según heurísticas
+
+<!--EDITANDO -->
+
+**TAREAS A EVALUAR:**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+
+#### App Web Applications
+1. Visualización de perfil de usuario.
+2. Funciones presentadas.
+3. Política de privacidad y condiciones de uso.
+
+---
+
+#### ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+---
+
+#### TABLA RESUMEN (Problemas):
+
+| #  | Problema                                                          | Escala de severidad | Heurística/Principio violado            |
+|----|-------------------------------------------------------------------|---------------------|-----------------------------------------|
+| 1  | El toolbar no sigue la normativa responsive                       | 1                   | IA - ¿Es fácil de encontrar?           |
+| 2  | En la webApp el icono de perfil de usuario no presenta ninguna vista | 1                   | Usabilidad - Consistencia y estándares |
+| 3  | Se presenta el sistema de chat de forma incompleta               | 2                   | Usabilidad - Consistencia y estándares |
+
+---
+
+#### **PROBLEMA #1:** El toolbar no sigue la normativa responsive
+
+- **Severidad:** 1
+- **Heurística violada:** IA - ¿Es fácil de encontrar?
+- **Descripción:** La barra de herramientas no se adapta adecuadamente en dispositivos móviles, dificultando el acceso a las opciones en pantallas más pequeñas.
+- **Recomendación:** Implementar estilos responsive en el toolbar para que se ajuste correctamente a dispositivos móviles. Utilizar técnicas de diseño adaptativo como media queries para garantizar que los elementos sean accesibles en cualquier tamaño de pantalla.
+
+---
+
+#### **PROBLEMA #2:** En la webApp el ícono de perfil de usuario no presenta ninguna vista
+
+- **Severidad:** 1
+- **Heurística violada:** Usabilidad - Consistencia y estándares
+- **Descripción:** Al hacer clic en el ícono de perfil, no se muestra ninguna vista relacionada con la cuenta del usuario, lo cual genera una experiencia inconsistente.
+- **Recomendación:** Vincular el ícono de perfil a una página o vista que permita al usuario acceder a sus detalles de cuenta, configuración de perfil o historial, ofreciendo una experiencia consistente con lo que el usuario espera encontrar al hacer clic en su perfil.
+
+---
+
+#### **PROBLEMA #3:** Se presenta el sistema de chat de forma incompleta
+
+- **Severidad:** 2
+- **Heurística violada:** Usabilidad - Consistencia y estándares
+- **Descripción:** El sistema de chat se muestra en una forma incompleta, lo que impide a los usuarios interactuar adecuadamente y genera frustración.
+- **Recomendación:** Asegurarse de que el sistema de chat esté completamente operativo antes de ser presentado a los usuarios. Esto incluye verificar la interfaz, la capacidad de enviar mensajes y la funcionalidad de respuestas automáticas si las hay.
+
+ 
+<!--EDITANDO -->
+
+
+## 6.4. Video About-the-Product
+
+Video del About the Product en el flutter del segmento objetivo: Estudiante Universitario con vehiculo
+
+**Video :**  [https://youtu.be/yJnzieK0mB0](https://youtu.be/yJnzieK0mB0)
+
+<div style="text-align: center;">
+  <img src="./assets/capturas-flutter/about the product.png">
+</div>
+
+Video del About the Product en el Android del segmento objetivo: Estudiante Universitario sin vehiculo
+
+**Video :**  [https://youtu.be/-0lzqxT2WyA](https://youtu.be/-0lzqxT2WyA)
+
+<div style="text-align: center;">
+  <img src="./assets/capturas-flutter/about the product - android.png">
+</div>
+
+
 # Conclusiones
 Para asegurar el éxito en el desarrollo del proyecto, es fundamental que todos los integrantes del equipo participen activamente y colaboren de manera equitativa, permitiendo así un avance eficiente hacia los objetivos del trabajo como del curso. La correcta elaboración de User Stories , del Product Backlog junto con las entrevistas nos permitirá comprender con claridad qué características y funcionalidades debe incluir la app para ser realmente útil y práctica para los usuarios.
 
