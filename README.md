@@ -3623,6 +3623,22 @@ Vista del Sprint Backlog 2 en Trello:
 
 #### 6.2.2.3. Development Evidence for Sprint Review. 
 
+| Repository                                | Branch  | Commit id | Commit Message                                         | Commit Message Body | Committed On (Date) |
+|-------------------------------------------|---------|------------|--------------------------------------------------------|---------------------|----------------------|
+| UniLink/App-Mobile-Flutter                | develop | 5776d11    | Merge pull request #4 from UniLink-Grupo3/develop      | -                   | 21/06/2025           |
+| UniLink/App-Mobile-Flutter                | develop | 719b854    | Merge branch 'develop' of https://github.com/...      | -                   | 21/06/2025           |
+| UniLink/App-Mobile-Flutter                | develop | a84e093    | feat: add new data to trip card                        | -                   | 21/06/2025           |
+| UniLink/App-Mobile-Flutter                | develop | b5fea32    | fix: color of bottom profile                           | -                   | 21/06/2025           |
+| UniLink/App-Mobile-Flutter                | develop | 4b9e393    | feat: update passenger list display                    | -                   | 21/06/2025           |
+| UniLink/App-Mobile-Flutter                | develop | fa05b0b    | feat: Added register page button navigation            | -                   | 21/06/2025           |
+| UniLink/App-Mobile-Flutter                | develop | 61d7331    | Feat: Added navigation to login page buttons           | -                   | 21/06/2025           |
+| UniLink/App-Mobile-Flutter                | develop | b447550    | style: update logo in main page                        | -                   | 21/06/2025           |
+| UniLink/App-Mobile-Flutter                | develop | 5b8028d    | chore: add logo image to assets                        | -                   | 21/06/2025           |
+| UniLink/App-Mobile-Flutter                | develop | c23433e    | style: update colors in profile page                   | -                   | 21/06/2025           |
+| UniLink/App-Mobile-Flutter                | develop | f953972    | style: Update colors on the main page navigation bar   | -                   | 21/06/2025           |
+
+
+
 #### 6.2.2.4. Testing Suite Evidence for Sprint Review. 
 
 Dado que estamos en la fase de diseño del prototipo de la aplicación web, aún no es posible llevar a cabo pruebas exhaustivas. Sin embargo, estamos evaluando diversas herramientas y metodologías para garantizar que, una vez implementada, nuestra aplicación web sea robusta y libre de errores.
@@ -3829,21 +3845,6 @@ La señorita María nos comentó que la información en la landing page le parec
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-#### Desktop landing page
-1. Información y descripción de la aplicación y sus funcionalidades.
-2. Información y breve descripción sobre el equipo de trabajo.
-3. Visualización de testimonios.
-4. Header y footer funcionales.
-
-#### Desktop Web Applications
-1. Registro de nuevo usuario.
-2. Inicio de sesión de usuario existente.
-3. Header y footer funcionales.
-4. Pestañas de navegación dentro de la aplicación.
-5. Botones interactivos y de uso intuitivo.
-6. Reservas.
-
----
 
 #### App Web Applications
 1. Visualización de perfil de usuario.
