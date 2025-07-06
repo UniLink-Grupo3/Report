@@ -3803,11 +3803,11 @@ Para el desarrollo del informe en este sprint, optamos por dividirnos el capítu
 
 | Integrante  | Aporte en el informe                                                                                                                                                       |
 |-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  Diego  | Sprint 3, Development Evidence for Sprint Review, Validation Interviews.                                                                                           |
-| Paolo     | Sprint planning 3, Deployment Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
-| Maria Fernanda   | Sprint 3, Development Evidence for Sprint Review, Validation Interviews, Mejora continua en Domain Driven Design Architecture, Heuristics evaluation.              |
+|  Diego  | Sprint 2, Development Evidence for Sprint Review, Validation Interviews.                                                                                           |
+| Paolo     | Sprint planning 2, Deployment Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
+| Maria Fernanda   | Sprint 2, Development Evidence for Sprint Review, Validation Interviews, Mejora continua en Domain Driven Design Architecture, Heuristics evaluation.              |
 | Samuel  | Validation Interviews, Development Evidence for Sprint Review.                                                                                                      |
-| Maria    | Sprint 3, Validation Interviews, Video About-the-product.                                                                                                           |
+| Maria    | Sprint 2, Validation Interviews, Video About-the-product.                                                                                                           |
 
 
 
