@@ -3793,8 +3793,6 @@ Link: [https://github.com/orgs/UniLink-Grupo3/repositories](https://github.com/o
 #### 6.2.2.8. Team Collaboration Insights during Sprint.
 
 
-<!--EDITANDO -->
-
 **Distribución de aportes en el informe:**
 
 **URL del repositorio para el Project Report en la organización de GitHub del equipo:** [https://github.com/UniLink-Grupo3/Report](https://github.com/UniLink-Grupo3/Report)
@@ -3826,6 +3824,74 @@ Durante este sprint, para proteger la rama “main” creamos una rama “develo
 En esta sección profundizamos en las funcionalidades de valor añadido de RideUp: mensajería en tiempo real, sistema de calificaciones, viajes recurrentes y notificaciones push. A continuación se describen los artefactos y evidencias generadas.
 
 
+
+#### 6.2.3.1. Sprint Planning 3
+
+En esta parte mostramos las tareas que se realizaron en este sprint.
+
+Link del Trello: [Ir a Trello](https://trello.com/invite/b/682137d6cc19197ed3a8ed8c/ATTI9ddb4fdb698689e540dc94e77ea61eb2860AC9B6/unilink)
+
+
+<table border="1px" align="center">
+      <tr>
+          <th style="font-weight: bold;" >Sprint #</th>
+          <th style="font-weight: bold;" >Sprint 3</th>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Planning Background</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Date</td>
+          <td>23-06-2025</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Time</td>
+          <td>5:00 pm - 10:00 pm</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Location</td>
+          <td>Canal de Voz de Discord</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prepared By</td>
+          <td>Ramirez Ortega, Diego Miguel</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Attendees (to planning meeting)</td>
+          <td>
+              Belleza Tello, Paolo Eduardo<br>
+              Fernandez Alva, María Fernanda<br>
+              Valera Garces, Samuel Ignacio<br>
+              Ramirez Ortega, Diego Miguel<br>
+              Pilares Pocohuanca, Maria<br>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 2 Review Summary</td>
+          <td>Al ser nuestro segundo sprint de desarrollo, contamos con un review summary del sprint.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 2 Retrospective Summary</td>
+          <td>Al ser nuestro segundo sprint de desarrollo, se presentan planes de mejora.</td>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Goal & User Stories</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 3 Goal</td>
+          <td>
+              El objetivo principal de este sprint es implementar chat in-app para conductor–pasajero, diseñar e integrar módulo de calificaciones y comentarios, habilitar la creación y gestión de viajes recurrentes (“Viaje Favorito”), configurar notificaciones push para eventos clave (confirmación de reserva, llegada, recordatorios).
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 3 Velocity</td>
+          <td>28</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sum of Story Points</td>
+          <td>35</td>
+      </tr>
+    </table>
 
 
 
