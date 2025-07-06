@@ -3868,11 +3868,11 @@ Link del Trello: [Ir a Trello](https://trello.com/invite/b/682137d6cc19197ed3a8e
       </tr>
       <tr>
           <td style="font-weight: bold;">Sprint 2 Review Summary</td>
-          <td>Al ser nuestro segundo sprint de desarrollo, contamos con un review summary del sprint.</td>
+          <td>Al ser nuestro tercer sprint de desarrollo, contamos con un review summary del sprint.</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Sprint 2 Retrospective Summary</td>
-          <td>Al ser nuestro segundo sprint de desarrollo, se presentan planes de mejora.</td>
+          <td>Al ser nuestro tercer sprint de desarrollo, se presentan planes de mejora.</td>
       </tr>
       <tr> 
           <td colspan="2" style="font-weight: bold;">Sprint Goal & User Stories</td>
@@ -3894,7 +3894,21 @@ Link del Trello: [Ir a Trello](https://trello.com/invite/b/682137d6cc19197ed3a8e
     </table>
 
 
+---
 
+#### 6.2.3.2. Sprint Backlog 3.
+
+
+
+| ID   | Historia de Usuario                                                         | Tareas principales                                                              | Est. (pts) |
+| ---- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------- |
+| HU23 | Como pasajero quiero chatear con el conductor antes del viaje               | – Diseño UI chat<br>– API WebSocket<br>– Componente UI en Flutter/Kotlin        | 8          |
+| HU24 | Como usuario quiero dejar calificación tras el viaje                        | – Modelo Rating<br>– Endpoint POST/GET<br>– Pantalla feedback                   | 5          |
+| HU25 | Como conductor quiero definir viajes recurrentes                            | – Lógica recurrencia (cron-like)<br>– UI selección días y horarios              | 8          |
+| HU26 | Como usuario quiero recibir notificaciones push de eventos importantes      | – Configurar Firebase Cloud Messaging<br>– Integrar en clientes Android/Flutter | 5          |
+| T27  | Refactor de servicios de reserva para soportar nuevas rutas de notificación | – Modularizar capa NotificationService                                          | 3          |
+| T28  | Documentación de APIs y nuevos microservicios                               | – Swagger/OpenAPI<br>– Actualizar README y portal de Docs                       | 3          |
+| T29  | Actualizar suite de pruebas para cubrir nuevos casos de uso                 | – Unit tests, integración y pruebas UI<br>– Mock de WebSocket                   | 5          |
 
 
 
