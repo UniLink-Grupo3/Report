@@ -3816,6 +3816,29 @@ Para el desarrollo del informe en este sprint, optamos por dividirnos el capítu
 Durante este sprint, para proteger la rama “main” creamos una rama “develop” de la que cada integrante de nuestro grupo creó su propia sub-rama “feature” para subir un capítulo del reporte siguiendo las convenciones antes señaladas(conventional commit y git flow).
 
 
+<!--EDITANDO -->
+
+---
+
+
+### 6.2.3. Sprint 3
+
+En esta sección profundizamos en las funcionalidades de valor añadido de RideUp: mensajería en tiempo real, sistema de calificaciones, viajes recurrentes y notificaciones push. A continuación se describen los artefactos y evidencias generadas.
+
+
+
+
+
+
+
+
+
+
+
+
+<!--EDITANDO -->
+
+
 
 ## 6.3. Validation Interviews
 
