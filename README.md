@@ -3972,6 +3972,21 @@ Muestra de nuestra API hecha con Spring Boot:
 ---
 
 
+#### 6.2.3.6. Services Documentation Evidence for Sprint Review. 
+
+- Swagger UI actualizado en https://api.rideup.com/docs con todos los nuevos endpoints (/chat, /ratings, /recurring-trips).
+- Guías de uso de WebSocket y configuración de FCM.
+
+---
+
+<img src="https://raw.githubusercontent.com/UniLink-Grupo3/Report/feature/chapter-VI/assets/backend/swagger.jpg?raw=true" alt="" width="650px">
+
+<img src="https://github.com/UniLink-Grupo3/Report/blob/feature/chapter-V/assets/backend/prueba%202.png?raw=true" alt="" width="650px">
+
+<img src="https://github.com/UniLink-Grupo3/Report/blob/feature/chapter-V/assets/backend/prueba%201.png?raw=true" alt="" width="650px">
+
+---
+
 
 
 
