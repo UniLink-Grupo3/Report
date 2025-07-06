@@ -3936,6 +3936,24 @@ Link del Trello: [Ir a Trello](https://trello.com/invite/b/682137d6cc19197ed3a8e
 ---
 
 
+#### 6.2.3.4. Testing Suite Evidence for Sprint Review. 
+
+Dado que estamos en la fase final de diseño del prototipo de la aplicación. Estamos evaluando la cobertura de pruebas unitarias, pruebas de integración, reporte de QA automático y evidencia de pruebas manuales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!--EDITANDO -->
