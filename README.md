@@ -237,7 +237,8 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <td><strong>Ramirez Ortega, Diego Miguel</strong><br><br>
     <strong>TB1:</strong> Realicé la el Context mapping para entender las relaciones entre los bounded context. Luego, he realizado los diagramas de contexto y contenedor pertenecientes al modelo C4. Por último, he realizado el diagrama de despliegue del sistema. Esto me permitio aprender y actualizar mi conocimiento sobre la arquitectura en general de un sistema y la relación entre sus componentes<br><br>
     <strong>TP:</strong>Realicé algunas vistas del la app mobile. Durante la realización de las vistas de la aplicación móvil, actualicé y reforcé mis conocimientos en desarrollo de software mediante la implementación de patrones de diseño modernos como MVVM, el uso de tecnologías actualizadas como Jetpack Compose/SwiftUI, y la aplicación de buenas prácticas de UI/UX y responsive design.<br><br>
-    <strong>TB2:</strong> Realice las vista de perfil de la app mobile. Durante la realizacion de la vista, reforcé y actualicé mis conocimientos sobre flutter. Revisando la documentacion y tutoriales pude completar mi parte de proyecto. Además, de poder aplicar una buena arquitectura en los proyectos móbiles.
+    <strong>TB2:</strong> Realice las vista de perfil de la app mobile. Durante la realizacion de la vista, reforcé y actualicé mis conocimientos sobre flutter. Revisando la documentacion y tutoriales pude completar mi parte de proyecto. Además, de poder aplicar una buena arquitectura en los proyectos móbiles.<br><br>
+    <strong>TF:</strong> Realice el desarrollo de la lógica en la vista perfil de la aplicación flutter. Para aplicar esto he investigado sobre como consumir un servicio para recopilar los datos y también buenas practicas para la implementación correcta de blocs para esta sección en un proyecto flutter. 
     </td> 
   </tr>
 
@@ -266,7 +267,9 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <strong>TB1:</strong><br> Para desarrollar los diagramas corespondientes consulté documentación para aplicar buenas prácticas y que tenga coherencia. Además, para el diseño de los diagramas, he consultado la documentación de DSL, lenguaje utilizado en Structurz, en donde he realizado los diagramas de contexto y componentes. Esto me ayudó a reforzar mi interés por el aprendizaje continuo sobre los conocimientos adquiridos a lo largo de la carrera<br><br>
     <strong>TP:</strong><br> Durante el desarrollo de las vistas de la aplicación móvil, identifiqué la necesidad de aprender constantemente para resolver desafíos técnicos y mejorar la calidad del producto. Investigué y apliqué conceptos actualizados como arquitectura MVVM, Jetpack Compose/SwiftUI y principios de UI/UX, lo que me permitió optimizar el rendimiento y la experiencia de usuario.<br><br> 
     <strong>TB2:</strong><br>
-    Durante el desarrollo de la vista desarrolladá, identifiqué la necesidad de investigar sobre flutter y sus diferentes widgets que tiene para poder desarrollar una interfaz agradables. Además, los principipos UI/UX investigados me permitió optimizar el rendimiento y la experiencia de usuario en la vista del perfil.
+    Durante el desarrollo de la vista desarrolladá, identifiqué la necesidad de investigar sobre flutter y sus diferentes widgets que tiene para poder desarrollar una interfaz agradables. Además, los principipos UI/UX investigados me permitió optimizar el rendimiento y la experiencia de usuario en la vista del perfil.<br><br>
+    <strong>TF:</strong><br>
+     Durante el desarrollo del perfil del conductor, adquirí habilidades clave en Flutter como la implementación del patrón BLoC para gestión de estado, consumo de APIs con caché local y sincronización de datos. Esta experiencia no solo me permitió resolver los desafíos técnicos del proyecto actual, sino que también me proporcionó conocimientos transferibles para futuros desarrollos, optimizando tiempos y calidad del código. 
     </td><br><br>
 
   </tr>
