@@ -4522,7 +4522,7 @@ Video del About the Product culminado:
   <img src="./assets/Sprint3/commits/about-the-product.png">
 </div><br>
 
-**Video :**  [https://www.canva.com/design/DAGstLjtIUQ/MRhCjej7GzMUpDlVhdek-g/view?utm_content=DAGstLjtIUQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h128546b5ef](https://www.canva.com/design/DAGstLjtIUQ/MRhCjej7GzMUpDlVhdek-g/view?utm_content=DAGstLjtIUQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h128546b5ef)
+**Video :**  [https://youtu.be/UNVVtwHYouk](https://youtu.be/UNVVtwHYouk)
 
 
 # Conclusiones
@@ -4560,19 +4560,19 @@ Por último, la definición adecuada de los Bounded Contexts que se emplearán e
 [https://lucid.app/lucidchart/d3478451-d855-4364-8380-db7c3b9a8999/edit?invitationId=inv_d3ac8bfe-466b-405b-9556-2ad17c5aaa7b&page=0_0#](https://lucid.app/lucidchart/d3478451-d855-4364-8380-db7c3b9a8999/edit?invitationId=inv_d3ac8bfe-466b-405b-9556-2ad17c5aaa7b&page=0_0#)
 
 - About-the-product: <br>
-[https://www.canva.com/design/DAGstLjtIUQ/MRhCjej7GzMUpDlVhdek-g/view?utm_content=DAGstLjtIUQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h128546b5ef](https://www.canva.com/design/DAGstLjtIUQ/MRhCjej7GzMUpDlVhdek-g/view?utm_content=DAGstLjtIUQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h128546b5ef)
+[https://youtu.be/UNVVtwHYouk](https://youtu.be/UNVVtwHYouk)
 
 - About-the-team: <br>
-[]()
+[https://youtu.be/QbI7y6DZ-n0](https://youtu.be/QbI7y6DZ-n0)
 
 - Landing Page desplegado: <br>
-[]()
+[https://unilink-grupo3.github.io/RideUp-Landing-Page/](https://unilink-grupo3.github.io/RideUp-Landing-Page/)
 
 - Backend desplegado: <br>
-[]()
+[https://movbackfinallll-production.up.railway.app/](https://movbackfinallll-production.up.railway.app/)
 
 - Andrid desplegado: <br>
-[]()
+[https://unilink-kotlin.web.app](https://unilink-kotlin.web.app)
 
 - Flutter desplegado: <br>
-[]()
+[https://app-flutter-rideup.web.app/](https://app-flutter-rideup.web.app/)
