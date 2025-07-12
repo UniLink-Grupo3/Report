@@ -4214,7 +4214,34 @@ Se presentan las capturas de la ejecución de las aplicaciones móviles desarrol
 
 **App móvil en Kotlin**
 
-
+<p align="center">
+  <img align="center" src="assets/Sprint3/CapturaKotlin/1.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaKotlin/2.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaKotlin/3.png" style="width:300px; margin: 10px;">
+</p>
+<p align="center">
+  <img align="center" src="assets/Sprint3/CapturaKotlin/4.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaKotlin/5.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaKotlin/6.png" style="width:300px; margin: 10px;">
+</p>
+<p align="center">
+  <img align="center" src="assets/Sprint3/CapturaKotlin/7.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaKotlin/8.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaKotlin/9.png" style="width:300px; margin: 10px;">
+</p>
+<p align="center">
+  <img align="center" src="assets/Sprint3/CapturaKotlin/10.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaKotlin/11.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaKotlin/12.png" style="width:300px; margin: 10px;">
+</p>
+<p align="center">
+  <img align="center" src="assets/Sprint3/CapturaKotlin/13.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaKotlin/14.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaKotlin/15.png" style="width:300px; margin: 10px;">
+</p>
+<p align="center">
+  <img align="center" src="assets/Sprint3/CapturaKotlin/16.png" style="width:300px; margin: 10px;">
+</p>
 
 ---
 
@@ -4233,6 +4260,7 @@ Se presentan las capturas de la ejecución de las aplicaciones móviles desarrol
 <p align="center">
   <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-7.png" style="width:300px; margin: 10px;">
   <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-8.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-9.png" style="width:300px; margin: 10px;">
 </p>
 
 ---
@@ -4295,21 +4323,15 @@ Retrospectiva:
 
 Durante este sprint, para proteger la rama “main” creamos una rama “develop” de la que cada integrante de nuestro grupo creó su propia sub-rama “feature” para subir un capítulo del reporte siguiendo las convenciones antes señaladas(conventional commit y git flow).
 
+**Capturas del GitHub de participación**
 
+<p align="center">
+  <img align="center" src="assets/Sprint3/commits/Network-Backend.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/commits/Network-flutter.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/commits/Network-Kotlin.png" style="width:300px; margin: 10px;">
+</p>
 
-
-
-
-
-
-
-
-
-
-
-<!--EDITANDO -->
-
-
+<br>
 
 ## 6.3. Validation Interviews
 
@@ -4494,21 +4516,15 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 ## 6.4. Video About-the-Product
 
-Video del About the Product en el flutter del segmento objetivo: Estudiante Universitario con vehiculo
-
-**Video :**  [https://youtu.be/yJnzieK0mB0](https://youtu.be/yJnzieK0mB0)
-
-<div style="text-align: center;">
-  <img src="./assets/capturas-flutter/about the product.png">
-</div>
-
-Video del About the Product en el Android del segmento objetivo: Estudiante Universitario sin vehiculo
-
-**Video :**  [https://youtu.be/-0lzqxT2WyA](https://youtu.be/-0lzqxT2WyA)
+Video del About the Product culminado:
+* En el flutter del segmento objetivo: Estudiante Universitario con vehiculo. 
+* En el Kotlin del segemento objetivo: Estudiante Universitario sin vehiculo.
 
 <div style="text-align: center;">
-  <img src="./assets/capturas-flutter/about the product - android.png">
-</div>
+  <img src="./assets/Sprint3/commits/about-the-product.png">
+</div><br>
+
+**Video :**  [https://www.canva.com/design/DAGstLjtIUQ/MRhCjej7GzMUpDlVhdek-g/view?utm_content=DAGstLjtIUQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h128546b5ef](https://www.canva.com/design/DAGstLjtIUQ/MRhCjej7GzMUpDlVhdek-g/view?utm_content=DAGstLjtIUQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h128546b5ef)
 
 
 # Conclusiones
@@ -4544,3 +4560,21 @@ Por último, la definición adecuada de los Bounded Contexts que se emplearán e
 
 - Bounded Context Domain Layer Class Diagrams - 2: <br>
 [https://lucid.app/lucidchart/d3478451-d855-4364-8380-db7c3b9a8999/edit?invitationId=inv_d3ac8bfe-466b-405b-9556-2ad17c5aaa7b&page=0_0#](https://lucid.app/lucidchart/d3478451-d855-4364-8380-db7c3b9a8999/edit?invitationId=inv_d3ac8bfe-466b-405b-9556-2ad17c5aaa7b&page=0_0#)
+
+- About-the-product: <br>
+[https://www.canva.com/design/DAGstLjtIUQ/MRhCjej7GzMUpDlVhdek-g/view?utm_content=DAGstLjtIUQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h128546b5ef](https://www.canva.com/design/DAGstLjtIUQ/MRhCjej7GzMUpDlVhdek-g/view?utm_content=DAGstLjtIUQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h128546b5ef)
+
+- About-the-team: <br>
+[]()
+
+- Landing Page desplegado: <br>
+[]()
+
+- Backend desplegado: <br>
+[]()
+
+- Andrid desplegado: <br>
+[]()
+
+- Flutter desplegado: <br>
+[]()
