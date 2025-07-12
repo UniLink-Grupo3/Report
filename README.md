@@ -4052,8 +4052,6 @@ Link: [https://github.com/orgs/UniLink-Grupo3/repositories](https://github.com/o
 #### 6.2.2.8. Team Collaboration Insights during Sprint.
 
 
-<!--EDITANDO -->
-
 **Distribución de aportes en el informe:**
 
 **URL del repositorio para el Project Report en la organización de GitHub del equipo:** [https://github.com/UniLink-Grupo3/Report](https://github.com/UniLink-Grupo3/Report)
@@ -4064,15 +4062,249 @@ Para el desarrollo del informe en este sprint, optamos por dividirnos el capítu
 
 | Integrante  | Aporte en el informe                                                                                                                                                       |
 |-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  Diego  | Sprint 3, Development Evidence for Sprint Review, Validation Interviews.                                                                                           |
-| Paolo     | Sprint planning 3, Deployment Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
-| Maria Fernanda   | Sprint 3, Development Evidence for Sprint Review, Validation Interviews, Mejora continua en Domain Driven Design Architecture, Heuristics evaluation.              |
+|  Diego  | Sprint 2, Development Evidence for Sprint Review, Validation Interviews.                                                                                           |
+| Paolo     | Sprint planning 2, Deployment Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
+| Maria Fernanda   | Sprint 2, Development Evidence for Sprint Review, Validation Interviews, Mejora continua en Domain Driven Design Architecture, Heuristics evaluation.              |
 | Samuel  | Validation Interviews, Development Evidence for Sprint Review.                                                                                                      |
-| Maria    | Sprint 3, Validation Interviews, Video About-the-product.                                                                                                           |
+| Maria    | Sprint 2, Validation Interviews, Video About-the-product.                                                                                                           |
 
 
 
 Durante este sprint, para proteger la rama “main” creamos una rama “develop” de la que cada integrante de nuestro grupo creó su propia sub-rama “feature” para subir un capítulo del reporte siguiendo las convenciones antes señaladas(conventional commit y git flow).
+
+
+<!--EDITANDO -->
+
+---
+
+
+### 6.2.3. Sprint 3
+
+En esta sección profundizamos en las funcionalidades de valor añadido de RideUp: mensajería en tiempo real, sistema de calificaciones, viajes recurrentes y notificaciones push. A continuación se describen los artefactos y evidencias generadas.
+
+
+
+#### 6.2.3.1. Sprint Planning 3
+
+En esta parte mostramos las tareas que se realizaron en este sprint.
+
+Link del Trello: [Ir a Trello](https://trello.com/invite/b/682137d6cc19197ed3a8ed8c/ATTI9ddb4fdb698689e540dc94e77ea61eb2860AC9B6/unilink)
+
+
+<table border="1px" align="center">
+      <tr>
+          <th style="font-weight: bold;" >Sprint #</th>
+          <th style="font-weight: bold;" >Sprint 3</th>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Planning Background</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Date</td>
+          <td>23-06-2025</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Time</td>
+          <td>5:00 pm - 10:00 pm</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Location</td>
+          <td>Canal de Voz de Discord</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prepared By</td>
+          <td>Ramirez Ortega, Diego Miguel</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Attendees (to planning meeting)</td>
+          <td>
+              Belleza Tello, Paolo Eduardo<br>
+              Fernandez Alva, María Fernanda<br>
+              Valera Garces, Samuel Ignacio<br>
+              Ramirez Ortega, Diego Miguel<br>
+              Pilares Pocohuanca, Maria<br>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 2 Review Summary</td>
+          <td>Al ser nuestro tercer sprint de desarrollo, contamos con un review summary del sprint.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 2 Retrospective Summary</td>
+          <td>Al ser nuestro tercer sprint de desarrollo, se presentan planes de mejora.</td>
+      </tr>
+      <tr> 
+          <td colspan="2" style="font-weight: bold;">Sprint Goal & User Stories</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 3 Goal</td>
+          <td>
+              El objetivo principal de este sprint es implementar chat in-app para conductor–pasajero, diseñar e integrar módulo de calificaciones y comentarios, habilitar la creación y gestión de viajes recurrentes (“Viaje Favorito”), configurar notificaciones push para eventos clave (confirmación de reserva, llegada, recordatorios).
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sprint 3 Velocity</td>
+          <td>28</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Sum of Story Points</td>
+          <td>35</td>
+      </tr>
+    </table>
+
+
+---
+
+#### 6.2.3.2. Sprint Backlog 3.
+
+
+
+| ID   | Historia de Usuario                                                         | Tareas principales                                                              | Est. (pts) |
+| ---- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------- |
+| HU23 | Como pasajero quiero chatear con el conductor antes del viaje               | – Diseño UI chat<br>– API WebSocket<br>– Componente UI en Flutter/Kotlin        | 8          |
+| HU24 | Como usuario quiero dejar calificación tras el viaje                        | – Modelo Rating<br>– Endpoint POST/GET<br>– Pantalla feedback                   | 5          |
+| HU25 | Como conductor quiero definir viajes recurrentes                            | – Lógica recurrencia (cron-like)<br>– UI selección días y horarios              | 8          |
+| HU26 | Como usuario quiero recibir notificaciones push de eventos importantes      | – Configurar Firebase Cloud Messaging<br>– Integrar en clientes Android/Flutter | 5          |
+| T27  | Refactor de servicios de reserva para soportar nuevas rutas de notificación | – Modularizar capa NotificationService                                          | 3          |
+| T28  | Documentación de APIs y nuevos microservicios                               | – Swagger/OpenAPI<br>– Actualizar README y portal de Docs                       | 3          |
+| T29  | Actualizar suite de pruebas para cubrir nuevos casos de uso                 | – Unit tests, integración y pruebas UI<br>– Mock de WebSocket                   | 5          |
+
+
+---
+
+
+#### 6.2.3.3. Development Evidence for Sprint Review. 
+
+
+| Repository                                | Branch  | Commit id | Commit Message                                         | Commit Message Body | Committed On (Date) |
+|-------------------------------------------|---------|------------|--------------------------------------------------------|---------------------|----------------------|
+| UniLink/App-Mobile-Flutter                | develop | 5776d11    | Merge pull request #4 from UniLink-Grupo3/develop      | -                   | 03/07/2025           |
+| UniLink/App-Mobile-Flutter                | develop | 719b854    | Merge branch 'develop' of https://github.com/...      | -                   | 03/07/2025           |
+| UniLink/App-Mobile-Flutter                | develop | a84e093    | feat: add new data to trip card                        | -                   | 01/07/2025           |
+| UniLink/App-Mobile-Flutter                | develop | b5fea32    | fix: color of bottom profile                           | -                   | 01/07/2025           |
+| UniLink/App-Mobile-Flutter                | develop | 4b9e393    | feat: update passenger list display                    | -                   | 01/07/2025           |
+| UniLink/App-Mobile-Flutter                | develop | fa05b0b    | feat: Added register page button navigation            | -                   | 01/07/2025           |
+| UniLink/App-Mobile-Flutter                | develop | 61d7331    | Feat: Added navigation to login page buttons           | -                   | 01/07/2025           |
+| UniLink/App-Mobile-Flutter                | develop | b447550    | style: update logo in main page                        | -                   | 01/07/2025           |
+| UniLink/App-Mobile-Flutter                | develop | 5b8028d    | chore: add logo image to assets                        | -                   | 02/07/2025           |
+| UniLink/App-Mobile-Flutter                | develop | c23433e    | style: update colors in profile page                   | -                   | 03/07/2025           |
+| UniLink/App-Mobile-Flutter                | develop | f953972    | style: Update colors on the main page navigation bar   | -                   | 03/07/2025           |
+
+
+
+---
+
+
+#### 6.2.3.4. Testing Suite Evidence for Sprint Review. 
+
+Dado que estamos en la fase final de diseño del prototipo de la aplicación. Estamos evaluando la cobertura de pruebas unitarias, pruebas de integración, reporte de QA automático y evidencia de pruebas manuales.
+
+
+---
+
+
+
+
+#### 6.2.3.5. Execution Evidence for Sprint Review. 
+
+Se presentan las capturas de la ejecución de las aplicaciones móviles desarrolladas en Flutter y Kotlin, donde se evidencia el funcionamiento de las principales funcionalidades implementadas durante el Sprint.
+
+---
+
+**App móvil en Kotlin**
+
+
+
+---
+
+**App móvil en Flutter**
+
+<p align="center">
+  <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-1.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-2.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-3.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-4.png" style="width:300px; margin: 10px;">
+</p>
+<p align="center">
+  <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-5.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-6.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-7.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-8.png" style="width:300px; margin: 10px;">
+</p>
+
+---
+
+
+#### 6.2.3.6. Services Documentation Evidence for Sprint Review. 
+
+- Swagger UI actualizado en https://api.rideup.com/docs con todos los nuevos endpoints (/chat, /ratings, /recurring-trips).
+- Guías de uso de WebSocket y configuración de FCM.
+
+---
+
+<img src="https://raw.githubusercontent.com/UniLink-Grupo3/Report/feature/chapter-VI/assets/backend/swagger.jpg?raw=true" alt="" width="650px">
+
+<img src="https://github.com/UniLink-Grupo3/Report/blob/feature/chapter-V/assets/backend/prueba%202.png?raw=true" alt="" width="650px">
+
+<img src="https://github.com/UniLink-Grupo3/Report/blob/feature/chapter-V/assets/backend/prueba%201.png?raw=true" alt="" width="650px">
+
+---
+
+
+
+#### 6.2.3.7. Software Deployment Evidence for Sprint Review.
+
+El proyecto se trabajó en un repositorio dentro de nuestra organización:
+
+<img src="https://raw.githubusercontent.com/UniLink-Grupo3/Report/312d587669969068a316f7c4dbdd7cbedc4e84ac/assets/softw_deployment.jpg?raw=true" alt="" width="650px">
+
+
+Link: [https://github.com/orgs/UniLink-Grupo3/repositories](https://github.com/orgs/UniLink-Grupo3/repositories)
+
+
+---
+
+
+#### 6.2.3.8. Team Collaboration Insights during Sprint.
+
+
+**Distribución de aportes en el informe:**
+
+**URL del repositorio para el Project Report en la organización de GitHub del equipo:** [https://github.com/UniLink-Grupo3/Report](https://github.com/UniLink-Grupo3/Report)
+
+**¿Cómo se han desarrollado las actividades de elaboración del informe?**
+
+Para el desarrollo del informe en este último sprint, optamos por dividirnos el capítulo de la siguiente manera:
+
+| Integrante  | Aporte en el informe                                                                                                                                                       |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  Diego  | Sprint 3, Development Evidence for Sprint Review, Validation Interviews.                                                                                           |
+| Paolo     | Sprint planning 3, Deployment Evidence for Sprint Review, Software Deployment Evidence for Sprint Review, Team Collaboration Insights during Sprint. |
+| Maria Fernanda   | Sprint 3, Development Evidence for Sprint Review, Validation Interviews, Mejora continua en Domain Driven Design Architecture, Heuristics evaluation.              |
+| Samuel  | Validation Interviews, Development Evidence for Sprint Review.                                                                                                      |
+| Maria    | Sprint 3, Validation Interviews, Testing Suite Evidence for Sprint Review, Video About-the-product.                                                                        |
+
+Retrospectiva:
+
+- Lo que salió bien: comunicación asíncrona efectiva, arquitectura modular permitió iterar rápido.
+- A mejorar: definir con más detalle ciertos flujos de error en la historia de usuario.
+- Acción acordada: documentar patrones de manejo de errores antes del próximo sprint.
+
+Durante este sprint, para proteger la rama “main” creamos una rama “develop” de la que cada integrante de nuestro grupo creó su propia sub-rama “feature” para subir un capítulo del reporte siguiendo las convenciones antes señaladas(conventional commit y git flow).
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--EDITANDO -->
 
 
 
