@@ -1517,8 +1517,7 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
             <p><strong>Dado</strong> que el usuario ha accedido a la plataforma,</p>
             <p><strong>Cuando</strong> el usuario navega a la sección de planes de servicio,</p>
             <p><strong>Entonces</strong> se muestran todos los planes disponibles en una lista, incluyendo el nombre del plan, precio y beneficios principales.</p>
-        </td>
-        <td>
+        <br>
             <p>Escenario 2: Ver detalles de un plan específico</p>
             <p><strong>Dado</strong> que el usuario está visualizando los planes de servicio,</p>
             <p><strong>Cuando</strong> el usuario selecciona un plan específico de la lista,</p>
@@ -1539,8 +1538,7 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
             <p><strong>Dado</strong> que el usuario ha visualizado los planes de servicio disponibles,</p>
             <p><strong>Cuando</strong> el usuario selecciona un plan de la lista,</p>
             <p><strong>Entonces</strong> se redirige al usuario a una página de confirmación, mostrando un resumen del plan seleccionado.</p>
-        </td>
-        <td>
+        <br>
             <p>Escenario 2: Confirmación de selección del plan</p>
             <p><strong>Dado</strong> que el usuario ha seleccionado un plan,</p>
             <p><strong>Cuando</strong> el usuario revisa el resumen del plan en la página de confirmación,,</p>
@@ -1561,14 +1559,12 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
             <p><strong>Dado</strong>  que el usuario ha confirmado la selección de un plan y ha sido redirigido a la página de pago,
             <p><strong>Cuando</strong> el usuario introduce los detalles de pago (tarjeta de crédito, PayPal, etc.),</p>
             <p><strong>Entonces</strong> el sistema verifica la validez de los detalles ingresados y muestra un resumen de la transacción.</p>
-        </td>
-        <td>
+        <br>
             <p>Escenario 2: Confirmación del pago</p>
             <p><strong>Dado</strong> que el usuario ha ingresado detalles de pago válidos,</p>
             <p><strong>Cuando</strong> el usuario confirma la transacción,</p>
             <p><strong>Entonces</strong> el sistema procesa el pago y muestra una confirmación en pantalla, indicando que el plan ha sido activado con éxito.</p>
-        </td>
-        <td>
+        <br>
             <p>Escenario 3: Notificación de pago exitoso</p>
             <p><strong>Dado</strong> que el pago ha sido procesado con éxito,</p>
             <p><strong>Cuando</strong> la transacción se completa,</p>
@@ -1589,8 +1585,7 @@ En esta sección se resume la información recopilada. Se presentan dos tablas q
             <p><strong>Dado</strong> que el usuario tiene un plan activo en su cuenta,</p>
             <p><strong>Cuando</strong> el usuario accede a la sección de “Mis planes” o “Mi cuenta”,</p>
             <p><strong>Entonces</strong> se le muestra la opción de cancelar su suscripción o plan actual.</p>
-        </td>
-        <td>
+        <br>
             <p>Escenario 2: Coonfirmación de la cancelación</p>
             <p><strong>Dado</strong> que el usuario ha solicitado cancelar su plan,</p>
             <p><strong>Cuando</strong> el usuario hace clic en “Cancelar plan” y se le solicita confirmar la acción,</p>
