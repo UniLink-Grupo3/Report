@@ -3948,26 +3948,30 @@ Dado que estamos en la fase final de diseño del prototipo de la aplicación. Es
 
 #### 6.2.3.5. Execution Evidence for Sprint Review. 
 
-En este tercer sprint, logramos como última fase de nuestro producto final, desarrollar la API hecha con Java en Spring Boot.
-Muestra de nuestra API hecha con Spring Boot:
-
-<!--1ra imagen -->
+Se presentan las capturas de la ejecución de las aplicaciones móviles desarrolladas en Flutter y Kotlin, donde se evidencia el funcionamiento de las principales funcionalidades implementadas durante el Sprint.
 
 ---
 
-<!--EDITANDO -->
+**App móvil en Kotlin**
+
+
 
 ---
 
-<!--EDITANDO -->
+**App móvil en Flutter**
 
----
-
-<!--EDITANDO -->
-
----
-
-<!--última imagen -->
+<p align="center">
+  <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-1.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-2.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-3.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-4.png" style="width:300px; margin: 10px;">
+</p>
+<p align="center">
+  <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-5.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-6.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-7.png" style="width:300px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-8.png" style="width:300px; margin: 10px;">
+</p>
 
 ---
 
