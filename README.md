@@ -202,8 +202,9 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 <br>
 
 <p align="center">
-  <img align="center" src="assets/pulse.png" style="width:320px; margin: 10px;">
-  <img align="center" src="assets/pulse2.png" style="width:320px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/commits/Network-Backend.png" style="width:320px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/commits/Network-Kotlin.png" style="width:320px; margin: 10px;">
+  <img align="center" src="assets/Sprint3/commits/Network-flutter.png" style="width:320px; margin: 10px;">
 </p>
 <p align="center"><em> Colaboradores del proyecto en GitHub (App móvil en Kotlin , App móvil en Flutter y documentación)</em></p>
 
@@ -221,7 +222,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <strong>TB1:</strong> Durante el desarrollo del proyecto, reforcé conocimientos sobre Bounded Contexts y su importancia en la estructuración del sistema. Usé herramientas como Vertabelo y Structurizr para modelar los datos y la arquitectura.<br><strong>TP:</strong> Realicé la documentación del capitulo 6. También elabore la implementación del boton de cambio de idioma en el lading page y un poco de codificación en el backend.<br><strong>TB2:</strong> Realice las vistas de "Trip" en el flutter para el segmento objetivo de estudiante universitario con vehiculo.<br><strong>TF:</strong> Me encargué de implementar la aplicación en Flutter siguiendo el flujo diseñado. Programé las pantallas de registro, selección de destino y emparejamiento entre conductores y pasajeros. Junto con Paolo, aprendimos a integrar la API de Google Maps a la app para que los estudiantes pudieran visualizar su ubicación y destinos. Implementé los mapas y añadí los marcadores que indican la posición del conductor y los pasajeros.
 </td>
     <td rowspan="5">
-    <strong>TB1:</strong>Como equipo, actualizamos y fortalecimos nuestros conocimientos usando herramientas como Uxpressia para user persona y journey mapping, Structurizr para el modelo C4, y análisis de la competencia. Estas herramientas nos ayudaron a diseñar una solución de software más completa y centrada en el usuario.<br><br><strong>TP:</strong> Como equipo, tuvimos que repasar y volver a ver las grabaciones de las clases del profesor, así como revisar su repositorio con los proyectos trabajados en clase. Sin estos recursos, habría sido muy difícil desarrollar el proyecto de forma individual.<br><br><strong>TB2:</strong> Como equipo, nos dividimos el trabajo con respecto a nuestras fortalezas, y logramos tener un avance para esta entrega, lo unico que nos falta como grupo es diseño.</td>
+    <strong>TB1:</strong>Como equipo, actualizamos y fortalecimos nuestros conocimientos usando herramientas como Uxpressia para user persona y journey mapping, Structurizr para el modelo C4, y análisis de la competencia. Estas herramientas nos ayudaron a diseñar una solución de software más completa y centrada en el usuario.<br><br><strong>TP:</strong> Como equipo, tuvimos que repasar y volver a ver las grabaciones de las clases del profesor, así como revisar su repositorio con los proyectos trabajados en clase. Sin estos recursos, habría sido muy difícil desarrollar el proyecto de forma individual.<br><br><strong>TB2:</strong> Como equipo, nos dividimos el trabajo con respecto a nuestras fortalezas, y logramos tener un avance para esta entrega, lo unico que nos falta como grupo es diseño.<br><br><strong>TF:</strong> Como equipo, tuvimos que profundizar en el uso de herramientas que ya habíamos empezado a trabajar en clase, como Flutter. Sin embargo, integrar nuevas funcionalidades como la API de Google Maps nos llevó a investigar de forma autónoma. Revisamos tutoriales en YouTube y documentación oficial para entender cómo implementar correctamente los mapas, los marcadores y las rutas, lo cual nos permitió complementar lo aprendido en el curso y aplicarlo de forma práctica en nuestro proyecto final.</td>
   </tr>
   <tr>
     <td><strong>Belleza Tello, Paolo Eduardp</strong><br>
@@ -249,8 +250,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
     <td><strong>Fernandez Alva, Maria Fernanda</strong><br>
     <strong>TB1:</strong> Para retomar el uso de estas herramientas, recurrí a videos de YouTube y documentación oficial. Apliqué estrategias de autoaprendizaje, como el estudio del modelo C4, para elaborar diagramas del sistema.<br><strong>TP:</strong> Para implementar el botón tuve que volver a estudiar como era el html como css con ayuda de videos y paginas web. Tambien tuve que buscar tutoriales para saber como desplegar la app móvil en Firebase.<br><strong>TB2:</strong> Para implementar las vista del trip, tenia que estudiar la interaccion con la vista home y la vista trip , para que pasaran los datos , lo cual se me dificulto.<br><strong>TF:</strong> Para completar esta implementación, reforcé mis conocimientos sobre manejo de estados en Flutter y uso de widgets personalizados. Además, aprendí a trabajar con la API de Google Maps, algo que inicialmente no dominaba. Junto con Paolo, vimos tutoriales en YouTube para aprender a generar la clave de la API, configurar permisos, y mostrar correctamente los mapas con sus respectivos marcadores. Este proceso nos demostró lo importante que es estar en constante aprendizaje para afrontar nuevos desafíos en el desarrollo de software.</td>
     <td rowspan="5">
-    <strong>TB1:</strong> El uso de nuevas metodologías y entrevistas a usuarios nos impulsó a investigar y aprender de forma continua. Este proceso nos permitió identificar necesidades reales y aplicar estrategias de aprendizaje colaborativo, reconociendo así el valor del aprendizaje permanente en nuestra formación profesional.<br><br><strong>TP:</strong> Usar Android Studio por primera vez, junto con su estructura para desarrollar un proyecto, fue un gran desafío. Sin embargo, nos motivó mucho descubrir cómo se crea una aplicación y cómo se trabaja con este nuevo lenguaje llamado Kotlin.
-    <br><br><strong>TB2:</strong> Usar Flutter por primera vez , fue mas sencillo entenderlo que android studio, Habia sus dificultades, pero se podia entender de mejor manera. Y elaboramos un buen armado de la aplicación móvil.</td>
+    <strong>TB1:</strong> El uso de nuevas metodologías y entrevistas a usuarios nos impulsó a investigar y aprender de forma continua. Este proceso nos permitió identificar necesidades reales y aplicar estrategias de aprendizaje colaborativo, reconociendo así el valor del aprendizaje permanente en nuestra formación profesional.<br><br><strong>TP:</strong> Usar Android Studio por primera vez, junto con su estructura para desarrollar un proyecto, fue un gran desafío. Sin embargo, nos motivó mucho descubrir cómo se crea una aplicación y cómo se trabaja con este nuevo lenguaje llamado Kotlin.<br><br><strong>TB2:</strong> Usar Flutter por primera vez , fue mas sencillo entenderlo que android studio, Habia sus dificultades, pero se podia entender de mejor manera. Y elaboramos un buen armado de la aplicación móvil.<br><br><strong>TF:</strong> A lo largo del desarrollo del proyecto, nos dimos cuenta de que lo aprendido en clase no siempre cubría todos los casos reales que enfrentamos. Esto nos motivó a seguir investigando por cuenta propia, reforzando nuestros conocimientos y descubriendo nuevas formas de implementar soluciones. Reconocimos que el aprendizaje permanente es clave para enfrentar los desafíos del desarrollo de software y seguir creciendo profesionalmente más allá del entorno académico.</td>
   </tr>
   <tr>
     <td><strong>Belleza Tello, Paolo Eduardo</strong><br>
@@ -4223,11 +4223,13 @@ Se presentan las capturas de la ejecución de las aplicaciones móviles desarrol
   <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-1.png" style="width:300px; margin: 10px;">
   <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-2.png" style="width:300px; margin: 10px;">
   <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-3.png" style="width:300px; margin: 10px;">
-  <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-4.png" style="width:300px; margin: 10px;">
 </p>
 <p align="center">
+  <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-4.png" style="width:300px; margin: 10px;">
   <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-5.png" style="width:300px; margin: 10px;">
   <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-6.png" style="width:300px; margin: 10px;">
+</p>
+<p align="center">
   <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-7.png" style="width:300px; margin: 10px;">
   <img align="center" src="assets/Sprint3/CapturaFlutter/Captura-8.png" style="width:300px; margin: 10px;">
 </p>
